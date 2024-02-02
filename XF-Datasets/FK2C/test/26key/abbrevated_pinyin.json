@@ -1,0 +1,4500 @@
+{"input": "my", "target": "没有"}
+{"input": "hd", "target": "好的"}
+{"input": "ky", "target": "可以"}
+{"input": "xz", "target": "现在"}
+{"input": "xx", "target": "谢谢"}
+{"input": "bsh", "target": "不是"}
+{"input": "msh", "target": "没事"}
+{"input": "sm", "target": "什么"}
+{"input": "zg", "target": "这个"}
+{"input": "bzhd", "target": "不知道"}
+{"input": "hb", "target": "好吧"}
+{"input": "nh", "target": "你好"}
+{"input": "nn", "target": "那你"}
+{"input": "rh", "target": "然后"}
+{"input": "nm", "target": "你们"}
+{"input": "js", "target": "就是"}
+{"input": "jt", "target": "今天"}
+{"input": "gw", "target": "给我"}
+{"input": "mt", "target": "明天"}
+{"input": "wj", "target": "我就"}
+{"input": "wq", "target": "我去"}
+{"input": "wshm", "target": "为什么"}
+{"input": "hsh", "target": "还是"}
+{"input": "zdl", "target": "知道了"}
+{"input": "wzd", "target": "我知道"}
+{"input": "wxz", "target": "我现在"}
+{"input": "lm", "target": "了吗"}
+{"input": "hhh", "target": "哈哈哈"}
+{"input": "dbq", "target": "对不起"}
+{"input": "bhys", "target": "不好意思"}
+{"input": "yj", "target": "已经"}
+{"input": "kk", "target": "看看"}
+{"input": "mn", "target": "美女"}
+{"input": "ns", "target": "你是"}
+{"input": "rg", "target": "如果"}
+{"input": "sbs", "target": "是不是"}
+{"input": "lp", "target": "老婆"}
+{"input": "wybzd", "target": "我也不知道"}
+{"input": "hk", "target": "好看"}
+{"input": "shp", "target": "视频"}
+{"input": "jj", "target": "姐姐"}
+{"input": "xd", "target": "兄弟"}
+{"input": "lsh", "target": "老师"}
+{"input": "shmshh", "target": "什么时候"}
+{"input": "rhn", "target": "然后呢"}
+{"input": "wbzd", "target": "我不知道"}
+{"input": "wys", "target": "我也是"}
+{"input": "tm", "target": "他们"}
+{"input": "md", "target": "妈的"}
+{"input": "znl", "target": "在哪里"}
+{"input": "nxz", "target": "你现在"}
+{"input": "mbf", "target": "没办法"}
+{"input": "shjl", "target": "睡觉了"}
+{"input": "nzm", "target": "你怎么"}
+{"input": "ymy", "target": "有没有"}
+{"input": "chf", "target": "吃饭"}
+{"input": "wmy", "target": "我没有"}
+{"input": "yr", "target": "有人"}
+{"input": "wshh", "target": "晚上好"}
+{"input": "zmb", "target": "怎么办"}
+{"input": "bshl", "target": "不说了"}
+{"input": "mnsj", "target": "迷你世界"}
+{"input": "kym", "target": "可以吗"}
+{"input": "kyx", "target": "看一下"}
+{"input": "yw", "target": "因为"}
+{"input": "chj", "target": "吃鸡"}
+{"input": "zmy", "target": "怎么样"}
+{"input": "mz", "target": "名字"}
+{"input": "zdsh", "target": "真的是"}
+{"input": "nk", "target": "你看"}
+{"input": "ssm", "target": "是什么"}
+{"input": "hdhd", "target": "好的好的"}
+{"input": "wyj", "target": "我已经"}
+{"input": "wjd", "target": "我觉得"}
+{"input": "mgx", "target": "没关系"}
+{"input": "hmy", "target": "还没有"}
+{"input": "ddh", "target": "打电话"}
+{"input": "gc", "target": "刚才"}
+{"input": "nq", "target": "你去"}
+{"input": "smys", "target": "什么意思"}
+{"input": "fzh", "target": "反正"}
+{"input": "ll", "target": "来了"}
+{"input": "hjh", "target": "好家伙"}
+{"input": "xjj", "target": "小姐姐"}
+{"input": "jh", "target": "就好"}
+{"input": "hll", "target": "回来了"}
+{"input": "nzhd", "target": "你知道"}
+{"input": "bs", "target": "不说"}
+{"input": "sd", "target": "说的"}
+{"input": "yz", "target": "一直"}
+{"input": "xxn", "target": "谢谢你"}
+{"input": "nzj", "target": "你自己"}
+{"input": "zhj", "target": "直接"}
+{"input": "cfl", "target": "吃饭了"}
+{"input": "hq", "target": "回去"}
+{"input": "cq", "target": "出去"}
+{"input": "mshd", "target": "没事的"}
+{"input": "nky", "target": "你可以"}
+{"input": "dshq", "target": "多少钱"}
+{"input": "chbd", "target": "差不多"}
+{"input": "bkn", "target": "不可能"}
+{"input": "zhdm", "target": "知道吗"}
+{"input": "bwl", "target": "不玩了"}
+{"input": "rs", "target": "认识"}
+{"input": "qk", "target": "情况"}
+{"input": "kyy", "target": "可以呀"}
+{"input": "wzm", "target": "我怎么"}
+{"input": "mshm", "target": "没什么"}
+{"input": "yshm", "target": "有什么"}
+{"input": "wcl", "target": "我错了"}
+{"input": "slb", "target": "算了吧"}
+{"input": "wbh", "target": "我不会"}
+{"input": "thd", "target": "挺好的"}
+{"input": "wzhry", "target": "王者荣耀"}
+{"input": "wbs", "target": "我不是"}
+{"input": "zt", "target": "昨天"}
+{"input": "yby", "target": "要不要"}
+{"input": "bshb", "target": "不是吧"}
+{"input": "gq", "target": "过去"}
+{"input": "sbz", "target": "睡不着"}
+{"input": "dbd", "target": "对不对"}
+{"input": "nbsh", "target": "你不是"}
+{"input": "tnl", "target": "太难了"}
+{"input": "hbh", "target": "好不好"}
+{"input": "wky", "target": "我可以"}
+{"input": "fgw", "target": "发给我"}
+{"input": "qsh", "target": "其实"}
+{"input": "nznl", "target": "你在哪里"}
+{"input": "dshh", "target": "的时候"}
+{"input": "nss", "target": "你是谁"}
+{"input": "kyl", "target": "可以了"}
+{"input": "shshh", "target": "说实话"}
+{"input": "dmy", "target": "都没有"}
+{"input": "zhsh", "target": "只是"}
+{"input": "qd", "target": "确定"}
+{"input": "lt", "target": "聊天"}
+{"input": "sshm", "target": "说什么"}
+{"input": "bxh", "target": "不喜欢"}
+{"input": "njh", "target": "那就好"}
+{"input": "lh", "target": "厉害"}
+{"input": "dky", "target": "都可以"}
+{"input": "srkl", "target": "生日快乐"}
+{"input": "nzgm", "target": "你在干嘛"}
+{"input": "fcl", "target": "发错了"}
+{"input": "nsbsh", "target": "你是不是"}
+{"input": "gsw", "target": "告诉我"}
+{"input": "bll", "target": "不聊了"}
+{"input": "gshm", "target": "干什么"}
+{"input": "zgm", "target": "在干嘛"}
+{"input": "dwz", "target": "打王者"}
+{"input": "xzz", "target": "现在在"}
+{"input": "qc", "target": "起床"}
+{"input": "xwh", "target": "下午好"}
+{"input": "xj", "target": "小姐"}
+{"input": "wkk", "target": "我看看"}
+{"input": "yf", "target": "衣服"}
+{"input": "sys", "target": "啥意思"}
+{"input": "slsl", "target": "算了算了"}
+{"input": "wzhd", "target": "我真的"}
+{"input": "wzj", "target": "我自己"}
+{"input": "ygr", "target": "一个人"}
+{"input": "hdh", "target": "好的好"}
+{"input": "bhb", "target": "不会吧"}
+{"input": "mq", "target": "没钱"}
+{"input": "dbzhd", "target": "都不知道"}
+{"input": "mkd", "target": "没看到"}
+{"input": "zhbd", "target": "找不到"}
+{"input": "hky", "target": "还可以"}
+{"input": "szl", "target": "睡着了"}
+{"input": "yrm", "target": "有人吗"}
+{"input": "wdsj", "target": "我的世界"}
+{"input": "wp", "target": "我怕"}
+{"input": "ddd", "target": "对对对"}
+{"input": "zgmn", "target": "在干嘛呢"}
+{"input": "pf", "target": "皮肤"}
+{"input": "brs", "target": "不认识"}
+{"input": "lmy", "target": "了没有"}
+{"input": "shmg", "target": "什么鬼"}
+{"input": "byy", "target": "不一样"}
+{"input": "ygsh", "target": "应该是"}
+{"input": "jsm", "target": "叫什么"}
+{"input": "ysj", "target": "有时间"}
+{"input": "jzy", "target": "就这样"}
+{"input": "mnq", "target": "模拟器"}
+{"input": "zmkn", "target": "怎么可能"}
+{"input": "nsmsh", "target": "你什么时候"}
+{"input": "wgsn", "target": "我告诉你"}
+{"input": "zhgs", "target": "这个是"}
+{"input": "jsl", "target": "就算了"}
+{"input": "cll", "target": "出来了"}
+{"input": "xkl", "target": "辛苦了"}
+{"input": "kch", "target": "开车"}
+{"input": "bdl", "target": "不打了"}
+{"input": "myl", "target": "没有了"}
+{"input": "zhw", "target": "中午"}
+{"input": "fsl", "target": "烦死了"}
+{"input": "mwt", "target": "没问题"}
+{"input": "nkyx", "target": "你看一下"}
+{"input": "yky", "target": "也可以"}
+{"input": "bhd", "target": "不会的"}
+{"input": "djl", "target": "到家了"}
+{"input": "rhw", "target": "然后我"}
+{"input": "nbn", "target": "能不能"}
+{"input": "sk", "target": "上课"}
+{"input": "bky", "target": "不可以"}
+{"input": "xyl", "target": "下雨了"}
+{"input": "yt", "target": "一天"}
+{"input": "bbb", "target": "不不不"}
+{"input": "wll", "target": "我来了"}
+{"input": "ybs", "target": "又不是"}
+{"input": "fxb", "target": "放心吧"}
+{"input": "kxl", "target": "开学了"}
+{"input": "wjt", "target": "我今天"}
+{"input": "qswl", "target": "气死我了"}
+{"input": "zmsh", "target": "怎么说"}
+{"input": "zmhsh", "target": "怎么回事"}
+{"input": "xhn", "target": "喜欢你"}
+{"input": "hkd", "target": "好看的"}
+{"input": "nf", "target": "你发"}
+{"input": "zssm", "target": "这是什么"}
+{"input": "nxh", "target": "你喜欢"}
+{"input": "zch", "target": "支持"}
+{"input": "wjsh", "target": "我就是"}
+{"input": "dwyx", "target": "等我一下"}
+{"input": "xbl", "target": "下班了"}
+{"input": "jky", "target": "就可以"}
+{"input": "sbn", "target": "随便你"}
+{"input": "djh", "target": "大家好"}
+{"input": "nqd", "target": "你确定"}
+{"input": "nkk", "target": "你看看"}
+{"input": "wzl", "target": "我走了"}
+{"input": "fb", "target": "方便"}
+{"input": "sjb", "target": "神经病"}
+{"input": "rhj", "target": "然后就"}
+{"input": "lbl", "target": "来不来"}
+{"input": "fgn", "target": "发给你"}
+{"input": "df", "target": "地方"}
+{"input": "shjb", "target": "睡觉吧"}
+{"input": "bsl", "target": "别说了"}
+{"input": "wyq", "target": "我要去"}
+{"input": "bkq", "target": "不客气"}
+{"input": "wxhn", "target": "我喜欢你"}
+{"input": "zdxx", "target": "早点休息"}
+{"input": "wby", "target": "我不要"}
+{"input": "zyz", "target": "这样子"}
+{"input": "bxy", "target": "不需要"}
+{"input": "sql", "target": "生气了"}
+{"input": "mdl", "target": "没电了"}
+{"input": "tt", "target": "天天"}
+{"input": "kw", "target": "看我"}
+{"input": "rgn", "target": "如果你"}
+{"input": "zhmd", "target": "这么多"}
+{"input": "wsj", "target": "我手机"}
+{"input": "fgl", "target": "发过来"}
+{"input": "dldl", "target": "斗罗大陆"}
+{"input": "zshl", "target": "再说了"}
+{"input": "zds", "target": "早点睡"}
+{"input": "shbl", "target": "上班了"}
+{"input": "zhmk", "target": "这么快"}
+{"input": "wgj", "target": "我感觉"}
+{"input": "xgg", "target": "小哥哥"}
+{"input": "bhk", "target": "不好看"}
+{"input": "lll", "target": "来来来"}
+{"input": "nfx", "target": "你放心"}
+{"input": "mshl", "target": "没事了"}
+{"input": "shdl", "target": "收到了"}
+{"input": "qx", "target": "七夕"}
+{"input": "hlhl", "target": "好了好了"}
+{"input": "zsm", "target": "做什么"}
+{"input": "zhdl", "target": "找到了"}
+{"input": "nshn", "target": "你说呢"}
+{"input": "zhwh", "target": "中午好"}
+{"input": "kwx", "target": "开玩笑"}
+{"input": "xnl", "target": "想你了"}
+{"input": "dyxm", "target": "打游戏吗"}
+{"input": "shzhy", "target": "是这样"}
+{"input": "zwm", "target": "在外面"}
+{"input": "tp", "target": "图片"}
+{"input": "tr", "target": "突然"}
+{"input": "syn", "target": "所以呢"}
+{"input": "yyy", "target": "嘤嘤嘤"}
+{"input": "sw", "target": "上午"}
+{"input": "ndyx", "target": "你等一下"}
+{"input": "zhq", "target": "之前"}
+{"input": "hql", "target": "回去了"}
+{"input": "whsh", "target": "我还是"}
+{"input": "wyg", "target": "我一个"}
+{"input": "cwf", "target": "吃完饭"}
+{"input": "zmsn", "target": "怎么说呢"}
+{"input": "gmn", "target": "干嘛呢"}
+{"input": "dwzm", "target": "打王者吗"}
+{"input": "hxb", "target": "还行吧"}
+{"input": "wbwl", "target": "我不玩了"}
+{"input": "hjl", "target": "回家了"}
+{"input": "zdjd", "target": "真的假的"}
+{"input": "wyw", "target": "我以为"}
+{"input": "wgg", "target": "我刚刚"}
+{"input": "xxb", "target": "休息吧"}
+{"input": "nzgmn", "target": "你在干嘛呢"}
+{"input": "shzhd", "target": "说真的"}
+{"input": "zdsb", "target": "早点睡吧"}
+{"input": "hhb", "target": "还好吧"}
+{"input": "xxsh", "target": "小学生"}
+{"input": "yzm", "target": "验证码"}
+{"input": "gns", "target": "跟你说"}
+{"input": "nzg", "target": "你这个"}
+{"input": "bsw", "target": "不是我"}
+{"input": "wdt", "target": "我的天"}
+{"input": "jzd", "target": "就知道"}
+{"input": "wmsh", "target": "我马上"}
+{"input": "nyby", "target": "你要不要"}
+{"input": "sls", "target": "算了算"}
+{"input": "shzd", "target": "是真的"}
+{"input": "hkm", "target": "好看吗"}
+{"input": "shfzh", "target": "身份证"}
+{"input": "hbhb", "target": "好吧好吧"}
+{"input": "nmy", "target": "你没有"}
+{"input": "nch", "target": "你吃"}
+{"input": "cxk", "target": "蔡徐坤"}
+{"input": "trl", "target": "太热了"}
+{"input": "shmd", "target": "什么都"}
+{"input": "xdm", "target": "兄弟们"}
+{"input": "mml", "target": "慢慢来"}
+{"input": "yww", "target": "因为我"}
+{"input": "shz", "target": "实在"}
+{"input": "pr", "target": "骗人"}
+{"input": "wdtn", "target": "我的天哪"}
+{"input": "zhyd", "target": "这样的"}
+{"input": "mys", "target": "没意思"}
+{"input": "whyw", "target": "我还以为"}
+{"input": "wzhl", "target": "我这里"}
+{"input": "bfb", "target": "不方便"}
+{"input": "dpw", "target": "打排位"}
+{"input": "wwyx", "target": "我问一下"}
+{"input": "chwl", "target": "吃完了"}
+{"input": "ztwsh", "target": "昨天晚上"}
+{"input": "yzhz", "target": "一直在"}
+{"input": "xsl", "target": "笑死了"}
+{"input": "ddl", "target": "多大了"}
+{"input": "njt", "target": "你今天"}
+{"input": "hxs", "target": "好像是"}
+{"input": "qxkl", "target": "七夕快乐"}
+{"input": "byd", "target": "不一定"}
+{"input": "thl", "target": "太好了"}
+{"input": "bshm", "target": "不是吗"}
+{"input": "chh", "target": "撤回"}
+{"input": "smsh", "target": "什么事"}
+{"input": "zzl", "target": "在这里"}
+{"input": "qtd", "target": "其他的"}
+{"input": "wzhb", "target": "我这边"}
+{"input": "pdd", "target": "拼多多"}
+{"input": "wmt", "target": "我明天"}
+{"input": "qxj", "target": "七夕节"}
+{"input": "zbs", "target": "这不是"}
+{"input": "mtzsh", "target": "明天早上"}
+{"input": "nbzhd", "target": "你不知道"}
+{"input": "cqw", "target": "出去玩"}
+{"input": "szg", "target": "是这个"}
+{"input": "yyg", "target": "有一个"}
+{"input": "chx", "target": "重新"}
+{"input": "sj", "target": "世界"}
+{"input": "chk", "target": "重开"}
+{"input": "gnk", "target": "给你看"}
+{"input": "gdpl", "target": "干得漂亮"}
+{"input": "bsd", "target": "不是的"}
+{"input": "nwsm", "target": "你为什么"}
+{"input": "snl", "target": "是哪里"}
+{"input": "mkj", "target": "没看见"}
+{"input": "zhgr", "target": "这个人"}
+{"input": "jtwsh", "target": "今天晚上"}
+{"input": "hbzd", "target": "还不知道"}
+{"input": "wwn", "target": "我问你"}
+{"input": "mgxd", "target": "没关系的"}
+{"input": "sjdl", "target": "时间到了"}
+{"input": "wsw", "target": "无所谓"}
+{"input": "qqnl", "target": "求求你了"}
+{"input": "gql", "target": "过去了"}
+{"input": "rz", "target": "认真"}
+{"input": "wch", "target": "完成"}
+{"input": "zhms", "target": "这么说"}
+{"input": "cql", "target": "出去了"}
+{"input": "kjl", "target": "看见了"}
+{"input": "xgl", "target": "习惯了"}
+{"input": "nymy", "target": "你有没有"}
+{"input": "bzhj", "target": "不着急"}
+{"input": "dwl", "target": "打完了"}
+{"input": "thk", "target": "挺好看"}
+{"input": "wyl", "target": "无语了"}
+{"input": "wygr", "target": "我一个人"}
+{"input": "jch", "target": "坚持"}
+{"input": "hwl", "target": "好无聊"}
+{"input": "rshn", "target": "认识你"}
+{"input": "shwh", "target": "上午好"}
+{"input": "shdsh", "target": "说的是"}
+{"input": "nsd", "target": "你说的"}
+{"input": "blw", "target": "不理我"}
+{"input": "wgc", "target": "我刚才"}
+{"input": "xxd", "target": "小心点"}
+{"input": "brn", "target": "不然呢"}
+{"input": "hhd", "target": "好好的"}
+{"input": "zhdd", "target": "知道的"}
+{"input": "shdyx", "target": "稍等一下"}
+{"input": "xxw", "target": "相信我"}
+{"input": "rsh", "target": "人生"}
+{"input": "zfb", "target": "支付宝"}
+{"input": "jzhyb", "target": "就这样吧"}
+{"input": "wshnd", "target": "我是你爹"}
+{"input": "wbxh", "target": "我不喜欢"}
+{"input": "chflmy", "target": "吃饭了没有"}
+{"input": "lbn", "target": "老板娘"}
+{"input": "myb", "target": "没有吧"}
+{"input": "bxw", "target": "不想玩"}
+{"input": "qll", "target": "起来了"}
+{"input": "hcr", "target": "火柴人"}
+{"input": "sbm", "target": "上班吗"}
+{"input": "nsshy", "target": "你是谁呀"}
+{"input": "qcl", "target": "起床了"}
+{"input": "chm", "target": "出门"}
+{"input": "bshbsh", "target": "不是不是"}
+{"input": "hyg", "target": "换一个"}
+{"input": "xpy", "target": "小朋友"}
+{"input": "bshn", "target": "不是你"}
+{"input": "mgm", "target": "没干嘛"}
+{"input": "kkb", "target": "看看吧"}
+{"input": "wymy", "target": "我也没有"}
+{"input": "gzhw", "target": "关注我"}
+{"input": "zhmj", "target": "这么久"}
+{"input": "wsmn", "target": "为什么呢"}
+{"input": "bljsh", "target": "本来就是"}
+{"input": "gnf", "target": "给你发"}
+{"input": "ngl", "target": "你过来"}
+{"input": "bdrnl", "target": "不打扰你了"}
+{"input": "tchl", "target": "退出来"}
+{"input": "bdrn", "target": "不打扰你"}
+{"input": "wyxm", "target": "玩游戏吗"}
+{"input": "wddh", "target": "我打电话"}
+{"input": "nrn", "target": "你人呢"}
+{"input": "tll", "target": "太累了"}
+{"input": "xxls", "target": "谢谢老师"}
+{"input": "ydx", "target": "有对象"}
+{"input": "kqk", "target": "看情况"}
+{"input": "wshdsh", "target": "我说的是"}
+{"input": "jshzhy", "target": "就是这样"}
+{"input": "dcj", "target": "打吃鸡"}
+{"input": "whz", "target": "我还在"}
+{"input": "dsg", "target": "单身狗"}
+{"input": "lzw", "target": "来找我"}
+{"input": "ghl", "target": "刚回来"}
+{"input": "bgnshl", "target": "不跟你说了"}
+{"input": "xzj", "target": "现在就"}
+{"input": "zhjt", "target": "这几天"}
+{"input": "njw", "target": "你加我"}
+{"input": "xqbh", "target": "心情不好"}
+{"input": "bbmm", "target": "爸爸妈妈"}
+{"input": "gxgx", "target": "恭喜恭喜"}
+{"input": "whx", "target": "我好像"}
+{"input": "mbfy", "target": "没办法呀"}
+{"input": "gcl", "target": "搞错了"}
+{"input": "zdn", "target": "知道你"}
+{"input": "bgsn", "target": "不告诉你"}
+{"input": "zhwdzjsh", "target": "植物大战僵尸"}
+{"input": "fch", "target": "非常好"}
+{"input": "zhjs", "target": "这就是"}
+{"input": "lgr", "target": "两个人"}
+{"input": "xyx", "target": "小游戏"}
+{"input": "rht", "target": "然后他"}
+{"input": "gwk", "target": "给我看"}
+{"input": "dsw", "target": "但是我"}
+{"input": "hxd", "target": "好兄弟"}
+{"input": "zyq", "target": "在一起"}
+{"input": "mtb", "target": "明天吧"}
+{"input": "qqn", "target": "求求你"}
+{"input": "ybzhd", "target": "也不知道"}
+{"input": "sdsh", "target": "是多少"}
+{"input": "kwxd", "target": "开玩笑的"}
+{"input": "xwyt", "target": "吓我一跳"}
+{"input": "shzhyd", "target": "是这样的"}
+{"input": "tbl", "target": "太棒了"}
+{"input": "wdc", "target": "我的错"}
+{"input": "jshn", "target": "就是你"}
+{"input": "dsj", "target": "电视剧"}
+{"input": "ncfl", "target": "你吃饭了"}
+{"input": "wshy", "target": "为啥呀"}
+{"input": "czc", "target": "吃早餐"}
+{"input": "nbh", "target": "你不会"}
+{"input": "nqb", "target": "你去吧"}
+{"input": "wjk", "target": "王俊凯"}
+{"input": "ywt", "target": "有问题"}
+{"input": "csm", "target": "吃什么"}
+{"input": "nshsm", "target": "你说什么"}
+{"input": "wxxn", "target": "我相信你"}
+{"input": "wzhz", "target": "我正在"}
+{"input": "qsl", "target": "气死了"}
+{"input": "bqb", "target": "表情包"}
+{"input": "lch", "target": "绿茶"}
+{"input": "xbshl", "target": "先不说了"}
+{"input": "dczl", "target": "打错字了"}
+{"input": "kkk", "target": "快快快"}
+{"input": "xlb", "target": "行了吧"}
+{"input": "mql", "target": "没钱了"}
+{"input": "hhhh", "target": "哈哈哈哈"}
+{"input": "hpjy", "target": "和平精英"}
+{"input": "zmzd", "target": "怎么知道"}
+{"input": "wkyx", "target": "我看一下"}
+{"input": "wxzz", "target": "我现在在"}
+{"input": "hyyg", "target": "还有一个"}
+{"input": "nnj", "target": "那你就"}
+{"input": "jxl", "target": "就行了"}
+{"input": "yhxy", "target": "樱花校园"}
+{"input": "shmmz", "target": "什么名字"}
+{"input": "wdbzd", "target": "我都不知道"}
+{"input": "nwj", "target": "那我就"}
+{"input": "njshm", "target": "你叫什么"}
+{"input": "nbw", "target": "你帮我"}
+{"input": "whm", "target": "我还没"}
+{"input": "shjmdl", "target": "手机没电了"}
+{"input": "xymnq", "target": "校园模拟器"}
+{"input": "nnxz", "target": "那你现在"}
+{"input": "rhwj", "target": "然后我就"}
+{"input": "smdx", "target": "什么东西"}
+{"input": "jszhg", "target": "就是这个"}
+{"input": "zsw", "target": "这是我"}
+{"input": "xzznl", "target": "现在在哪里"}
+{"input": "shmshhhl", "target": "什么时候回来"}
+{"input": "wshd", "target": "我说的"}
+{"input": "ltjl", "target": "聊天记录"}
+{"input": "tyyx", "target": "同意一下"}
+{"input": "xngg", "target": "信你个鬼"}
+{"input": "chfql", "target": "吃饭去了"}
+{"input": "nshnl", "target": "你是哪里"}
+{"input": "gwkk", "target": "给我看看"}
+{"input": "wzhdn", "target": "我知道你"}
+{"input": "wysj", "target": "我要睡觉"}
+{"input": "zmbn", "target": "怎么办呢"}
+{"input": "gwddh", "target": "给我打电话"}
+{"input": "zhghzj", "target": "照顾好自己"}
+{"input": "jkyl", "target": "就可以了"}
+{"input": "wsg", "target": "我是个"}
+{"input": "nkw", "target": "你看我"}
+{"input": "nnq", "target": "那你去"}
+{"input": "tst", "target": "他说他"}
+{"input": "wzwm", "target": "我在外面"}
+{"input": "nnh", "target": "那你还"}
+{"input": "shsmys", "target": "是什么意思"}
+{"input": "nzhsh", "target": "你这是"}
+{"input": "mysj", "target": "没有时间"}
+{"input": "nmlg", "target": "你们两个"}
+{"input": "shmdw", "target": "什么段位"}
+{"input": "xzhz", "target": "现在还在"}
+{"input": "mthy", "target": "明天还要"}
+{"input": "zhmwl", "target": "这么晚了"}
+{"input": "nxq", "target": "你先去"}
+{"input": "bts", "target": "把他删"}
+{"input": "xzzn", "target": "现在在哪"}
+{"input": "gxrshn", "target": "高兴认识你"}
+{"input": "ygky", "target": "应该可以"}
+{"input": "zmzm", "target": "怎么这么"}
+{"input": "yjrz", "target": "以家人之"}
+{"input": "bszg", "target": "不是这个"}
+{"input": "shmwt", "target": "什么问题"}
+{"input": "wjbzhd", "target": "我就不知道"}
+{"input": "xzzgm", "target": "现在在干嘛"}
+{"input": "wmzhb", "target": "我们这边"}
+{"input": "xzky", "target": "现在可以"}
+{"input": "nxzz", "target": "你现在在"}
+{"input": "wxzj", "target": "我现在就"}
+{"input": "xzzwm", "target": "现在在外面"}
+{"input": "wmlg", "target": "我们两个"}
+{"input": "xxyx", "target": "休息一下"}
+{"input": "gmtx", "target": "闺蜜头像"}
+{"input": "jzdl", "target": "就知道了"}
+{"input": "wyzhz", "target": "我一直在"}
+{"input": "stbh", "target": "身体不好"}
+{"input": "shnld", "target": "是哪里的"}
+{"input": "yszhy", "target": "也是这样"}
+{"input": "kydh", "target": "可以的话"}
+{"input": "bydx", "target": "不用担心"}
+{"input": "zhgys", "target": "这个意思"}
+{"input": "zgsp", "target": "这个视频"}
+{"input": "nnzm", "target": "那你怎么"}
+{"input": "zgky", "target": "这个可以"}
+{"input": "nwy", "target": "那我也"}
+{"input": "xzyj", "target": "现在已经"}
+{"input": "nnsmsh", "target": "那你什么时候"}
+{"input": "gnddh", "target": "给你打电话"}
+{"input": "zdhf", "target": "自动回复"}
+{"input": "shwd", "target": "是我的"}
+{"input": "nrw", "target": "你让我"}
+{"input": "zysht", "target": "注意身体"}
+{"input": "smshkx", "target": "什么时候开学"}
+{"input": "rgky", "target": "如果可以"}
+{"input": "jgpy", "target": "交个朋友"}
+{"input": "nxbl", "target": "你下班了"}
+{"input": "xzyd", "target": "现在有点"}
+{"input": "chzhshh", "target": "成长守护"}
+{"input": "wmzhl", "target": "我们这里"}
+{"input": "shhpt", "target": "守护平台"}
+{"input": "rgmy", "target": "如果没有"}
+{"input": "zhgtx", "target": "这个头像"}
+{"input": "hymy", "target": "还有没有"}
+{"input": "fgwzh", "target": "发个位置"}
+{"input": "zmby", "target": "怎么办呀"}
+{"input": "jgwx", "target": "加个微信"}
+{"input": "zhggm", "target": "这个干嘛"}
+{"input": "mykd", "target": "没有看到"}
+{"input": "wshmd", "target": "我什么都"}
+{"input": "shshhl", "target": "啥时候回来"}
+{"input": "rhtj", "target": "然后他就"}
+{"input": "jshng", "target": "就是那个"}
+{"input": "nmshmshh", "target": "你们什么时候"}
+{"input": "nnsh", "target": "那你说"}
+{"input": "nfgw", "target": "你发给我"}
+{"input": "njzd", "target": "你就知道"}
+{"input": "nns", "target": "那你是"}
+{"input": "wdk", "target": "我都快"}
+{"input": "xtbl", "target": "心态崩了"}
+{"input": "zhgyz", "target": "这个样子"}
+{"input": "gnkk", "target": "给你看看"}
+{"input": "zyxwlm", "target": "作业写完了吗"}
+{"input": "wrsn", "target": "我认识你"}
+{"input": "gzhyx", "target": "关注一下"}
+{"input": "chzcl", "target": "吃早餐了"}
+{"input": "smdmy", "target": "什么都没有"}
+{"input": "yddb", "target": "一点都不"}
+{"input": "zhgwt", "target": "这个问题"}
+{"input": "zgssm", "target": "这个是什么"}
+{"input": "nwq", "target": "那我去"}
+{"input": "hydsh", "target": "还有多少"}
+{"input": "sjhm", "target": "手机号码"}
+{"input": "nlzh", "target": "你来找"}
+{"input": "sjmd", "target": "手机没电"}
+{"input": "hmxw", "target": "还没写完"}
+{"input": "bzhdzm", "target": "不知道怎么"}
+{"input": "jrzhm", "target": "家人之名"}
+{"input": "nwxz", "target": "那我现在"}
+{"input": "zhmzj", "target": "这么早就"}
+{"input": "jdxb", "target": "几点下班"}
+{"input": "zhbsj", "target": "准备睡觉"}
+{"input": "bshgy", "target": "不是故意"}
+{"input": "xzhm", "target": "现在还没"}
+{"input": "zmchh", "target": "怎么称呼"}
+{"input": "hmqch", "target": "还没起床"}
+{"input": "mshjy", "target": "马上就要"}
+{"input": "nshjl", "target": "你睡觉了"}
+{"input": "zmlh", "target": "这么厉害"}
+{"input": "wggz", "target": "我刚刚在"}
+{"input": "zmbshh", "target": "怎么不说话"}
+{"input": "sjxzh", "target": "时间限制"}
+{"input": "lxfsh", "target": "联系方式"}
+{"input": "zjkzhb", "target": "自己看着办"}
+{"input": "fgdw", "target": "发个定位"}
+{"input": "hmc", "target": "还没吃"}
+{"input": "xzys", "target": "现在有事"}
+{"input": "ndjl", "target": "你到家了"}
+{"input": "hzwm", "target": "还在外面"}
+{"input": "zhzhqk", "target": "这种情况"}
+{"input": "xchshm", "target": "想吃什么"}
+{"input": "xzgq", "target": "现在过去"}
+{"input": "nkgdx", "target": "你看个东西"}
+{"input": "zgbq", "target": "这个表情"}
+{"input": "wysm", "target": "我有什么"}
+{"input": "jbzdl", "target": "就不知道了"}
+{"input": "zhgmz", "target": "这个名字"}
+{"input": "zmnm", "target": "怎么那么"}
+{"input": "jtxx", "target": "今天休息"}
+{"input": "nshz", "target": "你是在"}
+{"input": "zjwb", "target": "自己玩吧"}
+{"input": "nnzd", "target": "那你早点"}
+{"input": "xzzz", "target": "现在正在"}
+{"input": "sjkmdl", "target": "手机快没电了"}
+{"input": "wjdn", "target": "我觉得你"}
+{"input": "snzj", "target": "是你自己"}
+{"input": "zhxhdmx", "target": "真心话大冒险"}
+{"input": "kybw", "target": "可以帮我"}
+{"input": "wmxz", "target": "我们现在"}
+{"input": "nszshm", "target": "你是做什么"}
+{"input": "zhmjd", "target": "这么觉得"}
+{"input": "xzzb", "target": "现在准备"}
+{"input": "xhsm", "target": "喜欢什么"}
+{"input": "yjdl", "target": "已经到了"}
+{"input": "bshbr", "target": "不是本人"}
+{"input": "zmky", "target": "怎么可以"}
+{"input": "wmky", "target": "我们可以"}
+{"input": "sywj", "target": "所以我就"}
+{"input": "zmjd", "target": "这么简单"}
+{"input": "nkyq", "target": "你可以去"}
+{"input": "jdky", "target": "觉得可以"}
+{"input": "nyds", "target": "你有多少"}
+{"input": "zxzy", "target": "在写作业"}
+{"input": "zsmgz", "target": "做什么工作"}
+{"input": "ngxx", "target": "哪个学校"}
+{"input": "ngwt", "target": "你个问题"}
+{"input": "gnkg", "target": "给你看个"}
+{"input": "zhgshw", "target": "这个是我"}
+{"input": "dwdw", "target": "等我打完"}
+{"input": "xzksh", "target": "现在开始"}
+{"input": "xzgl", "target": "现在过来"}
+{"input": "swxh", "target": "是我小号"}
+{"input": "jykx", "target": "就要开学"}
+{"input": "hyshb", "target": "还要上班"}
+{"input": "xsdbd", "target": "消失对不对"}
+{"input": "hmcfn", "target": "还没吃饭呢"}
+{"input": "jshyd", "target": "就是有点"}
+{"input": "qryx", "target": "确认一下"}
+{"input": "nmzm", "target": "你们怎么"}
+{"input": "kykyx", "target": "可以看一下"}
+{"input": "zhshz", "target": "这是在"}
+{"input": "gwfg", "target": "给我发个"}
+{"input": "zhgzm", "target": "这个怎么"}
+{"input": "hshsl", "target": "还是算了"}
+{"input": "jhll", "target": "就回来了"}
+{"input": "wjfx", "target": "我就放心"}
+{"input": "gznl", "target": "关注你了"}
+{"input": "wjdw", "target": "我觉得我"}
+{"input": "shmgz", "target": "什么工作"}
+{"input": "nxbd", "target": "你想表达"}
+{"input": "zyxw", "target": "作业写完"}
+{"input": "shnd", "target": "是你的"}
+{"input": "zmmy", "target": "怎么没有"}
+{"input": "bshzy", "target": "不是这样"}
+{"input": "xhjh", "target": "喜欢就好"}
+{"input": "dshyy", "target": "都是一样"}
+{"input": "gnkwx", "target": "跟你开玩笑"}
+{"input": "wmsd", "target": "我马上到"}
+{"input": "wzhly", "target": "我这里有"}
+{"input": "wmyj", "target": "我们已经"}
+{"input": "sjgj", "target": "手机关机"}
+{"input": "znlsb", "target": "在哪里上班"}
+{"input": "wdnq", "target": "我带你去"}
+{"input": "wshysh", "target": "我说一声"}
+{"input": "sshbs", "target": "说是不是"}
+{"input": "gnjs", "target": "给你介绍"}
+{"input": "nmxz", "target": "你们现在"}
+{"input": "nbshz", "target": "你不是在"}
+{"input": "xzzgmn", "target": "现在在干嘛呢"}
+{"input": "nmnb", "target": "你们那边"}
+{"input": "zmxd", "target": "怎么想的"}
+{"input": "mtgn", "target": "明天给你"}
+{"input": "ddhgw", "target": "打电话给我"}
+{"input": "ngshp", "target": "那个视频"}
+{"input": "shmdf", "target": "什么地方"}
+{"input": "kyzy", "target": "可以这样"}
+{"input": "shmshhgl", "target": "什么时候过来"}
+{"input": "wfgl", "target": "我发过来"}
+{"input": "nghk", "target": "哪个好看"}
+{"input": "hyqt", "target": "还有其他"}
+{"input": "jtgw", "target": "截图给我"}
+{"input": "wwng", "target": "我问你个"}
+{"input": "wydd", "target": "我一点都"}
+{"input": "wdbhys", "target": "我都不好意思"}
+{"input": "fzjsh", "target": "反正就是"}
+{"input": "sblm", "target": "上班了吗"}
+{"input": "zhgshn", "target": "这个是你"}
+{"input": "zhghk", "target": "这个好看"}
+{"input": "wfxl", "target": "我发现了"}
+{"input": "ngwf", "target": "你给我发"}
+{"input": "wyzhm", "target": "我也这么"}
+{"input": "mzjsm", "target": "名字叫什么"}
+{"input": "mtjy", "target": "明天就要"}
+{"input": "nnzj", "target": "那你自己"}
+{"input": "ygsp", "target": "一个视频"}
+{"input": "nzjsh", "target": "你自己说"}
+{"input": "bjxl", "target": "不就行了"}
+{"input": "jdhl", "target": "几点回来"}
+{"input": "dwzj", "target": "打完这局"}
+{"input": "xxgn", "target": "信息给你"}
+{"input": "dwzb", "target": "打完这把"}
+{"input": "jbdrn", "target": "就不打扰你"}
+{"input": "kkxx", "target": "开开心心"}
+{"input": "ysf", "target": "也是服"}
+{"input": "lszy", "target": "路上注意"}
+{"input": "tgyx", "target": "通过一下"}
+{"input": "wmds", "target": "我们都是"}
+{"input": "hysj", "target": "还有时间"}
+{"input": "lgjm", "target": "了个寂寞"}
+{"input": "zjkb", "target": "自己看吧"}
+{"input": "jtgwk", "target": "截图给我看"}
+{"input": "shsdx", "target": "收拾东西"}
+{"input": "wrt", "target": "我让他"}
+{"input": "wdyxq", "target": "我打游戏去"}
+{"input": "nmdsh", "target": "你们都是"}
+{"input": "kwd", "target": "看我的"}
+{"input": "shbsyb", "target": "是不是有病"}
+{"input": "jtmy", "target": "今天没有"}
+{"input": "hhzhg", "target": "好好照顾"}
+{"input": "zyxx", "target": "注意休息"}
+{"input": "zmysh", "target": "这么一说"}
+{"input": "gtddh", "target": "给他打电话"}
+{"input": "wysz", "target": "我也是醉"}
+{"input": "sjhl", "target": "手机坏了"}
+{"input": "gswysh", "target": "告诉我一声"}
+{"input": "zmhm", "target": "怎么还没"}
+{"input": "ydgg", "target": "有点尴尬"}
+{"input": "nwzhg", "target": "你问这个"}
+{"input": "zhgzj", "target": "照顾自己"}
+{"input": "shmdbzhd", "target": "什么都不知道"}
+{"input": "jdkn", "target": "觉得可能"}
+{"input": "wshjq", "target": "我睡觉去"}
+{"input": "gjyd", "target": "感觉有点"}
+{"input": "tqtr", "target": "天气太热"}
+{"input": "rsyx", "target": "认识一下"}
+{"input": "tws", "target": "听我说"}
+{"input": "bwzf", "target": "帮我涨粉"}
+{"input": "zhmhk", "target": "这么好看"}
+{"input": "bdshm", "target": "表达什么"}
+{"input": "dnq", "target": "带你去"}
+{"input": "ydhp", "target": "有点害怕"}
+{"input": "ybsw", "target": "又不是我"}
+{"input": "nxzsh", "target": "你现在是"}
+{"input": "zrkf", "target": "早日康复"}
+{"input": "jsmz", "target": "叫啥名字"}
+{"input": "pqbh", "target": "脾气不好"}
+{"input": "ddzml", "target": "到底怎么了"}
+{"input": "bbll", "target": "逼逼赖赖"}
+{"input": "hgtx", "target": "换个头像"}
+{"input": "nzhdw", "target": "你知道我"}
+{"input": "nqkk", "target": "你去看看"}
+{"input": "mnmm", "target": "美女妹妹"}
+{"input": "xxmnd", "target": "谢谢美女的"}
+{"input": "qzhxx", "target": "强制下线"}
+{"input": "gwjz", "target": "各位家长"}
+{"input": "qwby", "target": "千万不要"}
+{"input": "wycq", "target": "我要出去"}
+{"input": "wxzc", "target": "我现在才"}
+{"input": "zyhm", "target": "作业还没"}
+{"input": "dgsmsh", "target": "大概什么时候"}
+{"input": "mtky", "target": "明天可以"}
+{"input": "wmbr", "target": "我妈不让"}
+{"input": "nwzm", "target": "那我怎么"}
+{"input": "hzshj", "target": "还在睡觉"}
+{"input": "wsmyx", "target": "玩什么游戏"}
+{"input": "slbyx", "target": "实力不允许"}
+{"input": "nlfh", "target": "哪里发货"}
+{"input": "bshgyd", "target": "不是故意的"}
+{"input": "nnxh", "target": "那你喜欢"}
+{"input": "jdzg", "target": "觉得这个"}
+{"input": "nzxp", "target": "你在想屁"}
+{"input": "bshhh", "target": "不是很好"}
+{"input": "dgjd", "target": "大概几点"}
+{"input": "wylg", "target": "我有两个"}
+{"input": "rhnj", "target": "然后你就"}
+{"input": "jtsb", "target": "今天上班"}
+{"input": "byjy", "target": "不要介意"}
+{"input": "nmnl", "target": "你们那里"}
+{"input": "jndd", "target": "今年多大"}
+{"input": "kyshsh", "target": "可以试试"}
+{"input": "ydkl", "target": "有点困了"}
+{"input": "ybyd", "target": "也不一定"}
+{"input": "zjshd", "target": "自己说的"}
+{"input": "wkyb", "target": "我可以帮"}
+{"input": "hthk", "target": "还挺好看"}
+{"input": "ygbsh", "target": "应该不是"}
+{"input": "nkzg", "target": "你看这个"}
+{"input": "zhmnb", "target": "这么牛逼"}
+{"input": "shrn", "target": "谁让你"}
+{"input": "ygzhd", "target": "应该知道"}
+{"input": "xzbw", "target": "现在不玩"}
+{"input": "mynm", "target": "没有那么"}
+{"input": "wjshg", "target": "我就是个"}
+{"input": "wjjd", "target": "我就觉得"}
+{"input": "nzyb", "target": "脑子有病"}
+{"input": "zhgbsh", "target": "这个不是"}
+{"input": "lwyg", "target": "另外一个"}
+{"input": "gnkyx", "target": "给你看一下"}
+{"input": "lxyx", "target": "联系一下"}
+{"input": "zhdyy", "target": "值得拥有"}
+{"input": "hylg", "target": "还有两个"}
+{"input": "jshzhm", "target": "就是这么"}
+{"input": "kykm", "target": "可以开麦"}
+{"input": "mshgl", "target": "马上过来"}
+{"input": "smdky", "target": "什么都可以"}
+{"input": "ngdf", "target": "哪个地方"}
+{"input": "thtd", "target": "挺好听的"}
+{"input": "wjky", "target": "我就可以"}
+{"input": "rswm", "target": "认识我吗"}
+{"input": "yszmx", "target": "也是这么想"}
+{"input": "gnshyx", "target": "跟你说一下"}
+{"input": "wdbrsh", "target": "我都不认识"}
+{"input": "hybd", "target": "还有别的"}
+{"input": "jdth", "target": "觉得挺好"}
+{"input": "xzzj", "target": "现在在家"}
+{"input": "nmdyh", "target": "那么多遗憾"}
+{"input": "wzhdc", "target": "我知道错"}
+{"input": "zmpl", "target": "这么漂亮"}
+{"input": "gsnm", "target": "告诉你们"}
+{"input": "kyfh", "target": "可以发货"}
+{"input": "nkkn", "target": "你看看你"}
+{"input": "cwzhd", "target": "传闻中的"}
+{"input": "ymysj", "target": "有没有时间"}
+{"input": "shfl", "target": "是服了"}
+{"input": "wyyq", "target": "我也要去"}
+{"input": "shybht", "target": "声音不好听"}
+{"input": "qsbl", "target": "去上班了"}
+{"input": "shjgd", "target": "时间过得"}
+{"input": "whyz", "target": "我会一直"}
+{"input": "zgshsh", "target": "这个是谁"}
+{"input": "shmng", "target": "上面那个"}
+{"input": "wmxx", "target": "我们学校"}
+{"input": "wqnj", "target": "我去你家"}
+{"input": "dsws", "target": "打扫卫生"}
+{"input": "myqt", "target": "没有其他"}
+{"input": "gswyx", "target": "告诉我一下"}
+{"input": "nnwshm", "target": "那你为什么"}
+{"input": "mtsb", "target": "明天上班"}
+{"input": "wjbx", "target": "我就不信"}
+{"input": "jsyw", "target": "就是因为"}
+{"input": "jdhk", "target": "觉得好看"}
+{"input": "xzfb", "target": "现在方便"}
+{"input": "zpdz", "target": "作品点赞"}
+{"input": "fygl", "target": "反应过来"}
+{"input": "nngj", "target": "那你赶紧"}
+{"input": "ddhgn", "target": "打电话给你"}
+{"input": "bswt", "target": "不是问题"}
+{"input": "wggq", "target": "我刚刚去"}
+{"input": "kgsp", "target": "看个视频"}
+{"input": "nwz", "target": "那我再"}
+{"input": "jtyd", "target": "今天有点"}
+{"input": "zhlmy", "target": "这里没有"}
+{"input": "xzmk", "target": "现在没空"}
+{"input": "zhsht", "target": "这是他"}
+{"input": "zhydshq", "target": "重要的事情"}
+{"input": "pgshp", "target": "拍个视频"}
+{"input": "dshxz", "target": "但是现在"}
+{"input": "shmshhq", "target": "什么时候回去"}
+{"input": "wyks", "target": "我要开始"}
+{"input": "zhbhj", "target": "准备回家"}
+{"input": "xzgmn", "target": "现在干嘛呢"}
+{"input": "zhyky", "target": "这样可以"}
+{"input": "myzg", "target": "没有这个"}
+{"input": "ggkd", "target": "刚刚看到"}
+{"input": "myshq", "target": "没有生气"}
+{"input": "jdzmy", "target": "觉得怎么样"}
+{"input": "sfyhd", "target": "是否有很多"}
+{"input": "zfyb", "target": "再发一遍"}
+{"input": "fzhwsh", "target": "反正我是"}
+{"input": "tww", "target": "他问我"}
+{"input": "shjzl", "target": "时间再聊"}
+{"input": "wqsj", "target": "我去睡觉"}
+{"input": "qldsh", "target": "清理大师"}
+{"input": "ybtqc", "target": "也不太清楚"}
+{"input": "sdshm", "target": "说的什么"}
+{"input": "xzhmy", "target": "现在还没有"}
+{"input": "hhzhx", "target": "好好珍惜"}
+{"input": "zqchz", "target": "最强出装"}
+{"input": "nzshb", "target": "你在上班"}
+{"input": "ddhgt", "target": "打电话给他"}
+{"input": "kkzg", "target": "看看这个"}
+{"input": "xzbsh", "target": "现在不是"}
+{"input": "nwsmy", "target": "你为什么要"}
+{"input": "yhdwh", "target": "有很多问号"}
+{"input": "gzwyx", "target": "关注我一下"}
+{"input": "nhhys", "target": "你还好意思"}
+{"input": "nnch", "target": "那你吃"}
+{"input": "fgwyx", "target": "发给我一下"}
+{"input": "nnky", "target": "那你可以"}
+{"input": "nymbf", "target": "那也没办法"}
+{"input": "shqtk", "target": "申请退款"}
+{"input": "shyht", "target": "声音好听"}
+{"input": "shjdh", "target": "时间的话"}
+{"input": "mtsmshh", "target": "明天什么时候"}
+{"input": "ykjsh", "target": "一看就是"}
+{"input": "jshyg", "target": "介绍一个"}
+{"input": "cllm", "target": "出来了吗"}
+{"input": "zdwshsm", "target": "知道我是谁吗"}
+{"input": "jtgn", "target": "截图给你"}
+{"input": "zjzhd", "target": "自己知道"}
+{"input": "wbzdzm", "target": "我不知道怎么"}
+{"input": "nqcl", "target": "你起床了"}
+{"input": "jdwh", "target": "觉得我会"}
+{"input": "bshyy", "target": "不是一样"}
+{"input": "tjshm", "target": "他叫什么"}
+{"input": "nsbx", "target": "那是必须"}
+{"input": "nfhm", "target": "能发货吗"}
+{"input": "nxzh", "target": "你现在还"}
+{"input": "xzyk", "target": "现在有空"}
+{"input": "jtdn", "target": "尽头等你"}
+{"input": "fgshp", "target": "发个视频"}
+{"input": "zhdlzd", "target": "知道了知道"}
+{"input": "pgzhp", "target": "拍个照片"}
+{"input": "wmmy", "target": "我们没有"}
+{"input": "rnsw", "target": "让你失望"}
+{"input": "jfxl", "target": "就放心了"}
+{"input": "shmqb", "target": "什么区别"}
+{"input": "smyy", "target": "什么原因"}
+{"input": "xwjd", "target": "下午几点"}
+{"input": "tjyx", "target": "推荐一下"}
+{"input": "wxtb", "target": "我心态崩"}
+{"input": "wdyd", "target": "我都有点"}
+{"input": "yjksh", "target": "已经开始"}
+{"input": "fghb", "target": "发个红包"}
+{"input": "nnhh", "target": "那你好好"}
+{"input": "wljq", "target": "我拉进去"}
+{"input": "hfyx", "target": "回复一下"}
+{"input": "zhhmm", "target": "账号密码"}
+{"input": "shqshsb", "target": "事情说三遍"}
+{"input": "wzmk", "target": "我在门口"}
+{"input": "smdm", "target": "什么都没"}
+{"input": "zhbhq", "target": "准备回去"}
+{"input": "nmlh", "target": "那么厉害"}
+{"input": "qtdd", "target": "其他的都"}
+{"input": "mshms", "target": "没事没事"}
+{"input": "wzdl", "target": "我知道了"}
+{"input": "nhb", "target": "那好吧"}
+{"input": "nzdm", "target": "你知道吗"}
+{"input": "zbz", "target": "在不在"}
+{"input": "wgns", "target": "我跟你说"}
+{"input": "hhhhh", "target": "哈哈哈哈哈"}
+{"input": "mymy", "target": "没有没有"}
+{"input": "kyky", "target": "可以可以"}
+{"input": "zdm", "target": "真的吗"}
+{"input": "whll", "target": "我回来了"}
+{"input": "sybs", "target": "啥也不是"}
+{"input": "chyhx", "target": "穿越火线"}
+{"input": "wshjl", "target": "我睡觉了"}
+{"input": "nzn", "target": "你在哪"}
+{"input": "xxmn", "target": "谢谢美女"}
+{"input": "hzm", "target": "还在吗"}
+{"input": "xchpd", "target": "香肠派对"}
+{"input": "shmqk", "target": "什么情况"}
+{"input": "kdkd", "target": "快点快点"}
+{"input": "wtnl", "target": "我太难了"}
+{"input": "zdxxb", "target": "早点休息吧"}
+{"input": "wyshjl", "target": "我要睡觉了"}
+{"input": "hdn", "target": "好的呢"}
+{"input": "thkd", "target": "挺好看的"}
+{"input": "yhxymnq", "target": "樱花校园模拟器"}
+{"input": "nddl", "target": "你多大了"}
+{"input": "wgnj", "target": "我跟你讲"}
+{"input": "hhhhhh", "target": "哈哈哈哈哈哈"}
+{"input": "bzdwshm", "target": "不知道为什么"}
+{"input": "tbxm", "target": "他不香吗"}
+{"input": "wxngg", "target": "我信你个鬼"}
+{"input": "qxjkl", "target": "七夕节快乐"}
+{"input": "wqzhn", "target": "我去找你"}
+{"input": "nchflm", "target": "你吃饭了吗"}
+{"input": "wfgn", "target": "我发给你"}
+{"input": "wymbf", "target": "我也没办法"}
+{"input": "wdjl", "target": "我到家了"}
+{"input": "qltx", "target": "情侣头像"}
+{"input": "sdsd", "target": "是的是的"}
+{"input": "nzml", "target": "你怎么了"}
+{"input": "njdn", "target": "你觉得呢"}
+{"input": "ngsw", "target": "你告诉我"}
+{"input": "nxdl", "target": "你想多了"}
+{"input": "wxwyx", "target": "我想问一下"}
+{"input": "wxnl", "target": "我想你了"}
+{"input": "hgxrsn", "target": "很高兴认识你"}
+{"input": "chfmy", "target": "吃饭没有"}
+{"input": "wzmzhd", "target": "我怎么知道"}
+{"input": "nzmzd", "target": "你怎么知道"}
+{"input": "njsmmz", "target": "你叫什么名字"}
+{"input": "wkym", "target": "我可以吗"}
+{"input": "yjrzm", "target": "以家人之名"}
+{"input": "sjlm", "target": "睡觉了吗"}
+{"input": "wxzl", "target": "我先走了"}
+{"input": "zhlhh", "target": "质量很好"}
+{"input": "lgz", "target": "两个字"}
+{"input": "wxshl", "target": "我先睡了"}
+{"input": "wqcfl", "target": "我去吃饭了"}
+{"input": "wqkk", "target": "我去看看"}
+{"input": "hshslb", "target": "还是算了吧"}
+{"input": "gnkgdx", "target": "给你看个东西"}
+{"input": "nsnld", "target": "你是哪里的"}
+{"input": "nxzznl", "target": "你现在在哪里"}
+{"input": "nxzzn", "target": "你现在在哪"}
+{"input": "mnwsh", "target": "美女晚上好"}
+{"input": "bgnll", "target": "不跟你聊了"}
+{"input": "zssh", "target": "这是啥"}
+{"input": "xlxl", "target": "行了行了"}
+{"input": "xxdj", "target": "谢谢大家"}
+{"input": "nbzhdm", "target": "你不知道吗"}
+{"input": "hkyb", "target": "还可以吧"}
+{"input": "wsjmdl", "target": "我手机没电了"}
+{"input": "hdb", "target": "好的吧"}
+{"input": "fcgx", "target": "非常感谢"}
+{"input": "zdjh", "target": "知道就好"}
+{"input": "ygsb", "target": "应该是吧"}
+{"input": "dyxyx", "target": "抖音小游戏"}
+{"input": "zdshj", "target": "早点睡觉"}
+{"input": "chzshpt", "target": "成长守护平台"}
+{"input": "nzjwzs", "target": "你在教我做事"}
+{"input": "wychfl", "target": "我要吃饭了"}
+{"input": "bwdyx", "target": "帮我点一下"}
+{"input": "wsql", "target": "我生气了"}
+{"input": "ysmshm", "target": "有什么事吗"}
+{"input": "hzhz", "target": "互赞互赞"}
+{"input": "zhgwzhd", "target": "这个我知道"}
+{"input": "kgwx", "target": "开个玩笑"}
+{"input": "nbxd", "target": "那必须的"}
+{"input": "whjl", "target": "我回家了"}
+{"input": "sjshj", "target": "睡觉睡觉"}
+{"input": "szhgm", "target": "是这个吗"}
+{"input": "wzcf", "target": "我在吃饭"}
+{"input": "wzdy", "target": "我知道呀"}
+{"input": "wqxzl", "target": "我去洗澡了"}
+{"input": "qrjkl", "target": "情人节快乐"}
+{"input": "shmyx", "target": "什么游戏"}
+{"input": "wxbl", "target": "我下班了"}
+{"input": "nmwb", "target": "你们玩吧"}
+{"input": "wdky", "target": "我都可以"}
+{"input": "kqkb", "target": "看情况吧"}
+{"input": "pnd", "target": "骗你的"}
+{"input": "nxzzgm", "target": "你现在在干嘛"}
+{"input": "ksjsb", "target": "快手极速版"}
+{"input": "wzdyx", "target": "我在打游戏"}
+{"input": "shjql", "target": "睡觉去了"}
+{"input": "yshjx", "target": "有手就行"}
+{"input": "nsql", "target": "你生气了"}
+{"input": "fslsm", "target": "发生了什么"}
+{"input": "wshls", "target": "我是律师"}
+{"input": "ndbshm", "target": "难道不是吗"}
+{"input": "ntyyx", "target": "你同意一下"}
+{"input": "jshjsh", "target": "就是就是"}
+{"input": "nshndhshnd", "target": "你是男的还是女的"}
+{"input": "nqdm", "target": "你确定吗"}
+{"input": "wyxy", "target": "我也想要"}
+{"input": "wngwt", "target": "问你个问题"}
+{"input": "ndwyx", "target": "你等我一下"}
+{"input": "nznly", "target": "你在哪里呀"}
+{"input": "xxlb", "target": "谢谢老板"}
+{"input": "ylmb", "target": "一脸懵逼"}
+{"input": "hxmy", "target": "好像没有"}
+{"input": "kylm", "target": "可以了吗"}
+{"input": "wxqll", "target": "我想起来了"}
+{"input": "mywsm", "target": "没有为什么"}
+{"input": "wbyl", "target": "我不要了"}
+{"input": "wxzzwm", "target": "我现在在外面"}
+{"input": "dyxql", "target": "打游戏去了"}
+{"input": "szbx", "target": "实在不行"}
+{"input": "wxqcfl", "target": "我先去吃饭了"}
+{"input": "wbdl", "target": "我不打了"}
+{"input": "wybzdwshm", "target": "我也不知道为什么"}
+{"input": "nsmshhl", "target": "你什么时候回来"}
+{"input": "tdmy", "target": "听到没有"}
+{"input": "fcmy", "target": "非常满意"}
+{"input": "lhlh", "target": "厉害厉害"}
+{"input": "yrzm", "target": "有人在吗"}
+{"input": "blct", "target": "部落冲突"}
+{"input": "rgkydh", "target": "如果可以的话"}
+{"input": "wzdd", "target": "我知道的"}
+{"input": "nyzdsh", "target": "你也早点睡"}
+{"input": "zshshmys", "target": "这是什么意思"}
+{"input": "shmshfh", "target": "什么时候发货"}
+{"input": "xxkj", "target": "谢谢夸奖"}
+{"input": "wchjm", "target": "玩吃鸡吗"}
+{"input": "nlzhw", "target": "你来找我"}
+{"input": "wqkyx", "target": "我去看一下"}
+{"input": "dshzshb", "target": "到时候再说吧"}
+{"input": "wzml", "target": "我怎么了"}
+{"input": "whgh", "target": "我换个号"}
+{"input": "gwsms", "target": "关我什么事"}
+{"input": "bwkyx", "target": "帮我砍一下"}
+{"input": "wzshb", "target": "我在上班"}
+{"input": "snm", "target": "是你吗"}
+{"input": "gwps", "target": "关我屁事"}
+{"input": "wlzn", "target": "我来找你"}
+{"input": "nzshshm", "target": "你在说什么"}
+{"input": "mnxwh", "target": "美女下午好"}
+{"input": "shmwy", "target": "什么玩意"}
+{"input": "wgsx", "target": "我刚睡醒"}
+{"input": "tpbshn", "target": "逃跑吧少年"}
+{"input": "dshwdc", "target": "都是我的错"}
+{"input": "wchfql", "target": "我吃饭去了"}
+{"input": "nshnlr", "target": "你是哪里人"}
+{"input": "xfshrf", "target": "讯飞输入法"}
+{"input": "wcll", "target": "我出来了"}
+{"input": "zhbsjl", "target": "准备睡觉了"}
+{"input": "djwshh", "target": "大家晚上好"}
+{"input": "gysrt", "target": "故意送人头"}
+{"input": "qqdzzh", "target": "球球大作战"}
+{"input": "xshn", "target": "想啥呢"}
+{"input": "nzhdd", "target": "你知道的"}
+{"input": "wfcl", "target": "我发错了"}
+{"input": "nzmzdd", "target": "你怎么知道的"}
+{"input": "bwgm", "target": "帮我个忙"}
+{"input": "xgsp", "target": "西瓜视频"}
+{"input": "wzdwz", "target": "我在打王者"}
+{"input": "ylszy", "target": "原来是这样"}
+{"input": "nwjbzdl", "target": "那我就不知道了"}
+{"input": "nkdd", "target": "那肯定的"}
+{"input": "jxjy", "target": "继续加油"}
+{"input": "sdd", "target": "说的对"}
+{"input": "wkcl", "target": "我看错了"}
+{"input": "tmmpk", "target": "汤姆猫跑酷"}
+{"input": "nqm", "target": "你去吗"}
+{"input": "sgzhw", "target": "谁关注我"}
+{"input": "tmchf", "target": "甜蜜惩罚"}
+{"input": "swbp", "target": "是我不配"}
+{"input": "wxtl", "target": "我先退了"}
+{"input": "mtzw", "target": "明天再玩"}
+{"input": "nchflmy", "target": "你吃饭了没有"}
+{"input": "sbszhg", "target": "是不是这个"}
+{"input": "bzhdzmhsh", "target": "不知道怎么回事"}
+{"input": "whql", "target": "我回去了"}
+{"input": "wgtshl", "target": "我跟他说了"}
+{"input": "nddy", "target": "你多大呀"}
+{"input": "bzhdwsh", "target": "不知道为啥"}
+{"input": "bzdzmsh", "target": "不知道怎么说"}
+{"input": "zghm", "target": "做个好梦"}
+{"input": "shdqhf", "target": "收到请回复"}
+{"input": "shymy", "target": "啥也没有"}
+{"input": "ykzl", "target": "有空再聊"}
+{"input": "jsxm", "target": "精神小妹"}
+{"input": "njslb", "target": "那就算了吧"}
+{"input": "nzyxwlm", "target": "你作业写完了吗"}
+{"input": "kcll", "target": "看出来了"}
+{"input": "xblmy", "target": "下班了没有"}
+{"input": "dshzs", "target": "到时候再说"}
+{"input": "wyshzl", "target": "我也是醉了"}
+{"input": "bhysh", "target": "不好意思哈"}
+{"input": "plshs", "target": "漂亮书生"}
+{"input": "nzzdd", "target": "你咋知道的"}
+{"input": "whcd", "target": "我很菜的"}
+{"input": "wyqchfl", "target": "我要去吃饭了"}
+{"input": "wydx", "target": "我有对象"}
+{"input": "shfzhhm", "target": "身份证号码"}
+{"input": "jshmmz", "target": "叫什么名字"}
+{"input": "nshrjsyt", "target": "你是人间四月天"}
+{"input": "wyhll", "target": "我又回来了"}
+{"input": "xtdf", "target": "夏天的风"}
+{"input": "wbzdy", "target": "我不知道呀"}
+{"input": "xxshg", "target": "谢谢帅哥"}
+{"input": "jmyc", "target": "旧梦一场"}
+{"input": "wgdj", "target": "我刚到家"}
+{"input": "wgzhnl", "target": "我关注你了"}
+{"input": "mshdtt", "target": "密室大逃脱"}
+{"input": "wwyl", "target": "我无语了"}
+{"input": "wxqxzl", "target": "我先去洗澡了"}
+{"input": "gjsb", "target": "赶紧睡吧"}
+{"input": "ggsx", "target": "刚刚睡醒"}
+{"input": "nzdsb", "target": "你早点睡吧"}
+{"input": "bshlbshl", "target": "不说了不说了"}
+{"input": "wxzysh", "target": "我现在有事"}
+{"input": "zmknn", "target": "怎么可能呢"}
+{"input": "ljshm", "target": "牢记使命"}
+{"input": "ckwlq", "target": "刺客伍六七"}
+{"input": "gqdl", "target": "感情淡了"}
+{"input": "dwjw", "target": "打完叫我"}
+{"input": "qbgn", "target": "桥边姑娘"}
+{"input": "dbqdbq", "target": "对不起对不起"}
+{"input": "nkmm", "target": "能开麦吗"}
+{"input": "wdysshs", "target": "我的意思是说"}
+{"input": "bljsm", "target": "本来就是嘛"}
+{"input": "tbhk", "target": "特别好看"}
+{"input": "xnftj", "target": "小鸟伏特加"}
+{"input": "nzmbn", "target": "那怎么办呢"}
+{"input": "zdgm", "target": "值得购买"}
+{"input": "kdgl", "target": "快点过来"}
+{"input": "jshzhyd", "target": "就是这样的"}
+{"input": "hshnjh", "target": "还是那句话"}
+{"input": "kbnn", "target": "恐怖奶奶"}
+{"input": "wysfl", "target": "我也是服了"}
+{"input": "wqshjl", "target": "我去睡觉了"}
+{"input": "ttxx", "target": "甜甜咸咸"}
+{"input": "nshtx", "target": "女生头像"}
+{"input": "zpzhg", "target": "作品照顾"}
+{"input": "yqjy", "target": "一起加油"}
+{"input": "nygrm", "target": "你一个人吗"}
+{"input": "nzjwb", "target": "你自己玩吧"}
+{"input": "gwkyx", "target": "给我看一下"}
+{"input": "nmxw", "target": "你们先玩"}
+{"input": "cdzht", "target": "唱的真好听"}
+{"input": "wbxwl", "target": "我不想玩了"}
+{"input": "wyjdl", "target": "我已经到了"}
+{"input": "hyzhg", "target": "还有这个"}
+{"input": "wbshgyd", "target": "我不是故意的"}
+{"input": "yzhpm", "target": "有照片吗"}
+{"input": "thwd", "target": "挺好玩的"}
+{"input": "nxbdshm", "target": "你想表达什么"}
+{"input": "wshxxsh", "target": "我是小学生"}
+{"input": "nzhtx", "target": "你这头像"}
+{"input": "ygkyb", "target": "应该可以吧"}
+{"input": "rjbzhd", "target": "人间不值得"}
+{"input": "yddbh", "target": "一点都不好"}
+{"input": "nrshm", "target": "你认识吗"}
+{"input": "smysy", "target": "什么意思呀"}
+{"input": "nyzdxx", "target": "你也早点休息"}
+{"input": "nywxm", "target": "你有微信吗"}
+{"input": "wxtsh", "target": "温馨提示"}
+{"input": "njdknm", "target": "你觉得可能吗"}
+{"input": "wgchwf", "target": "我刚吃完饭"}
+{"input": "dbdwz", "target": "打不打王者"}
+{"input": "wylmb", "target": "我一脸懵逼"}
+{"input": "nxblm", "target": "你下班了吗"}
+{"input": "mgky", "target": "咪咕快游"}
+{"input": "zdshjb", "target": "早点睡觉吧"}
+{"input": "qclmy", "target": "起床了没有"}
+{"input": "gshjl", "target": "该睡觉了"}
+{"input": "kylb", "target": "可以了吧"}
+{"input": "hhhhhhh", "target": "哈哈哈哈哈哈哈"}
+{"input": "nzhhsd", "target": "你这话说的"}
+{"input": "dyxzl", "target": "等一下再聊"}
+{"input": "chwflm", "target": "吃完饭了吗"}
+{"input": "wybtqch", "target": "我也不太清楚"}
+{"input": "hkhk", "target": "好看好看"}
+{"input": "wlhk", "target": "物流很快"}
+{"input": "nnxm", "target": "那你先忙"}
+{"input": "hbzdn", "target": "还不知道呢"}
+{"input": "wxbwl", "target": "我先不玩了"}
+{"input": "prdg", "target": "骗人的鬼"}
+{"input": "yyyy", "target": "一样一样"}
+{"input": "nmznl", "target": "你们在哪里"}
+{"input": "wrshnm", "target": "我认识你吗"}
+{"input": "drky", "target": "当然可以"}
+{"input": "wxqcf", "target": "我先去吃饭"}
+{"input": "wxcfl", "target": "我先吃饭了"}
+{"input": "szbhys", "target": "实在不好意思"}
+{"input": "zhhchbd", "target": "这还差不多"}
+{"input": "wqcf", "target": "我去吃饭"}
+{"input": "wbdrnl", "target": "我不打扰你了"}
+{"input": "whmchfn", "target": "我还没吃饭呢"}
+{"input": "gnsmsh", "target": "关你什么事"}
+{"input": "tbz", "target": "他不在"}
+{"input": "wdgnsl", "target": "我都跟你说了"}
+{"input": "wchql", "target": "我出去了"}
+{"input": "mdzs", "target": "魔道祖师"}
+{"input": "tqtrl", "target": "天气太热了"}
+{"input": "wzkk", "target": "我再看看"}
+{"input": "lbnh", "target": "老板你好"}
+{"input": "tbwsl", "target": "他把我删了"}
+{"input": "wxzql", "target": "我洗澡去了"}
+{"input": "zhshwxh", "target": "这是我小号"}
+{"input": "wdyxql", "target": "我打游戏去了"}
+{"input": "tchsdzz", "target": "贪吃蛇大作战"}
+{"input": "gsql", "target": "干啥去了"}
+{"input": "wzkc", "target": "我在开车"}
+{"input": "nzxpc", "target": "你在想屁吃"}
+{"input": "wyshmbf", "target": "我有什么办法"}
+{"input": "zddg", "target": "正道的光"}
+{"input": "wgnshl", "target": "我跟你说了"}
+{"input": "bchbzh", "target": "包吃包住"}
+{"input": "nzdxxb", "target": "你早点休息吧"}
+{"input": "wxzgq", "target": "我现在过去"}
+{"input": "nshsbs", "target": "你说是不是"}
+{"input": "mfzht", "target": "免费主题"}
+{"input": "czhsz", "target": "重装上阵"}
+{"input": "rlybtd", "target": "人类一败涂地"}
+{"input": "wyzhmjd", "target": "我也这么觉得"}
+{"input": "znzhyl", "target": "只能这样了"}
+{"input": "wxxz", "target": "我先洗澡"}
+{"input": "ngzw", "target": "你关注我"}
+{"input": "nnxmb", "target": "那你先忙吧"}
+{"input": "dmtx", "target": "动漫头像"}
+{"input": "gjshj", "target": "赶紧睡觉"}
+{"input": "xfshj", "target": "消费升级"}
+{"input": "ngwsh", "target": "你跟我说"}
+{"input": "shdtdl", "target": "说的太对了"}
+{"input": "tnshl", "target": "太难受了"}
+{"input": "nydxm", "target": "你有对象吗"}
+{"input": "mgsh", "target": "没干啥"}
+{"input": "nqkyx", "target": "你去看一下"}
+{"input": "lpdr", "target": "老婆大人"}
+{"input": "fgwkk", "target": "发给我看看"}
+{"input": "wqww", "target": "我去问问"}
+{"input": "hdxx", "target": "好的谢谢"}
+{"input": "zlbc", "target": "质量不错"}
+{"input": "bxwp", "target": "不喜勿喷"}
+{"input": "mfqs", "target": "木筏求生"}
+{"input": "zdlzhdl", "target": "知道了知道了"}
+{"input": "wtnd", "target": "我听你的"}
+{"input": "gjwl", "target": "干就完了"}
+{"input": "ngwdzh", "target": "你给我等着"}
+{"input": "zfyc", "target": "再发一次"}
+{"input": "xxczh", "target": "新型城镇化"}
+{"input": "dshqn", "target": "多少钱呢"}
+{"input": "zhqrj", "target": "赚钱软件"}
+{"input": "wbtshl", "target": "我把他删了"}
+{"input": "wdysh", "target": "我的也是"}
+{"input": "hykb", "target": "好游快爆"}
+{"input": "nyzdsb", "target": "你也早点睡吧"}
+{"input": "wnmdyh", "target": "我那么多遗憾"}
+{"input": "xxgx", "target": "谢谢关心"}
+{"input": "nssb", "target": "你说是吧"}
+{"input": "ndjlm", "target": "你到家了吗"}
+{"input": "msjdl", "target": "马上就到了"}
+{"input": "mtzwb", "target": "明天再玩吧"}
+{"input": "zgbx", "target": "这个不行"}
+{"input": "lplp", "target": "老婆老婆"}
+{"input": "wxqxz", "target": "我先去洗澡"}
+{"input": "wnsc", "target": "玩泥素材"}
+{"input": "ygshd", "target": "应该是的"}
+{"input": "zczd", "target": "政策制度"}
+{"input": "wshjql", "target": "我睡觉去了"}
+{"input": "hljw", "target": "好了叫我"}
+{"input": "dstbh", "target": "对身体不好"}
+{"input": "wkgl", "target": "我看过了"}
+{"input": "bllxmx", "target": "巴啦啦小魔仙"}
+{"input": "wbzdwsm", "target": "我不知道为什么"}
+{"input": "mydx", "target": "没有对象"}
+{"input": "wbsshlm", "target": "我不是说了吗"}
+{"input": "kdshx", "target": "快点上线"}
+{"input": "wshjkmdl", "target": "我手机快没电了"}
+{"input": "hrtg", "target": "黑人抬棺"}
+{"input": "wwngwt", "target": "我问你个问题"}
+{"input": "zgzmy", "target": "这个怎么样"}
+{"input": "dshyyd", "target": "都是一样的"}
+{"input": "bhnll", "target": "不和你聊了"}
+{"input": "fchxh", "target": "非常喜欢"}
+{"input": "ltgb", "target": "雷霆嘎巴"}
+{"input": "dlmy", "target": "到了没有"}
+{"input": "wgnkgdx", "target": "我给你看个东西"}
+{"input": "dyjsb", "target": "抖音极速版"}
+{"input": "nxsshm", "target": "你想说什么"}
+{"input": "wyqxzl", "target": "我要去洗澡了"}
+{"input": "zfyg", "target": "再发一个"}
+{"input": "zlzmy", "target": "质量怎么样"}
+{"input": "zzzh", "target": "这这这"}
+{"input": "nxdyx", "target": "你先等一下"}
+{"input": "wyshzmxd", "target": "我也是这么想的"}
+{"input": "hxshd", "target": "好像是的"}
+{"input": "wlkq", "target": "未来可期"}
+{"input": "nyyy", "target": "你也一样"}
+{"input": "wxtbl", "target": "我心态崩了"}
+{"input": "sdys", "target": "说的也是"}
+{"input": "wchgl", "target": "我吃过了"}
+{"input": "wcby", "target": "我才不要"}
+{"input": "wqqnl", "target": "我求求你了"}
+{"input": "mtjx", "target": "明天继续"}
+{"input": "dyxzs", "target": "抖音小助手"}
+{"input": "zhydshqssb", "target": "重要的事情说三遍"}
+{"input": "yshjzl", "target": "有时间再聊"}
+{"input": "jzdhd", "target": "酒醉的蝴蝶"}
+{"input": "qwns", "target": "请问你是"}
+{"input": "ncb", "target": "你吃吧"}
+{"input": "wgnddh", "target": "我给你打电话"}
+{"input": "shjbzl", "target": "时间不早了"}
+{"input": "chzymf", "target": "创造与魔法"}
+{"input": "myjsl", "target": "没有就算了"}
+{"input": "ytxj", "target": "一甜相机"}
+{"input": "thcd", "target": "挺好吃的"}
+{"input": "ggbzh", "target": "给个备注"}
+{"input": "xzhbzd", "target": "现在还不知道"}
+{"input": "ndhsnd", "target": "男的还是女的"}
+{"input": "nsmdw", "target": "你什么段位"}
+{"input": "nshbxd", "target": "那是必须的"}
+{"input": "zljy", "target": "战略机遇"}
+{"input": "fchbq", "target": "非常抱歉"}
+{"input": "mshmys", "target": "没什么意思"}
+{"input": "wxqxgz", "target": "我先去洗个澡"}
+{"input": "nchfmy", "target": "你吃饭没有"}
+{"input": "xxzc", "target": "谢谢支持"}
+{"input": "wgll", "target": "我过来了"}
+{"input": "byxnmd", "target": "不要想那么多"}
+{"input": "yblwl", "target": "又不理我了"}
+{"input": "zhmpy", "target": "这么便宜"}
+{"input": "wqxz", "target": "我去洗澡"}
+{"input": "shmgy", "target": "什么鬼呀"}
+{"input": "nxzzgmn", "target": "你现在在干嘛呢"}
+{"input": "jxjx", "target": "继续继续"}
+{"input": "wwdy", "target": "我玩打野"}
+{"input": "zmrdt", "target": "这么热的天"}
+{"input": "wqhlsh", "target": "无情哈拉少"}
+{"input": "wqwyx", "target": "我去问一下"}
+{"input": "kwtx", "target": "看我头像"}
+{"input": "wsgl", "target": "我说过了"}
+{"input": "wydm", "target": "我有点懵"}
+{"input": "hcrzhzh", "target": "火柴人战争"}
+{"input": "cmsp", "target": "草莓视频"}
+{"input": "wzkds", "target": "我在看电视"}
+{"input": "swdyx", "target": "稍微等一下"}
+{"input": "xbmy", "target": "下班没有"}
+{"input": "rgshw", "target": "如果是我"}
+{"input": "zhshshs", "target": "这是事实"}
+{"input": "nsfyhdwh", "target": "你是否有很多问号"}
+{"input": "xxph", "target": "谢谢配合"}
+{"input": "nyqw", "target": "你邀请我"}
+{"input": "bxnmd", "target": "别想那么多"}
+{"input": "wpngm", "target": "我骗你干嘛"}
+{"input": "nzdxx", "target": "你早点休息"}
+{"input": "wszl", "target": "晚上再聊"}
+{"input": "mtjkxl", "target": "明天就开学了"}
+{"input": "nzjkb", "target": "你自己看吧"}
+{"input": "wybzdzms", "target": "我也不知道怎么说"}
+{"input": "wkbj", "target": "我看不见"}
+{"input": "wycbd", "target": "我也差不多"}
+{"input": "wjdky", "target": "我觉得可以"}
+{"input": "xzmyl", "target": "现在没有了"}
+{"input": "zhgwbzd", "target": "这个我不知道"}
+{"input": "wnzmb", "target": "我能怎么办"}
+{"input": "wgxwz", "target": "我刚洗完澡"}
+{"input": "nwzhggm", "target": "你问这个干嘛"}
+{"input": "wjnhy", "target": "我加你好友"}
+{"input": "ypkf", "target": "有屁快放"}
+{"input": "zsshy", "target": "这是啥呀"}
+{"input": "wqxgz", "target": "我去洗个澡"}
+{"input": "gssbx", "target": "干啥啥不行"}
+{"input": "zhdlb", "target": "知道了吧"}
+{"input": "zhszmhs", "target": "这是怎么回事"}
+{"input": "hxysh", "target": "好像也是"}
+{"input": "wwfz", "target": "我玩辅助"}
+{"input": "hdqsh", "target": "荒岛求生"}
+{"input": "mcdzhy", "target": "每次都这样"}
+{"input": "yzbh", "target": "有赞必回"}
+{"input": "kykmm", "target": "可以开麦吗"}
+{"input": "zgzhg", "target": "这个这个"}
+{"input": "hxshb", "target": "好像是吧"}
+{"input": "zykym", "target": "这样可以吗"}
+{"input": "shxsx", "target": "上线上线"}
+{"input": "sjlmy", "target": "睡觉了没有"}
+{"input": "nzjsd", "target": "你自己说的"}
+{"input": "ngfl", "target": "你过分了"}
+{"input": "ndyn", "target": "哪都有你"}
+{"input": "yhzhc", "target": "也很正常"}
+{"input": "shnydrm", "target": "是那样的人吗"}
+{"input": "nswssh", "target": "你说我是谁"}
+{"input": "ldnl", "target": "轮到你了"}
+{"input": "zhzhmm", "target": "朝朝暮暮"}
+{"input": "sqq", "target": "死翘翘"}
+{"input": "bgshmsh", "target": "不管什么时候"}
+{"input": "mpsh", "target": "买瓶水"}
+{"input": "fjbc", "target": "风景不错"}
+{"input": "wshzsh", "target": "我上钻石"}
+{"input": "nxgmj", "target": "你想干嘛就"}
+{"input": "lzp", "target": "老子爬"}
+{"input": "szhzr", "target": "是这种人"}
+{"input": "shwc", "target": "是我错"}
+{"input": "cgwt", "target": "唱给我听"}
+{"input": "chyxl", "target": "吃夜宵了"}
+{"input": "hmqg", "target": "还没去过"}
+{"input": "ynby", "target": "云南白药"}
+{"input": "zshmzh", "target": "掌上明珠"}
+{"input": "wdyh", "target": "我等一会"}
+{"input": "khq", "target": "快回去"}
+{"input": "jsxy", "target": "技师学院"}
+{"input": "mflsl", "target": "麻烦老师了"}
+{"input": "rzhsg", "target": "忍者神龟"}
+{"input": "tbhl", "target": "他不回来"}
+{"input": "zbsnshdm", "target": "这不是你说的吗"}
+{"input": "wlych", "target": "网络异常"}
+{"input": "wbgsh", "target": "我不敢说话"}
+{"input": "dzhdq", "target": "多挣点钱"}
+{"input": "wsnpy", "target": "我是你朋友"}
+{"input": "zhdcl", "target": "找到车了"}
+{"input": "rjyh", "target": "人间烟火"}
+{"input": "zhshp", "target": "装饰品"}
+{"input": "nmshmn", "target": "你忙什么呢"}
+{"input": "nsss", "target": "女生宿舍"}
+{"input": "dspdh", "target": "打视频电话"}
+{"input": "jmfn", "target": "就麻烦你"}
+{"input": "fshmkdy", "target": "发什么快递呀"}
+{"input": "xsbn", "target": "西双版纳"}
+{"input": "nqdyk", "target": "你确定要看"}
+{"input": "nsmzh", "target": "你三秒钟"}
+{"input": "nhyym", "target": "你会游泳吗"}
+{"input": "zyyl", "target": "这样一来"}
+{"input": "wybgsh", "target": "我也不敢说"}
+{"input": "htzsh", "target": "后天早上"}
+{"input": "tpp", "target": "题拍拍"}
+{"input": "jxshb", "target": "就先睡吧"}
+{"input": "cchwf", "target": "才吃完饭"}
+{"input": "jshcd", "target": "积少成多"}
+{"input": "wxygly", "target": "我想要管理员"}
+{"input": "wwyyd", "target": "我无言以对"}
+{"input": "nzljm", "target": "你在老家吗"}
+{"input": "hdhs", "target": "患得患失"}
+{"input": "chsf", "target": "吃啥饭"}
+{"input": "yshzhy", "target": "要是这样"}
+{"input": "ycxd", "target": "一次性的"}
+{"input": "fhsdk", "target": "发货速度快"}
+{"input": "hmby", "target": "还没毕业"}
+{"input": "jhlmy", "target": "结婚了没有"}
+{"input": "bxydh", "target": "不下雨的话"}
+{"input": "gshdx", "target": "干啥都行"}
+{"input": "mfkd", "target": "麻烦快点"}
+{"input": "qdlq", "target": "去打篮球"}
+{"input": "bdbdbd", "target": "不对不对不对"}
+{"input": "tcmd", "target": "挺聪明的"}
+{"input": "wfxr", "target": "无法形容"}
+{"input": "gchql", "target": "刚出去了"}
+{"input": "lpp", "target": "老婆婆"}
+{"input": "sxqt", "target": "是星期天"}
+{"input": "zdhht", "target": "真的很好听"}
+{"input": "zmjm", "target": "这么久吗"}
+{"input": "chzmd", "target": "吃这么多"}
+{"input": "shjzh", "target": "睡觉中"}
+{"input": "dshwlshh", "target": "都是为了生活"}
+{"input": "nxzmsh", "target": "你想怎么说"}
+{"input": "sgjg", "target": "说干就干"}
+{"input": "qlyl", "target": "去旅游了"}
+{"input": "nmshqb", "target": "你没生气吧"}
+{"input": "fljg", "target": "发链接给"}
+{"input": "dzmh", "target": "的这么好"}
+{"input": "dyjh", "target": "的一句话"}
+{"input": "ttkxkl", "target": "天天开心快乐"}
+{"input": "hxdm", "target": "好兄弟们"}
+{"input": "dzshd", "target": "大早上的"}
+{"input": "sdml", "target": "啥都没了"}
+{"input": "ytclb", "target": "也太惨了吧"}
+{"input": "ysfz", "target": "有身份证"}
+{"input": "nhzx", "target": "你还在线"}
+{"input": "nhlchfm", "target": "你回来吃饭吗"}
+{"input": "yryqw", "target": "有人一起玩"}
+{"input": "fgf", "target": "放管服"}
+{"input": "wygrz", "target": "我一个人在"}
+{"input": "hhzzh", "target": "慌慌张张"}
+{"input": "qtb", "target": "情头吧"}
+{"input": "bfbs", "target": "不方便说"}
+{"input": "xnxn", "target": "想你想你"}
+{"input": "xbzx", "target": "相比之下"}
+{"input": "stxz", "target": "是天蝎座"}
+{"input": "wdndys", "target": "我懂你的意思"}
+{"input": "ssbb", "target": "随随便便"}
+{"input": "wpk", "target": "玩跑酷"}
+{"input": "chxwx", "target": "痴心妄想"}
+{"input": "xgmy", "target": "想干嘛呀"}
+{"input": "nshws", "target": "你是我谁"}
+{"input": "gmbq", "target": "干嘛不去"}
+{"input": "bgnshh", "target": "不跟你说话"}
+{"input": "jlzh", "target": "既来之"}
+{"input": "rrj", "target": "忍忍就"}
+{"input": "gcj", "target": "高处见"}
+{"input": "xlyy", "target": "心理阴影"}
+{"input": "nzshmys", "target": "你这什么意思"}
+{"input": "jblwl", "target": "就不理我了"}
+{"input": "jyfs", "target": "举一反三"}
+{"input": "ndlg", "target": "你到了给"}
+{"input": "nysmbfn", "target": "那有什么办法呢"}
+{"input": "nwsyx", "target": "你玩啥游戏"}
+{"input": "dfk", "target": "单方块"}
+{"input": "dwdxh", "target": "的我都喜欢"}
+{"input": "wwyj", "target": "我玩一局"}
+{"input": "znzj", "target": "只能自己"}
+{"input": "tfjl", "target": "太费劲了"}
+{"input": "xsyj", "target": "先睡一觉"}
+{"input": "gqdlb", "target": "感情淡了呗"}
+{"input": "jzlx", "target": "就在楼下"}
+{"input": "yft", "target": "衣服脱"}
+{"input": "whmdw", "target": "我还没打完"}
+{"input": "jlym", "target": "纪律严明"}
+{"input": "zwshfm", "target": "做我师父吗"}
+{"input": "kjs", "target": "看就是"}
+{"input": "kqkk", "target": "快去看看"}
+{"input": "dhmc", "target": "都还没吃"}
+{"input": "jbgz", "target": "煎饼果子"}
+{"input": "ldbxl", "target": "老大不小了"}
+{"input": "jtjdxb", "target": "今天几点下班"}
+{"input": "nsbd", "target": "你舍不得"}
+{"input": "bsbx", "target": "不是不想"}
+{"input": "bycl", "target": "不要吃了"}
+{"input": "zngchsh", "target": "在哪个城市"}
+{"input": "nnxkb", "target": "那你先看吧"}
+{"input": "nhbsy", "target": "你还不睡呀"}
+{"input": "hnz", "target": "很难找"}
+{"input": "mlxl", "target": "没联系了"}
+{"input": "tych", "target": "体育场"}
+{"input": "ppch", "target": "碰碰车"}
+{"input": "tchlm", "target": "退出来吗"}
+{"input": "nbdyxm", "target": "你不打游戏吗"}
+{"input": "yfn", "target": "衣服呢"}
+{"input": "tqyt", "target": "提前一天"}
+{"input": "nzmsd", "target": "你怎么死的"}
+{"input": "nhhshh", "target": "你好好说话"}
+{"input": "jyfd", "target": "几月份的"}
+{"input": "tlbbzh", "target": "天龙八部之"}
+{"input": "wkbqn", "target": "我看不起你"}
+{"input": "dchx", "target": "的出现"}
+{"input": "ddgw", "target": "打得过我"}
+{"input": "mgrds", "target": "每个人都是"}
+{"input": "zgnch", "target": "做给你吃"}
+{"input": "wchsn", "target": "我捶死你"}
+{"input": "hxdlb", "target": "花心大萝卜"}
+{"input": "jyxc", "target": "建言献策"}
+{"input": "yztb", "target": "远在天边"}
+{"input": "yshr", "target": "也是人"}
+{"input": "lqxy", "target": "两情相悦"}
+{"input": "mjjkf", "target": "美酒加咖啡"}
+{"input": "hwshjk", "target": "华为手机壳"}
+{"input": "ybqd", "target": "也不确定"}
+{"input": "zdrl", "target": "找到人了"}
+{"input": "brshb", "target": "不认识吧"}
+{"input": "wckyx", "target": "我参考一下"}
+{"input": "jfgl", "target": "就发过来"}
+{"input": "ztshj", "target": "昨天手机"}
+{"input": "hrdw", "target": "恍然大悟"}
+{"input": "jtbl", "target": "今天不来"}
+{"input": "nzlmy", "target": "你走了没有"}
+{"input": "mfgl", "target": "没发过来"}
+{"input": "zhxy", "target": "真幸运"}
+{"input": "fwj", "target": "发我就"}
+{"input": "wybgw", "target": "我也不敢问"}
+{"input": "ghsh", "target": "干坏事"}
+{"input": "shchyx", "target": "市场营销"}
+{"input": "nwsmh", "target": "你为什么会"}
+{"input": "nglsm", "target": "你干了什么"}
+{"input": "hgdl", "target": "火锅底料"}
+{"input": "ygxql", "target": "一个星期了"}
+{"input": "lyr", "target": "里有人"}
+{"input": "hqch", "target": "回去吃"}
+{"input": "wfbq", "target": "我分不清"}
+{"input": "rdlld", "target": "人多力量大"}
+{"input": "hxwnn", "target": "还想问你呢"}
+{"input": "npwdb", "target": "你骗我的吧"}
+{"input": "nwmbl", "target": "那我明白了"}
+{"input": "hrhr", "target": "好热好热"}
+{"input": "xjdmg", "target": "小鸡炖蘑菇"}
+{"input": "khy", "target": "快活呀"}
+{"input": "whty", "target": "我很讨厌"}
+{"input": "sjbc", "target": "时间不长"}
+{"input": "mywtb", "target": "没有问题吧"}
+{"input": "nbhxx", "target": "你不回信息"}
+{"input": "znljh", "target": "在哪里集合"}
+{"input": "hshlt", "target": "和谁聊天"}
+{"input": "dczh", "target": "的成长"}
+{"input": "jbshq", "target": "就不生气"}
+{"input": "wgnshshhb", "target": "我跟你说实话吧"}
+{"input": "xczj", "target": "下次再见"}
+{"input": "zhsgmn", "target": "这是干嘛呢"}
+{"input": "wmtshw", "target": "我明天上午"}
+{"input": "cjk", "target": "苍井空"}
+{"input": "ntssh", "target": "那他是谁"}
+{"input": "sggq", "target": "伤感歌曲"}
+{"input": "bddzhx", "target": "不懂得珍惜"}
+{"input": "zbdn", "target": "找不到呢"}
+{"input": "bzbb", "target": "包治百病"}
+{"input": "gxbm", "target": "刚下班吗"}
+{"input": "bzyn", "target": "补作业呢"}
+{"input": "zkwxm", "target": "在开玩笑吗"}
+{"input": "xxzhh", "target": "星星之火"}
+{"input": "nhkcm", "target": "你会开车吗"}
+{"input": "rzw", "target": "让着我"}
+{"input": "zqbx", "target": "自强不息"}
+{"input": "dzdp", "target": "大众点评"}
+{"input": "wyshmy", "target": "我有什么用"}
+{"input": "mncsh", "target": "模拟城市"}
+{"input": "ndxg", "target": "你的性格"}
+{"input": "shwshf", "target": "是我师傅"}
+{"input": "kcrl", "target": "看错人了"}
+{"input": "nzbj", "target": "你咋不接"}
+{"input": "zjshj", "target": "拯救世界"}
+{"input": "gwygb", "target": "给我一个呗"}
+{"input": "bjshl", "target": "别解释了"}
+{"input": "wmgj", "target": "我没感觉"}
+{"input": "jshch", "target": "镜双城"}
+{"input": "cth", "target": "常态化"}
+{"input": "hjmj", "target": "好久没见"}
+{"input": "flfq", "target": "翻来覆去"}
+{"input": "yknm", "target": "有可能吗"}
+{"input": "nbnby", "target": "能不能不要"}
+{"input": "snpy", "target": "是你朋友"}
+{"input": "rzhchq", "target": "人之常情"}
+{"input": "zdbrsh", "target": "真的不认识"}
+{"input": "grsd", "target": "刚认识的"}
+{"input": "cfw", "target": "除非我"}
+{"input": "chhbl", "target": "撤回不了"}
+{"input": "zhzy", "target": "张真源"}
+{"input": "bzchl", "target": "不正常了"}
+{"input": "shbsb", "target": "上不上班"}
+{"input": "ddshzd", "target": "的都是真的"}
+{"input": "zttll", "target": "昨天太累了"}
+{"input": "nchlw", "target": "能出来玩"}
+{"input": "nwdnb", "target": "那我等你吧"}
+{"input": "qdzh", "target": "去打针"}
+{"input": "bjbw", "target": "别举报我"}
+{"input": "mdshl", "target": "没多少了"}
+{"input": "ztfd", "target": "昨天发的"}
+{"input": "bgsnl", "target": "不告诉你了"}
+{"input": "zmknb", "target": "怎么可能不"}
+{"input": "shwyg", "target": "是我一个"}
+{"input": "qdmj", "target": "去打麻将"}
+{"input": "brbzhd", "target": "别人不知道"}
+{"input": "zdrn", "target": "再打扰你"}
+{"input": "smf", "target": "什么饭"}
+{"input": "bwwzl", "target": "不玩王者了"}
+{"input": "wshln", "target": "我说了你"}
+{"input": "zmhj", "target": "怎么回家"}
+{"input": "qgp", "target": "去个屁"}
+{"input": "mwqn", "target": "勉为其难"}
+{"input": "hzhym", "target": "很重要吗"}
+{"input": "wzhlh", "target": "我真厉害"}
+{"input": "xdql", "target": "行动起来"}
+{"input": "xbdd", "target": "想不到的"}
+{"input": "wbxkl", "target": "我不想看了"}
+{"input": "snyjh", "target": "送你一句话"}
+{"input": "nygxm", "target": "你有关系吗"}
+{"input": "xgyb", "target": "下个月吧"}
+{"input": "yykq", "target": "有一块钱"}
+{"input": "bmsg", "target": "闭门思过"}
+{"input": "dlbj", "target": "都来不及"}
+{"input": "qtwl", "target": "前途无量"}
+{"input": "yxwm", "target": "有希望吗"}
+{"input": "dymy", "target": "的有没有"}
+{"input": "wbdt", "target": "我不渡他"}
+{"input": "swzhw", "target": "身外之物"}
+{"input": "pchq", "target": "跑出去"}
+{"input": "ybwh", "target": "有备无患"}
+{"input": "mpd", "target": "孟婆的"}
+{"input": "wsndg", "target": "我是你大哥"}
+{"input": "xxch", "target": "许星纯"}
+{"input": "bxynl", "target": "不需要你了"}
+{"input": "frd", "target": "烦人的"}
+{"input": "hywch", "target": "厚颜无耻"}
+{"input": "pfh", "target": "皮肤好"}
+{"input": "byds", "target": "不用多说"}
+{"input": "xbxt", "target": "想不想听"}
+{"input": "bshndh", "target": "不是你的号"}
+{"input": "wchxh", "target": "我超喜欢"}
+{"input": "dfsw", "target": "答非所问"}
+{"input": "kyfb", "target": "看缘分吧"}
+{"input": "mpw", "target": "没骗我"}
+{"input": "nhsn", "target": "你还是你"}
+{"input": "djzh", "target": "到极致"}
+{"input": "hlcfl", "target": "回来吃饭了"}
+{"input": "nxbm", "target": "你下班没"}
+{"input": "tbgp", "target": "太不公平"}
+{"input": "qphy", "target": "亲朋好友"}
+{"input": "frh", "target": "发入魂"}
+{"input": "mtwjy", "target": "明天我就要"}
+{"input": "nkgfj", "target": "你开个房间"}
+{"input": "ychdq", "target": "有充电器"}
+{"input": "chxzh", "target": "重新找"}
+{"input": "bgnj", "target": "不跟你讲"}
+{"input": "yyzhm", "target": "有验证码"}
+{"input": "nwlb", "target": "你无聊不"}
+{"input": "wwnwl", "target": "我无能为力"}
+{"input": "ksmn", "target": "看什么呢"}
+{"input": "xchmzhqdmx", "target": "熊出没之环球大冒险"}
+{"input": "bwhdl", "target": "比我好多了"}
+{"input": "rbjd", "target": "人比较多"}
+{"input": "shydx", "target": "是有对象"}
+{"input": "rlry", "target": "任劳任怨"}
+{"input": "nztwsjd", "target": "你昨天晚上几点"}
+{"input": "fbzh", "target": "副班长"}
+{"input": "ydshg", "target": "要多少个"}
+{"input": "wyshr", "target": "我也是人"}
+{"input": "wslsh", "target": "我是老师"}
+{"input": "gzwb", "target": "跟着我吧"}
+{"input": "wdkxjh", "target": "玩的开心就好"}
+{"input": "bhjm", "target": "不回家吗"}
+{"input": "mbcd", "target": "蛮不错的"}
+{"input": "hdwzh", "target": "还打王者"}
+{"input": "rxh", "target": "人喜欢"}
+{"input": "rdml", "target": "人都没了"}
+{"input": "wrbl", "target": "我忍不了"}
+{"input": "gjtq", "target": "过几天去"}
+{"input": "zhdshshm", "target": "知道是谁吗"}
+{"input": "qyxj", "target": "轻颜相机"}
+{"input": "bnp", "target": "不能骗"}
+{"input": "lwjc", "target": "来我家吃"}
+{"input": "hfj", "target": "回房间"}
+{"input": "tbgz", "target": "特别关注"}
+{"input": "ryb", "target": "容易被"}
+{"input": "shwdq", "target": "生我的气"}
+{"input": "xtlw", "target": "想套路我"}
+{"input": "nwybql", "target": "那我也不去了"}
+{"input": "wyyzl", "target": "我也要走了"}
+{"input": "rxd", "target": "任性的"}
+{"input": "chqxm", "target": "重庆小面"}
+{"input": "xbdrn", "target": "先不打扰你"}
+{"input": "shshry", "target": "事事如意"}
+{"input": "dhldj", "target": "打火力对决"}
+{"input": "whrzh", "target": "我很认真"}
+{"input": "snyzh", "target": "是哪一种"}
+{"input": "sft", "target": "上法庭"}
+{"input": "qbkl", "target": "去补课了"}
+{"input": "nzzhp", "target": "那张照片"}
+{"input": "yyhy", "target": "以牙还牙"}
+{"input": "wysmgx", "target": "我有什么关系"}
+{"input": "cchch", "target": "蹭吃蹭喝"}
+{"input": "yshmb", "target": "有什么不"}
+{"input": "lsshsl", "target": "蓝色生死恋"}
+{"input": "xndshh", "target": "想你的时候"}
+{"input": "jbysh", "target": "就不用说"}
+{"input": "txgg", "target": "甜心格格"}
+{"input": "jtyh", "target": "交通银行"}
+{"input": "sswr", "target": "四舍五入"}
+{"input": "nkyshhm", "target": "你可以说话吗"}
+{"input": "lxq", "target": "撩星球"}
+{"input": "glgwl", "target": "孤陋寡闻了"}
+{"input": "nzhc", "target": "你真菜"}
+{"input": "ztsd", "target": "昨天说的"}
+{"input": "hlyh", "target": "话里有话"}
+{"input": "wyssh", "target": "我也是说"}
+{"input": "wygrw", "target": "我一个人玩"}
+{"input": "zhzhrs", "target": "蒸蒸日上"}
+{"input": "tzsl", "target": "太自私了"}
+{"input": "hysmm", "target": "还有什么吗"}
+{"input": "wbwn", "target": "我不问你"}
+{"input": "npch", "target": "你平常"}
+{"input": "tbhd", "target": "他不会的"}
+{"input": "wdll", "target": "我都老了"}
+{"input": "ngyz", "target": "那个样子"}
+{"input": "gnhf", "target": "给你回复"}
+{"input": "frj", "target": "缝纫机"}
+{"input": "xznl", "target": "现在哪里"}
+{"input": "jshxsb", "target": "接受现实吧"}
+{"input": "hjhjyq", "target": "很久很久以前"}
+{"input": "bgwt", "target": "别跟我跳"}
+{"input": "dmshd", "target": "的没事的"}
+{"input": "gdhhm", "target": "过得还好吗"}
+{"input": "wmcyf", "target": "我没穿衣服"}
+{"input": "gnshzd", "target": "跟你说真的"}
+{"input": "gbgb", "target": "滚吧滚吧"}
+{"input": "zdyc", "target": "再打一次"}
+{"input": "nbzhms", "target": "你别这么说"}
+{"input": "tdsj", "target": "他的手机"}
+{"input": "wnbzd", "target": "我能不知道"}
+{"input": "tqfn", "target": "他欺负你"}
+{"input": "wbxgnshhl", "target": "我不想跟你说话了"}
+{"input": "xtsl", "target": "心疼死了"}
+{"input": "rwzj", "target": "让我自己"}
+{"input": "ybzhdss", "target": "也不知道是谁"}
+{"input": "zdxd", "target": "找对象的"}
+{"input": "csf", "target": "测试服"}
+{"input": "hmwgn", "target": "还没玩够呢"}
+{"input": "smshy", "target": "什么时候有"}
+{"input": "bxsj", "target": "不限时间"}
+{"input": "dmxb", "target": "大冒险吧"}
+{"input": "shdyy", "target": "谁都一样"}
+{"input": "sjdkd", "target": "是京东快递"}
+{"input": "yjyh", "target": "有借有还"}
+{"input": "jyxn", "target": "加一下你"}
+{"input": "shbp", "target": "肾宝片"}
+{"input": "nrwsq", "target": "你惹我生气"}
+{"input": "dlr", "target": "代理人"}
+{"input": "ttbty", "target": "他同不同意"}
+{"input": "ywbzh", "target": "一文不值"}
+{"input": "shysg", "target": "是一首歌"}
+{"input": "nhxwm", "target": "你会想我吗"}
+{"input": "wshmh", "target": "为什么还"}
+{"input": "nldsh", "target": "你来的时候"}
+{"input": "nmp", "target": "那么胖"}
+{"input": "rwn", "target": "认为呢"}
+{"input": "mbsh", "target": "暮白首"}
+{"input": "zzhyn", "target": "咋这样呢"}
+{"input": "shjsz", "target": "世界上最"}
+{"input": "wdzhh", "target": "我的账号"}
+{"input": "jbcql", "target": "就不出去了"}
+{"input": "nghn", "target": "你干哈呢"}
+{"input": "shsnlp", "target": "谁是你老婆"}
+{"input": "kmdr", "target": "开免打扰"}
+{"input": "dfh", "target": "的废话"}
+{"input": "rfz", "target": "人贩子"}
+{"input": "chyk", "target": "吃一口"}
+{"input": "nsxsm", "target": "你是学生吗"}
+{"input": "zhlr", "target": "这里人"}
+{"input": "sbzh", "target": "受不住"}
+{"input": "wdjshwd", "target": "我的就是我的"}
+{"input": "wsss", "target": "无所事事"}
+{"input": "wbshf", "target": "胃不舒服"}
+{"input": "tydkz", "target": "太阳当空照"}
+{"input": "lxk", "target": "李希侃"}
+{"input": "mmjshn", "target": "明明就是你"}
+{"input": "bknsh", "target": "不可能是"}
+{"input": "mshqch", "target": "没说清楚"}
+{"input": "swshm", "target": "是为什么"}
+{"input": "shzjzdlx", "target": "说走就走的旅行"}
+{"input": "dbdpw", "target": "打不打排位"}
+{"input": "mygr", "target": "没一个人"}
+{"input": "wsshx", "target": "我是神仙"}
+{"input": "yjxs", "target": "英俊潇洒"}
+{"input": "sdxy", "target": "啥东西呀"}
+{"input": "hqchl", "target": "很清楚了"}
+{"input": "btbh", "target": "半天不回"}
+{"input": "gwlx", "target": "跟我联系"}
+{"input": "wxchf", "target": "我想吃饭"}
+{"input": "bgkl", "target": "不敢看了"}
+{"input": "gnlg", "target": "给你两个"}
+{"input": "hjcfl", "target": "回家吃饭了"}
+{"input": "ztp", "target": "昨天拍"}
+{"input": "hlhq", "target": "换来换去"}
+{"input": "mtbql", "target": "明天不去了"}
+{"input": "fxz", "target": "副校长"}
+{"input": "nwbll", "target": "你玩不了了"}
+{"input": "srx", "target": "三人行"}
+{"input": "zwxzh", "target": "在我心中"}
+{"input": "rjw", "target": "人加我"}
+{"input": "dpwy", "target": "打排位呀"}
+{"input": "yrsh", "target": "也认识"}
+{"input": "byshm", "target": "不要什么"}
+{"input": "xsqn", "target": "想失去你"}
+{"input": "nshwdxbb", "target": "你是我的小宝贝"}
+{"input": "zsgmy", "target": "这是干嘛呀"}
+{"input": "nkygdx", "target": "你看一个东西"}
+{"input": "nhdyx", "target": "你核对一下"}
+{"input": "xzr", "target": "现在人"}
+{"input": "zhzhf", "target": "涨涨粉"}
+{"input": "nfyyb", "target": "你发语音吧"}
+{"input": "dbgwk", "target": "都不给我看"}
+{"input": "ygrk", "target": "一个人扛"}
+{"input": "khdw", "target": "快回答我"}
+{"input": "bdyjy", "target": "波多野结衣"}
+{"input": "cndyf", "target": "穿你的衣服"}
+{"input": "zhjtz", "target": "这几天在"}
+{"input": "nshqcd", "target": "你说清楚点"}
+{"input": "gjtz", "target": "过几天再"}
+{"input": "ywbl", "target": "也玩不了"}
+{"input": "mgmb", "target": "没搞明白"}
+{"input": "bzdz", "target": "不知道在"}
+{"input": "wskwxd", "target": "我是开玩笑的"}
+{"input": "nzgwkwx", "target": "你在跟我开玩笑"}
+{"input": "sbsd", "target": "随便说的"}
+{"input": "ksxl", "target": "快上学了"}
+{"input": "dzhdh", "target": "地址电话"}
+{"input": "jhmm", "target": "激活码吗"}
+{"input": "bxgq", "target": "不想过去"}
+{"input": "ydsn", "target": "一定是你"}
+{"input": "hgsn", "target": "会告诉你"}
+{"input": "ngshml", "target": "你干什么了"}
+{"input": "zsnm", "target": "这是你们"}
+{"input": "hmdwn", "target": "还没打完呢"}
+{"input": "swbg", "target": "是我表哥"}
+{"input": "nydbd", "target": "你又打不到"}
+{"input": "wldyt", "target": "无聊的一天"}
+{"input": "szzhyd", "target": "是最重要的"}
+{"input": "jdmkj", "target": "就当没看见"}
+{"input": "smky", "target": "什么可以"}
+{"input": "wqksp", "target": "我去看视频"}
+{"input": "nytlh", "target": "你也太厉害"}
+{"input": "shtzmy", "target": "身体怎么样"}
+{"input": "myhnxx", "target": "没有回你信息"}
+{"input": "ddshjn", "target": "打的时候叫你"}
+{"input": "hhshkb", "target": "好好上课吧"}
+{"input": "yzmhd", "target": "有这么好的"}
+{"input": "dbzsh", "target": "的备注是"}
+{"input": "mrdl", "target": "没人搭理"}
+{"input": "bwfyx", "target": "帮我发一下"}
+{"input": "nxwyx", "target": "你先问一下"}
+{"input": "wzhyhl", "target": "我终于回来"}
+{"input": "yshxxl", "target": "有事先下了"}
+{"input": "wqchd", "target": "我去吃点"}
+{"input": "jbwslb", "target": "就把我删了吧"}
+{"input": "ysmsgw", "target": "有什么事跟我"}
+{"input": "wdshx", "target": "我倒是想"}
+{"input": "jbbg", "target": "金币不够"}
+{"input": "wxzyg", "target": "我想找一个"}
+{"input": "mychd", "target": "没有吃的"}
+{"input": "ymytg", "target": "有没有听过"}
+{"input": "jbkm", "target": "就不开麦"}
+{"input": "rsnl", "target": "认识你了"}
+{"input": "jjzg", "target": "纠结这个"}
+{"input": "fgzp", "target": "发个作品"}
+{"input": "nnbwl", "target": "你那边网络"}
+{"input": "tmdmy", "target": "他们都没有"}
+{"input": "rwwcl", "target": "任务完成了"}
+{"input": "tyzd", "target": "他也知道"}
+{"input": "bszwm", "target": "不是在外面"}
+{"input": "tkdqw", "target": "太看得起我"}
+{"input": "bnkk", "target": "帮你看看"}
+{"input": "nlll", "target": "哪里亮了"}
+{"input": "fzhy", "target": "反正还有"}
+{"input": "yygxf", "target": "有一个想法"}
+{"input": "shlmsh", "target": "说了没事"}
+{"input": "zmcw", "target": "桌面宠物"}
+{"input": "bnjq", "target": "不能进去"}
+{"input": "xxngzh", "target": "谢谢你关注"}
+{"input": "jbty", "target": "就不同意"}
+{"input": "bykshj", "target": "不要看手机"}
+{"input": "zmmj", "target": "这么磨叽"}
+{"input": "kywt", "target": "可以问他"}
+{"input": "chdyx", "target": "重登一下"}
+{"input": "bhwsn", "target": "彪悍枉少年"}
+{"input": "wxhfg", "target": "微信号发给"}
+{"input": "zghs", "target": "这个还是"}
+{"input": "dkls", "target": "都快累死"}
+{"input": "ymqdmy", "target": "一毛钱都没有"}
+{"input": "zhgjky", "target": "这个就可以"}
+{"input": "shjmh", "target": "世间美好"}
+{"input": "znzhyz", "target": "只能这样子"}
+{"input": "zjznl", "target": "最近在哪里"}
+{"input": "yjxz", "target": "已经下载"}
+{"input": "zyfb", "target": "这样方便"}
+{"input": "yzhzshj", "target": "一直在睡觉"}
+{"input": "nmdxj", "target": "那么多细节"}
+{"input": "mzfz", "target": "名字复制"}
+{"input": "gwjr", "target": "各位家人"}
+{"input": "shlzmb", "target": "输了怎么办"}
+{"input": "dsfyzs", "target": "动手丰衣足食"}
+{"input": "ychdx", "target": "有处对象"}
+{"input": "bnmm", "target": "把你密码"}
+{"input": "hgjd", "target": "换个角度"}
+{"input": "bswbx", "target": "不是我不想"}
+{"input": "shwgc", "target": "是我搞错"}
+{"input": "nshwt", "target": "你说我听"}
+{"input": "lbxhq", "target": "两把信号枪"}
+{"input": "nmhh", "target": "你们好好"}
+{"input": "gmgx", "target": "闺蜜关系"}
+{"input": "yqdhgq", "target": "一切都会过去"}
+{"input": "mjlg", "target": "没经历过"}
+{"input": "jchbxql", "target": "坚持不下去了"}
+{"input": "hmyqd", "target": "还没有确定"}
+{"input": "zzdzh", "target": "在这等着"}
+{"input": "wywns", "target": "我以为你是"}
+{"input": "wzhwb", "target": "我中午不"}
+{"input": "fwxg", "target": "发微信给"}
+{"input": "xzbxy", "target": "现在不需要"}
+{"input": "hmsk", "target": "还没上课"}
+{"input": "fchgxnd", "target": "非常感谢你的"}
+{"input": "shhxy", "target": "生活需要"}
+{"input": "jrxz", "target": "既然选择"}
+{"input": "zmds", "target": "怎么打算"}
+{"input": "nnbymy", "target": "你那边有没有"}
+{"input": "yhwh", "target": "以后我会"}
+{"input": "jrmw", "target": "居然骂我"}
+{"input": "zhshkx", "target": "正式开学"}
+{"input": "wgnjg", "target": "我给你讲个"}
+{"input": "gyxmm", "target": "改一下密码"}
+{"input": "bdlbd", "target": "不打了不打"}
+{"input": "dwshmd", "target": "当我什么都"}
+{"input": "zhgqsh", "target": "这个确实"}
+{"input": "pshmgsn", "target": "凭什么告诉你"}
+{"input": "gwww", "target": "给我玩玩"}
+{"input": "shxnhw", "target": "树下你和我"}
+{"input": "zjbx", "target": "自己不行"}
+{"input": "wzbr", "target": "我在别人"}
+{"input": "dkdj", "target": "都快到家"}
+{"input": "zhshnbw", "target": "这是你逼我"}
+{"input": "djxh", "target": "大家喜欢"}
+{"input": "scsx", "target": "上册数学"}
+{"input": "ddzshsm", "target": "到底在说什么"}
+{"input": "bydf", "target": "不要掉粉"}
+{"input": "nbshwd", "target": "你不说我都"}
+{"input": "zshdcd", "target": "只是单纯的"}
+{"input": "jqyfh", "target": "价钱一分货"}
+{"input": "bfxdh", "target": "不放心的话"}
+{"input": "hzkh", "target": "还在开会"}
+{"input": "lldnl", "target": "亮了点哪里"}
+{"input": "ggfsh", "target": "刚刚发生"}
+{"input": "hxshw", "target": "好像是我"}
+{"input": "lznl", "target": "来自哪里"}
+{"input": "wnzhx", "target": "为你着想"}
+{"input": "shjsmy", "target": "世界上没有"}
+{"input": "wmdm", "target": "我们都没"}
+{"input": "bjwzh", "target": "边境王者"}
+{"input": "xzhzj", "target": "现在还在家"}
+{"input": "bfjfn", "target": "不服就服你"}
+{"input": "dllj", "target": "打了两局"}
+{"input": "kwzmy", "target": "看我怎么样"}
+{"input": "chjtz", "target": "超级兔子"}
+{"input": "chlql", "target": "冲凉去了"}
+{"input": "nwgq", "target": "那我过去"}
+{"input": "gswyxm", "target": "告诉我一下吗"}
+{"input": "wsmym", "target": "为什么要骂"}
+{"input": "zyzjd", "target": "注意自己的"}
+{"input": "lbcz", "target": "李白乘舟"}
+{"input": "ggshl", "target": "刚刚睡了"}
+{"input": "shbqlm", "target": "上班去了吗"}
+{"input": "xzzzl", "target": "现在在这里"}
+{"input": "ylhss", "target": "赢了还是输"}
+{"input": "wjbyn", "target": "我就不要你"}
+{"input": "wmnsh", "target": "我们女生"}
+{"input": "bzhyww", "target": "背着洋娃娃"}
+{"input": "dkdn", "target": "都看到你"}
+{"input": "thhl", "target": "他会回来"}
+{"input": "xxjrm", "target": "谢谢家人们"}
+{"input": "xzmbf", "target": "现在没办法"}
+{"input": "nglwg", "target": "你过来我给"}
+{"input": "zjlsj", "target": "在家里睡觉"}
+{"input": "synxz", "target": "所以你现在"}
+{"input": "rhwjg", "target": "然后我就跟"}
+{"input": "qbzp", "target": "全部作品"}
+{"input": "xqshb", "target": "先去睡吧"}
+{"input": "zmnzhyz", "target": "怎么能这样子"}
+{"input": "mtxch", "target": "满天星辰"}
+{"input": "jshygg", "target": "介绍一个给"}
+{"input": "nnyy", "target": "那你愿意"}
+{"input": "wmsp", "target": "我们视频"}
+{"input": "wzmx", "target": "我怎么想"}
+{"input": "jtznl", "target": "今天在哪里"}
+{"input": "rhnm", "target": "然后你们"}
+{"input": "jqdd", "target": "加强党的"}
+{"input": "nmdjk", "target": "那么多借口"}
+{"input": "zhbdgz", "target": "找不到工作"}
+{"input": "xzzch", "target": "现在在吃"}
+{"input": "zshmsq", "target": "做什么事情"}
+{"input": "nbnbzy", "target": "能不能别这样"}
+{"input": "nbnyd", "target": "能不能有点"}
+{"input": "jdsm", "target": "觉得什么"}
+{"input": "ggshlyx", "target": "刚刚试了一下"}
+{"input": "bspr", "target": "不是骗人"}
+{"input": "xzmwl", "target": "现在忙完了"}
+{"input": "yxjhl", "target": "一下就好了"}
+{"input": "kwfd", "target": "看我发的"}
+{"input": "gnyfz", "target": "给你一分钟"}
+{"input": "kylc", "target": "可以乱吃"}
+{"input": "hkdpn", "target": "好看的皮囊"}
+{"input": "szmg", "target": "是怎么搞"}
+{"input": "bnrn", "target": "不能让你"}
+{"input": "zddhg", "target": "再打电话给"}
+{"input": "dsnzd", "target": "但是你知道"}
+{"input": "yjtyl", "target": "已经同意了"}
+{"input": "jdgh", "target": "记得盖好"}
+{"input": "zhltdl", "target": "这里停电了"}
+{"input": "tqps", "target": "他去爬山"}
+{"input": "yntz", "target": "与你同在"}
+{"input": "gltjh", "target": "过两天就好"}
+{"input": "xrzg", "target": "下人走过"}
+{"input": "shjly", "target": "睡觉了呀"}
+{"input": "jgmm", "target": "见过面吗"}
+{"input": "ychlhd", "target": "养成良好的"}
+{"input": "bshgsn", "target": "不是告诉你"}
+{"input": "bzbr", "target": "帮助别人"}
+{"input": "bshwdshj", "target": "不是我的手机"}
+{"input": "zhzth", "target": "正在通话"}
+{"input": "xgsj", "target": "下个赛季"}
+{"input": "blwt", "target": "不了问题"}
+{"input": "ywnc", "target": "因为你长"}
+{"input": "sjhgw", "target": "手机号给我"}
+{"input": "shmwx", "target": "什么玩笑"}
+{"input": "zychr", "target": "终于承认"}
+{"input": "shhkk", "target": "上号看看"}
+{"input": "qphk", "target": "气泡好看"}
+{"input": "nsdsrh", "target": "你说的是人话"}
+{"input": "gnshyj", "target": "跟你说一件"}
+{"input": "zhgdhg", "target": "中国读后感"}
+{"input": "dwxw", "target": "等我写完"}
+{"input": "dshxjj", "target": "都是小姐姐"}
+{"input": "xyjf", "target": "信誉积分"}
+{"input": "ddxtl", "target": "瞪得像铜铃"}
+{"input": "xzcflm", "target": "现在吃饭了吗"}
+{"input": "tqbj", "target": "天气比较"}
+{"input": "nshmshhm", "target": "你什么时候买"}
+{"input": "zhnszh", "target": "找你算账"}
+{"input": "wmhql", "target": "我们嗨起来"}
+{"input": "xzjwygr", "target": "现在就我一个人"}
+{"input": "mydbq", "target": "没有对不起"}
+{"input": "myrhd", "target": "没有任何的"}
+{"input": "jshnm", "target": "就是那么"}
+{"input": "kyxnbn", "target": "看一下能不能"}
+{"input": "jdcq", "target": "几点出去"}
+{"input": "xhbt", "target": "信号不太"}
+{"input": "sbshjbsh", "target": "说不是就不是"}
+{"input": "zdbd", "target": "做的不对"}
+{"input": "zchxf", "target": "再重新发"}
+{"input": "kydnmm", "target": "可以当你妹妹"}
+{"input": "hywshzhd", "target": "还以为是真的"}
+{"input": "nykdh", "target": "你有空的话"}
+{"input": "shsmdshd", "target": "说什么都是对"}
+{"input": "wlgp", "target": "我录个屏"}
+{"input": "tpfm", "target": "头皮发麻"}
+{"input": "ktshm", "target": "看他什么"}
+{"input": "smdtn", "target": "什么都听你"}
+{"input": "wltc", "target": "网络太差"}
+{"input": "zbhh", "target": "这边还好"}
+{"input": "yxpy", "target": "异性朋友"}
+{"input": "zmkld", "target": "怎么考虑的"}
+{"input": "nkwxl", "target": "你开玩笑了"}
+{"input": "xwzm", "target": "像我这么"}
+{"input": "yxpjb", "target": "英雄破解版"}
+{"input": "zdzsh", "target": "知道这是"}
+{"input": "yjjzh", "target": "有酒今朝"}
+{"input": "wmzmb", "target": "我们怎么办"}
+{"input": "xfbyy", "target": "想法不一样"}
+{"input": "dmqch", "target": "多么清楚"}
+{"input": "bhfs", "target": "不会放手"}
+{"input": "zjgzj", "target": "自己给自己"}
+{"input": "wmsyg", "target": "我们是一个"}
+{"input": "yshshz", "target": "要是实在"}
+{"input": "wmzbsh", "target": "我们这边是"}
+{"input": "yhdpy", "target": "有很多朋友"}
+{"input": "dncwf", "target": "等你吃完饭"}
+{"input": "zhgtb", "target": "这个特别"}
+{"input": "wrnsq", "target": "我惹你生气"}
+{"input": "xydjg", "target": "想要的结果"}
+{"input": "jtckd", "target": "今天才看到"}
+{"input": "zqww", "target": "再去问问"}
+{"input": "zdwxz", "target": "知道我现在"}
+{"input": "nsdshzhg", "target": "你说的是这个"}
+{"input": "fhcl", "target": "封号处理"}
+{"input": "jnjj", "target": "叫你姐姐"}
+{"input": "shhzj", "target": "伤害自己"}
+{"input": "mnqgfb", "target": "模拟器官方版"}
+{"input": "sytd", "target": "声音调到"}
+{"input": "hshwk", "target": "还是我开"}
+{"input": "mmpy", "target": "慢慢培养"}
+{"input": "tshr", "target": "他说让"}
+{"input": "bzdzj", "target": "不知道自己"}
+{"input": "gndyx", "target": "跟你打游戏"}
+{"input": "lsjd", "target": "老师讲的"}
+{"input": "bmzj", "target": "爸妈在家"}
+{"input": "wzhdbrsh", "target": "我真的不认识"}
+{"input": "yshmds", "target": "有什么打算"}
+{"input": "cxdhl", "target": "吃香的喝辣"}
+{"input": "bnkyx", "target": "帮你看一下"}
+{"input": "kwgnfd", "target": "看我给你发的"}
+{"input": "wkln", "target": "我看了你"}
+{"input": "xzgnf", "target": "现在给你发"}
+{"input": "xzzhn", "target": "现在只能"}
+{"input": "jyxzgq", "target": "进一下这个群"}
+{"input": "kyhh", "target": "可以好好"}
+{"input": "zhgpy", "target": "这个朋友"}
+{"input": "shgnhz", "target": "是个女孩子"}
+{"input": "hmdh", "target": "还没到货"}
+{"input": "zjpb", "target": "直接屏蔽"}
+{"input": "nnll", "target": "你哪里来"}
+{"input": "xzdjd", "target": "现在都几点"}
+{"input": "bdjd", "target": "不打狙的"}
+{"input": "gjthw", "target": "感觉挺好玩"}
+{"input": "ybwl", "target": "也不玩了"}
+{"input": "dbzhdy", "target": "都不知道要"}
+{"input": "sjjtdn", "target": "世界尽头等你"}
+{"input": "zmhmsy", "target": "怎么还没睡呀"}
+{"input": "ytsld", "target": "有特斯拉的"}
+{"input": "bshwdq", "target": "不是我的钱"}
+{"input": "dbxl", "target": "的不行了"}
+{"input": "xqnd", "target": "嫌弃你的"}
+{"input": "xzsht", "target": "现在身体"}
+{"input": "bshnbm", "target": "不是很牛逼吗"}
+{"input": "zhqp", "target": "之前拍"}
+{"input": "wxqxyf", "target": "我先去洗衣服"}
+{"input": "nxfn", "target": "你先发你"}
+{"input": "chqssx", "target": "出去散散心"}
+{"input": "chsby", "target": "初三毕业"}
+{"input": "ljqk", "target": "了解情况"}
+{"input": "wlhmsh", "target": "晚了还没睡"}
+{"input": "qxgzh", "target": "取消关注"}
+{"input": "dyxwm", "target": "等一下我们"}
+{"input": "bzhdnxh", "target": "不知道你喜欢"}
+{"input": "wgcc", "target": "我刚才才"}
+{"input": "bhdxb", "target": "不会掉馅饼"}
+{"input": "yshxdyt", "target": "又是新的一天"}
+{"input": "jtwl", "target": "今天玩了"}
+{"input": "wybzhdzmg", "target": "我也不知道怎么搞"}
+{"input": "wdqs", "target": "我都气死"}
+{"input": "xzpyz", "target": "现在拍一张"}
+{"input": "nswdwq", "target": "你是我的万千"}
+{"input": "wlyyx", "target": "我留意一下"}
+{"input": "mzbht", "target": "名字不好听"}
+{"input": "gcxzq", "target": "刚才洗澡去"}
+{"input": "jdhgg", "target": "觉得很尴尬"}
+{"input": "bmwyx", "target": "帮忙问一下"}
+{"input": "lwgyx", "target": "来玩个游戏"}
+{"input": "mytx", "target": "没有头像"}
+{"input": "dywyg", "target": "答应我一个"}
+{"input": "wnzn", "target": "我能做你"}
+{"input": "bshrm", "target": "不是人吗"}
+{"input": "shjlbj", "target": "时间来不及"}
+{"input": "kypnlt", "target": "可以陪你聊天"}
+{"input": "tqgns", "target": "提前跟你说"}
+{"input": "wshmbz", "target": "为什么不找"}
+{"input": "yqyx", "target": "邀请一下"}
+{"input": "shjchdl", "target": "手机充电了"}
+{"input": "whgs", "target": "我会告诉"}
+{"input": "jshsbs", "target": "就说是不是"}
+{"input": "srwbsh", "target": "虽然我不是"}
+{"input": "fghbg", "target": "发个红包给"}
+{"input": "kyshs", "target": "可以说是"}
+{"input": "shzbd", "target": "是最棒的"}
+{"input": "zhshcj", "target": "准时参加"}
+{"input": "rhhm", "target": "然后后面"}
+{"input": "ylsw", "target": "原来是我"}
+{"input": "zhfql", "target": "煮饭去了"}
+{"input": "yypzhn", "target": "永远陪着你"}
+{"input": "ybshyw", "target": "要不是因为"}
+{"input": "lwty", "target": "离我太远"}
+{"input": "tfgn", "target": "他发给你"}
+{"input": "xfshds", "target": "学费是多少"}
+{"input": "gwth", "target": "个问题哈"}
+{"input": "ybhsh", "target": "要不还是"}
+{"input": "xzrz", "target": "现在人在"}
+{"input": "ysdsg", "target": "也是单身狗"}
+{"input": "pyfg", "target": "朋友发给"}
+{"input": "zhjswc", "target": "终究是我错"}
+{"input": "wzkn", "target": "我在看你"}
+{"input": "bthshh", "target": "不太会说话"}
+{"input": "wzhsrsh", "target": "我招谁惹谁"}
+{"input": "yqhs", "target": "以前还是"}
+{"input": "ysmbkn", "target": "有什么不可能"}
+{"input": "dbzhdzm", "target": "都不知道怎么"}
+{"input": "qchll", "target": "青春回来了"}
+{"input": "ywmsh", "target": "一晚没睡"}
+{"input": "msjky", "target": "马上就可以"}
+{"input": "nsshs", "target": "你说是谁"}
+{"input": "myxbm", "target": "没有下班吗"}
+{"input": "mtbysbm", "target": "明天不用上班吗"}
+{"input": "bkmd", "target": "不开麦的"}
+{"input": "bzdzmh", "target": "不知道怎么回"}
+{"input": "qbxw", "target": "全部写完"}
+{"input": "xjgn", "target": "现金给你"}
+{"input": "hshpg", "target": "还是苹果"}
+{"input": "wzjs", "target": "我自己说"}
+{"input": "njfx", "target": "你就放心"}
+{"input": "dzhpg", "target": "的照片给"}
+{"input": "wlghd", "target": "为了更好的"}
+{"input": "yfxl", "target": "衣服洗了"}
+{"input": "shpgm", "target": "视频干嘛"}
+{"input": "wdnl", "target": "我打你了"}
+{"input": "yjdzh", "target": "眼睛都肿"}
+{"input": "gwpl", "target": "给我评论"}
+{"input": "tnty", "target": "同年同月"}
+{"input": "bzhddh", "target": "不知道的话"}
+{"input": "ywxh", "target": "因为喜欢"}
+{"input": "nshjj", "target": "你是姐姐"}
+{"input": "yksshds", "target": "一棵树上吊死"}
+{"input": "bhst", "target": "保护生态"}
+{"input": "zhbrqb", "target": "找别人去吧"}
+{"input": "qgwyg", "target": "请给我一个"}
+{"input": "bznj", "target": "不扎你就"}
+{"input": "xwshmsh", "target": "下午什么时候"}
+{"input": "pshxh", "target": "平时喜欢"}
+{"input": "mtjbm", "target": "明天就报名"}
+{"input": "mrdw", "target": "没人带我"}
+{"input": "mydshq", "target": "没有多少钱"}
+{"input": "hshgzh", "target": "还是高中"}
+{"input": "zhshkk", "target": "只是看看"}
+{"input": "dshrg", "target": "但是如果"}
+{"input": "kdnm", "target": "看到你们"}
+{"input": "dmshj", "target": "对面视角"}
+{"input": "hyry", "target": "还有人要"}
+{"input": "rhjf", "target": "然后就分"}
+{"input": "wksn", "target": "我看上你"}
+{"input": "lfzhjd", "target": "两分钟就到"}
+{"input": "bsqx", "target": "不是七夕"}
+{"input": "nshgzh", "target": "你是贵州"}
+{"input": "ngcf", "target": "你刚才发"}
+{"input": "ddyg", "target": "到底要干"}
+{"input": "gnltl", "target": "跟你聊天了"}
+{"input": "cqlyt", "target": "出去了一趟"}
+{"input": "shjsy", "target": "手机上有"}
+{"input": "zjxbfb", "target": "自己想办法吧"}
+{"input": "swfd", "target": "是我发的"}
+{"input": "wgrd", "target": "我个人的"}
+{"input": "wdyml", "target": "我大姨妈来"}
+{"input": "wymz", "target": "我也没做"}
+{"input": "tjp", "target": "他就跑"}
+{"input": "yjkdl", "target": "已经看到了"}
+{"input": "zgsky", "target": "这个是可以"}
+{"input": "nwsb", "target": "你为啥不"}
+{"input": "jnqx", "target": "今年七夕"}
+{"input": "xznchl", "target": "现在能出来"}
+{"input": "ybnbw", "target": "要不你帮我"}
+{"input": "pshybj", "target": "拍摄与编辑"}
+{"input": "xzzzcf", "target": "现在正在吃饭"}
+{"input": "nxsw", "target": "你先说我"}
+{"input": "wyzc", "target": "我又做错"}
+{"input": "bzdgss", "target": "不知道该说啥"}
+{"input": "gtshsm", "target": "跟他说什么"}
+{"input": "grwhbq", "target": "个人我很抱歉"}
+{"input": "bchfzhzh", "target": "不出辅助装"}
+{"input": "ddjshm", "target": "到底叫什么"}
+{"input": "lshsg", "target": "老师说过"}
+{"input": "xzsd", "target": "鞋子收到"}
+{"input": "xmhy", "target": "下面还有"}
+{"input": "kygd", "target": "可以改的"}
+{"input": "xzrj", "target": "下载软件"}
+{"input": "fdwg", "target": "发定位给"}
+{"input": "ldzmy", "target": "聊的怎么样"}
+{"input": "jshzmsh", "target": "就是这么说"}
+{"input": "zxbb", "target": "最新版本"}
+{"input": "xzth", "target": "现在挺好"}
+{"input": "qswm", "target": "其实我们"}
+{"input": "xxlbd", "target": "谢谢老板的"}
+{"input": "rhtg", "target": "然后他跟"}
+{"input": "xzbyy", "target": "现在不一样"}
+{"input": "qdjs", "target": "抢到就是"}
+{"input": "kljbhk", "target": "哭了就不好看"}
+{"input": "ybwshl", "target": "要把我删了"}
+{"input": "shppshy", "target": "视频拍摄与"}
+{"input": "nxhsh", "target": "你喜欢啥"}
+{"input": "ygyw", "target": "有个疑问"}
+{"input": "shwmz", "target": "是我名字"}
+{"input": "jtysm", "target": "今天有什么"}
+{"input": "lwkk", "target": "来我看看"}
+{"input": "xzsshm", "target": "现在说什么"}
+{"input": "wptm", "target": "我怕他们"}
+{"input": "nnzhj", "target": "那你直接"}
+{"input": "nkld", "target": "你考虑的"}
+{"input": "kdls", "target": "看到了啥"}
+{"input": "zhxdbs", "target": "这些都不是"}
+{"input": "jtbd", "target": "今天不打"}
+{"input": "zywy", "target": "只要我有"}
+{"input": "zgygs", "target": "这个应该是"}
+{"input": "chkjd", "target": "穿盔甲的"}
+{"input": "brdyg", "target": "别人的眼光"}
+{"input": "xzyjd", "target": "现在已经到"}
+{"input": "zykssh", "target": "在一棵树上"}
+{"input": "jmfnl", "target": "就麻烦你了"}
+{"input": "dshyj", "target": "但是已经"}
+{"input": "zmlt", "target": "怎么聊天"}
+{"input": "rgnfb", "target": "如果你方便"}
+{"input": "mbnc", "target": "买杯奶茶"}
+{"input": "nsgx", "target": "你是广西"}
+{"input": "chsgl", "target": "传送过来"}
+{"input": "ymyxhd", "target": "有没有喜欢的"}
+{"input": "gwsgl", "target": "给我送过来"}
+{"input": "bfcyyy", "target": "奔赴才有意义"}
+{"input": "dswsh", "target": "都是晚上"}
+{"input": "jtwy", "target": "今天我要"}
+{"input": "jstd", "target": "就是他的"}
+{"input": "zqchf", "target": "在去吃饭"}
+{"input": "jbydd", "target": "进步一点点"}
+{"input": "jtwq", "target": "今天我去"}
+{"input": "pydh", "target": "朋友的号"}
+{"input": "sjhfg", "target": "手机号发给"}
+{"input": "tjjg", "target": "推荐几个"}
+{"input": "nbhy", "target": "你不会又"}
+{"input": "bmhl", "target": "爸妈回来"}
+{"input": "msdw", "target": "马上打完"}
+{"input": "xzdjlm", "target": "现在到家了吗"}
+{"input": "dwthd", "target": "对我挺好的"}
+{"input": "wldg", "target": "我懒得跟"}
+{"input": "chjzx", "target": "厂家直销"}
+{"input": "tdshy", "target": "听到声音"}
+{"input": "tdks", "target": "他的快手"}
+{"input": "hsgr", "target": "还是个人"}
+{"input": "gwdgl", "target": "给我打过来"}
+{"input": "nghbf", "target": "那个号被封"}
+{"input": "kkky", "target": "看看可以"}
+{"input": "njhb", "target": "那就好办"}
+{"input": "ydnt", "target": "有点难听"}
+{"input": "zhjtyzh", "target": "这几天一直"}
+{"input": "n p g zh p g w", "target": "你拍个照片给我"}
+{"input": "n m b m y", "target": "你忙不忙呀"}
+{"input": "h y y zh k n", "target": "还有一种可能"}
+{"input": "n y h p l a", "target": "你也很漂亮啊"}
+{"input": "n y g sh j l", "target": "你也该睡觉了"}
+{"input": "n j j b", "target": "那就加呗"}
+{"input": "b x g n k", "target": "不想给你看"}
+{"input": "y r f q b r e", "target": "一日夫妻百日恩"}
+{"input": "n n l w j b", "target": "那你来我家吧"}
+{"input": "n x g sh m j g sh m", "target": "你想干什么就干什么"}
+{"input": "sh x y zh j z", "target": "数学一张卷子"}
+{"input": "r g b x y d h", "target": "如果不下雨的话"}
+{"input": "w q x z l a", "target": "我去洗澡了啊"}
+{"input": "j j w t d n l", "target": "解决问题的能力"}
+{"input": "w y q ch z c l", "target": "我要去吃早餐了"}
+{"input": "n g w f y x b", "target": "你给我发一下呗"}
+{"input": "w x w x z w x", "target": "微笑微笑再微笑"}
+{"input": "n z b q s", "target": "你咋不去死"}
+{"input": "b x g s w p g g j", "target": "白雪歌送武判官归京"}
+{"input": "w s l s l", "target": "我死了算了"}
+{"input": "y j q r sh h l", "target": "已经确认收货了"}
+{"input": "n x h d r sh sh", "target": "你喜欢的人是谁"}
+{"input": "w m r sh zh m j l", "target": "我们认识这么久了"}
+{"input": "w y n m h m", "target": "我有那么坏吗"}
+{"input": "k y g w sh y x m", "target": "可以跟我说一下吗"}
+{"input": "w y b h sh q", "target": "我也不会生气"}
+{"input": "j b x w l", "target": "就不想玩了"}
+{"input": "a y h", "target": "哎呦呵"}
+{"input": "n b sh j f m", "target": "你不是减肥吗"}
+{"input": "w d n q ch h ch d", "target": "我带你去吃好吃的"}
+{"input": "w d n d q l m y z d", "target": "我赌你的枪里没有子弹"}
+{"input": "zh y x j d l", "target": "这样想就对了"}
+{"input": "y b sh w d h", "target": "又不是我的号"}
+{"input": "w y sh zh d f l", "target": "我也是真的服了"}
+{"input": "w g q x z l", "target": "我刚去洗澡了"}
+{"input": "y d x o", "target": "有点像哦"}
+{"input": "x x z d sh b", "target": "洗洗早点睡吧"}
+{"input": "w sh zh y sh d", "target": "我是这样说的"}
+{"input": "d sh j sh sh b zh", "target": "但是就是睡不着"}
+{"input": "b d n zh m w d", "target": "不带你这么玩的"}
+{"input": "w q b sh h m m z", "target": "我岂不是很没面子"}
+{"input": "n m z sh sh m y", "target": "你们在说什么呀"}
+{"input": "w y j d n", "target": "我也觉得呢"}
+{"input": "h q h h x x", "target": "回去好好休息"}
+{"input": "w g n h", "target": "王工你好"}
+{"input": "y g sh zh y d b", "target": "应该是这样的吧"}
+{"input": "w y zh m l m", "target": "我有这么老吗"}
+{"input": "n d w y x h", "target": "你等我一下哈"}
+{"input": "y g b y g l h", "target": "一个比一个厉害"}
+{"input": "w g c q k l y x", "target": "我刚才去看了一下"}
+{"input": "n w y x t b", "target": "你问一下他呗"}
+{"input": "r d n q l", "target": "人都哪去了"}
+{"input": "w m y b d y h k", "target": "我没有绑定银行卡"}
+{"input": "w g t k l", "target": "我给他看了"}
+{"input": "w y b zh d g z m sh l", "target": "我也不知道该怎么说了"}
+{"input": "n w j m l", "target": "那我就买了"}
+{"input": "x l sh f c w d sh", "target": "下列说法错误的是"}
+{"input": "j t b h y s a", "target": "今天不好意思啊"}
+{"input": "m sh p y x", "target": "没事皮一下"}
+{"input": "n m t l b", "target": "那明天聊吧"}
+{"input": "w sh n z n l", "target": "我说你在哪里"}
+{"input": "n w sh m y x y", "target": "你玩什么游戏呀"}
+{"input": "zh g b q sh sh m y s", "target": "这个表情是什么意思"}
+{"input": "w y b sh g l y", "target": "我又不是管理员"}
+{"input": "n sh z m h sh n", "target": "那是怎么回事呢"}
+{"input": "r h n j z l", "target": "然后你就走了"}
+{"input": "n b sh w k m", "target": "你不上网课吗"}
+{"input": "sh c b sh g n sh l m", "target": "上次不是跟你说了吗"}
+{"input": "x x d b h w", "target": "信息都不回我"}
+{"input": "w j ch b x q l", "target": "我坚持不下去了"}
+{"input": "n k y g l k y x", "target": "你可以过来看一下"}
+{"input": "w d m y k d n", "target": "我都没有看到你"}
+{"input": "w g g z d w zh", "target": "我刚刚在打王者"}
+{"input": "n z g m q l", "target": "你早干嘛去了"}
+{"input": "w b n sh l", "target": "我把你杀了"}
+{"input": "j r z y t x", "target": "吉人自有天相"}
+{"input": "n sh w d n p y", "target": "你是我的女朋友"}
+{"input": "k y f zh zh p m", "target": "可以发张照片吗"}
+{"input": "w b x g n w", "target": "我不想跟你玩"}
+{"input": "l y sh n h", "target": "李医生你好"}
+{"input": "n l b ch l", "target": "你俩别吵了"}
+{"input": "sh d b x g", "target": "啥都不想干"}
+{"input": "n z n g d f a", "target": "你在哪个地方啊"}
+{"input": "w sh n d b b", "target": "我是你的宝贝"}
+{"input": "w g f x h l", "target": "我刚放学回来"}
+{"input": "w sh l n y b x", "target": "我说了你又不信"}
+{"input": "w m y h", "target": "我没有哈"}
+{"input": "y g h sh l g", "target": "一个还是两个"}
+{"input": "m sh m h p d", "target": "没什么好怕的"}
+{"input": "x x m m d g zh", "target": "谢谢妹妹的关注"}
+{"input": "g w k sh d z", "target": "给我快手点赞"}
+{"input": "r h sh j m d l", "target": "然后手机没电了"}
+{"input": "w zh sh f l y", "target": "我真是服了呀"}
+{"input": "d b d w zh y", "target": "打不打王者呀"}
+{"input": "r h w j ch q l", "target": "然后我就出去了"}
+{"input": "g t m sh b y y", "target": "跟他妈傻逼一样"}
+{"input": "g x g y zh y j sh x y", "target": "广西工业职业技术学院"}
+{"input": "n p n m k g m", "target": "你跑那么快干嘛"}
+{"input": "n h m ch w", "target": "你还没吃完"}
+{"input": "w d z t m l", "target": "我打字太慢了"}
+{"input": "w m z q l", "target": "我没在群里"}
+{"input": "n k zh sh sh", "target": "你看这是谁"}
+{"input": "w g n n g q", "target": "我给你拿过去"}
+{"input": "zh l t m m", "target": "这两天忙吗"}
+{"input": "z t h sh q t", "target": "昨天还是前天"}
+{"input": "j s g q t", "target": "江苏共青团"}
+{"input": "w g n d b zh", "target": "我给你的备注"}
+{"input": "w d d zh zh b x n", "target": "我跌跌撞撞奔向你"}
+{"input": "n n x d y x b", "target": "那你先打游戏吧"}
+{"input": "w b x f l", "target": "我不想发了"}
+{"input": "x z sh y n z", "target": "现在生意难做"}
+{"input": "n z sh w z sh", "target": "你早睡我早睡"}
+{"input": "n d b d y", "target": "你打不打呀"}
+{"input": "n x h l m y", "target": "你想好了没有"}
+{"input": "x w sh m j w sh m", "target": "想玩什么就玩什么"}
+{"input": "z j h d g z zh", "target": "在今后的工作中"}
+{"input": "x m b k d y", "target": "朽木不可雕也"}
+{"input": "n d d h b", "target": "那打电话吧"}
+{"input": "zh sh t d d h", "target": "这是他的电话"}
+{"input": "w j j d q g", "target": "我就觉得奇怪"}
+{"input": "n z m t l y", "target": "你怎么退了呀"}
+{"input": "w y b d y x", "target": "我又不打游戏"}
+{"input": "w t m zh j l k", "target": "我他妈直接裂开"}
+{"input": "w z l b d n", "target": "我在路边等你"}
+{"input": "w sh z x sh d", "target": "我是做销售的"}
+{"input": "r h j b x l", "target": "然后就不行了"}
+{"input": "n b sh y d y x m", "target": "你不是要打游戏吗"}
+{"input": "n m x l l m", "target": "你们下来了吗"}
+{"input": "x w j k f h", "target": "希望尽快发货"}
+{"input": "n d n w l m", "target": "难道你忘了吗"}
+{"input": "r sh m y b z d l", "target": "人生没有白走的路"}
+{"input": "n z n g x x a", "target": "你在哪个学校啊"}
+{"input": "y g b h l b", "target": "应该不会了吧"}
+{"input": "a r b d h q l", "target": "艾瑞巴蒂嗨起来"}
+{"input": "w y j h d m sh", "target": "我一句话都没说"}
+{"input": "n x b x w d n", "target": "你信不信我打你"}
+{"input": "w z zh d zh", "target": "我在这等着"}
+{"input": "x c z y b g l", "target": "下次再也不敢了"}
+{"input": "w g n w l", "target": "我给你问了"}
+{"input": "y sh m sh h w sh", "target": "有什么事和我说"}
+{"input": "n n l zh w m", "target": "你能来找我吗"}
+{"input": "s y a h x sh d d b d", "target": "所以爱会消失的对不对"}
+{"input": "n w l j n", "target": "那我来接你"}
+{"input": "p y d l l h z", "target": "朋友多了路好走"}
+{"input": "w y m q l", "target": "我又没钱了"}
+{"input": "w b n f x y x", "target": "我帮你分析一下"}
+{"input": "b f x x g w l", "target": "别发信息给我了"}
+{"input": "n y d g y", "target": "你有多高呀"}
+{"input": "x z z n l f c y", "target": "现在在哪里发财呀"}
+{"input": "x z b sh r sh l m", "target": "现在不是认识了吗"}
+{"input": "n zh w h l ch f m", "target": "你中午回来吃饭吗"}
+{"input": "w f g n l y", "target": "我发给你了呀"}
+{"input": "w h l y", "target": "我好了呀"}
+{"input": "w y g sh l", "target": "我又干啥了"}
+{"input": "n f g w zh g w k y x", "target": "你发个位置给我看一下"}
+{"input": "w z j ch h l", "target": "我早就吃好了"}
+{"input": "w y d p w l", "target": "我要打排位了"}
+{"input": "n y b r sh t", "target": "你又不认识他"}
+{"input": "w y b zh d z m", "target": "我也不知道怎么"}
+{"input": "x t x t q q g q", "target": "夏天夏天悄悄过去"}
+{"input": "n y sh m y q m", "target": "你有什么要求吗"}
+{"input": "n x d sh sh m", "target": "你写的是什么"}
+{"input": "n m j d x b a", "target": "你们几点下班啊"}
+{"input": "w g n j sh d x", "target": "我给你介绍对象"}
+{"input": "w zh d h a h a n", "target": "我真的好爱好爱你"}
+{"input": "r g n z w sh b", "target": "如果你在我身边"}
+{"input": "w g j w p b sh n", "target": "我感觉我配不上你"}
+{"input": "n sh w d h p y", "target": "你是我的好朋友"}
+{"input": "s l b w l", "target": "算了不玩了"}
+{"input": "w g d j y", "target": "我刚到家呀"}
+{"input": "g j sh j b n", "target": "赶紧睡觉吧你"}
+{"input": "n z m n y", "target": "那怎么弄呀"}
+{"input": "g d d d d", "target": "该懂的都懂"}
+{"input": "n zh d w sh m", "target": "你知道我谁吗"}
+{"input": "sh f sh l g s r d", "target": "舒服是留给死人的"}
+{"input": "zh sh w m x d d", "target": "这是我没想到的"}
+{"input": "w d q b g x q", "target": "我对钱不感兴趣"}
+{"input": "n m z n", "target": "那名字呢"}
+{"input": "w sh b j d h", "target": "为啥不接电话"}
+{"input": "n k y k l k l", "target": "你可以考虑考虑"}
+{"input": "d y x w zh n", "target": "等一下我找你"}
+{"input": "x k l l d", "target": "辛苦了领导"}
+{"input": "zh sh sh d h", "target": "这是谁的号"}
+{"input": "n m x x w b w", "target": "你们先选我补位"}
+{"input": "d sh m q a", "target": "但是没钱啊"}
+{"input": "w d y k s l", "target": "我都要困死了"}
+{"input": "w z m ch h n n", "target": "我怎么称呼你呢"}
+{"input": "h x d z l g f", "target": "好心当做驴肝肺"}
+{"input": "zh y sh b g d", "target": "这有啥不敢的"}
+{"input": "d sh w j z x", "target": "当时我就在想"}
+{"input": "n x z z l m", "target": "你现在走了吗"}
+{"input": "n l w j zh w", "target": "你来我家找我"}
+{"input": "n b d zh a", "target": "你别当真啊"}
+{"input": "w l s y j l", "target": "为了碎银几两"}
+{"input": "q j x f m m", "target": "全家幸福美满"}
+{"input": "zh n ch j k l", "target": "祝你春节快乐"}
+{"input": "w h b zh y x", "target": "我好备注一下"}
+{"input": "n l n l z n l", "target": "努力努力再努力"}
+{"input": "j t g m q l", "target": "今天干嘛去了"}
+{"input": "w sh w b q l", "target": "我说我不去了"}
+{"input": "n m b w d y s m", "target": "你明白我的意思吗"}
+{"input": "d l x f d zh", "target": "丢了幸福的猪"}
+{"input": "n n sh w sh sh", "target": "那你说我是谁"}
+{"input": "b w zh l y x b", "target": "帮我助力一下呗"}
+{"input": "n b l w d sh h", "target": "你不理我的时候"}
+{"input": "n sh e c y sh j", "target": "你是恩赐也是劫"}
+{"input": "w g j n z m w", "target": "我感觉你在骂我"}
+{"input": "n h sh j w b", "target": "你还是加我吧"}
+{"input": "n y n m y zh", "target": "哪有那么严重"}
+{"input": "n z n l g sh m", "target": "你在那里干什么"}
+{"input": "d h l x k h", "target": "电话联系客户"}
+{"input": "y b sh l d w y", "target": "有本事来打我呀"}
+{"input": "k y q zh n m", "target": "可以去找你吗"}
+{"input": "x x l sh d k j", "target": "谢谢老师的夸奖"}
+{"input": "n x h h x x", "target": "你先好好休息"}
+{"input": "j j d d y d y c", "target": "简简单单又得一餐"}
+{"input": "g z n h", "target": "高总你好"}
+{"input": "m t x w k y m", "target": "明天下午可以吗"}
+{"input": "zh g k y y m", "target": "这个可以用吗"}
+{"input": "w y d y y sh r", "target": "我用的语音输入"}
+{"input": "r g b y d h", "target": "如果不要的话"}
+{"input": "r g n y q d h", "target": "如果你要去的话"}
+{"input": "n w sh ch d sh", "target": "你晚上吃的啥"}
+{"input": "n b n y h d", "target": "能不能优惠点"}
+{"input": "l p l p w a n", "target": "老婆老婆我爱你"}
+{"input": "t l h w l", "target": "他拉黑我了"}
+{"input": "w h y w n b y w l n", "target": "我还以为你不要我了呢"}
+{"input": "n m r sh d j l", "target": "你们认识多久了"}
+{"input": "t x f l", "target": "太幸福啦"}
+{"input": "n w z sh y x", "target": "那我再试一下"}
+{"input": "h ch sh j m j l", "target": "好长时间没见了"}
+{"input": "j z w j f j", "target": "就在我家附近"}
+{"input": "w h y w n sh n d", "target": "我还以为你是男的"}
+{"input": "n n j w g m", "target": "那你叫我干嘛"}
+{"input": "m r sh n zh q", "target": "没认识你之前"}
+{"input": "w x y m zh j", "target": "我需要瞄准镜"}
+{"input": "w zh d n y sh sh m", "target": "我知道你要说什么"}
+{"input": "r g y l b b n", "target": "如果月亮不抱你"}
+{"input": "n sh j n j y", "target": "你上几年级呀"}
+{"input": "x g x h z y y", "target": "像个小孩子一样"}
+{"input": "n d sh j q x x m", "target": "你带手机去学校吗"}
+{"input": "r h j b h l", "target": "然后就不会了"}
+{"input": "n n m a", "target": "那你忙啊"}
+{"input": "t f t b zh zh", "target": "台风蜕变之战"}
+{"input": "n j w y sh b b", "target": "你叫我一声爸爸"}
+{"input": "w l g n l", "target": "我勒个娘勒"}
+{"input": "n d d j sh m m z", "target": "你到底叫什么名字"}
+{"input": "w y y g m x", "target": "我有一个梦想"}
+{"input": "t r y d", "target": "天若有道"}
+{"input": "n n q zh t b", "target": "那你去找他吧"}
+{"input": "m ch d f f zh y", "target": "忙趁东风放纸鸢"}
+{"input": "f g l r w k k", "target": "发过来让我看看"}
+{"input": "n w g l b", "target": "那我过来吧"}
+{"input": "d l d l d l", "target": "到了到了到了"}
+{"input": "n n sh m sh h x b", "target": "那你什么时候下班"}
+{"input": "n c sh m r n", "target": "你凑什么热闹"}
+{"input": "n x sh y h e b", "target": "你先睡一会儿吧"}
+{"input": "n x z h z w m", "target": "你现在还在玩吗"}
+{"input": "d j d sh h p y", "target": "大家都是好朋友"}
+{"input": "n m j t f j m", "target": "你们今天放假吗"}
+{"input": "t p b sh", "target": "逃跑吧少"}
+{"input": "w x z y ch m l", "target": "我现在要出门了"}
+{"input": "n y x s w a", "target": "你要笑死我啊"}
+{"input": "w j x h n zh y", "target": "我就喜欢你这样"}
+{"input": "n zh h y", "target": "那正好呀"}
+{"input": "z m b j sh p n", "target": "怎么不接视频呢"}
+{"input": "n y sh b q", "target": "你要是不去"}
+{"input": "w d f x d c j sh", "target": "我的分享到此结束"}
+{"input": "n z h m sh y", "target": "你咋还没睡呀"}
+{"input": "n y zh g t x", "target": "你用这个头像"}
+{"input": "b n m z g w", "target": "把你名字给我"}
+{"input": "n n sh n d", "target": "那你是哪的"}
+{"input": "g j j s q j", "target": "冠军决赛圈见"}
+{"input": "n y y z y x l m", "target": "你英语作业写了吗"}
+{"input": "f f t k z r g", "target": "复方酮康唑软膏"}
+{"input": "n c sh z b d", "target": "你才是最棒的"}
+{"input": "n c sh j b n", "target": "你才神经病呢"}
+{"input": "zh n d w j a k", "target": "祝你端午节安康"}
+{"input": "n m z g sh n", "target": "你们在干啥呢"}
+{"input": "n w zh m j sh m", "target": "你王者名叫什么"}
+{"input": "n g w f d", "target": "你给我发的"}
+{"input": "w zh d w j l", "target": "我真的忘记了"}
+{"input": "w z y h m d", "target": "我作业还没动"}
+{"input": "n m t q b", "target": "那明天去吧"}
+{"input": "n q m n d", "target": "你去忙你的"}
+{"input": "n n y n p y m", "target": "那你有女朋友吗"}
+{"input": "n j b h w l", "target": "那就不好玩了"}
+{"input": "n m sh m sh h h q", "target": "你们什么时候回去"}
+{"input": "m a l m a l", "target": "没爱了没爱了"}
+{"input": "w x q d l", "target": "我先去打了"}
+{"input": "b y x e c x sh", "target": "不影响二次销售"}
+{"input": "z m k n m sh", "target": "怎么可能没事"}
+{"input": "z j y q y zh", "target": "最近疫情严重"}
+{"input": "n h m ch l m", "target": "你还没出来吗"}
+{"input": "n b j d w l m", "target": "你不觉得无聊吗"}
+{"input": "k l k l z j", "target": "犒劳犒劳自己"}
+{"input": "w sh d sh w z j", "target": "我说的是我自己"}
+{"input": "n b y x w l", "target": "你不要想歪了"}
+{"input": "w y b x x l", "target": "我也不想写了"}
+{"input": "n w y q l", "target": "那我也去了"}
+{"input": "n w q w y x l", "target": "那我去玩游戏了"}
+{"input": "w b g n f", "target": "我不给你发"}
+{"input": "r g x y d h", "target": "如果下雨的话"}
+{"input": "b n d w x h f g l", "target": "把你的微信号发过来"}
+{"input": "w w n z m l", "target": "我问你怎么了"}
+{"input": "w d b x k l", "target": "我都不想看了"}
+{"input": "k y f x y x m", "target": "可以分享一下吗"}
+{"input": "w d g d h w y x", "target": "我打个电话问一下"}
+{"input": "j x h n zh y d", "target": "就喜欢你这样的"}
+{"input": "n n j ch b", "target": "那你就吃吧"}
+{"input": "n d b d sh j", "target": "你带不带手机"}
+{"input": "w b sh s x y", "target": "我必生死相依"}
+{"input": "g g m k d x x", "target": "刚刚没看到信息"}
+{"input": "w g n f x x l", "target": "我给你发信息了"}
+{"input": "n r d z p r d g", "target": "女人的嘴骗人的鬼"}
+{"input": "w y x x l", "target": "我要先下了"}
+{"input": "f n w x g w", "target": "发你微信给我"}
+{"input": "zh w y b zh d a", "target": "这我也不知道啊"}
+{"input": "w y d sh zh g", "target": "我用的是这个"}
+{"input": "w h m t y n", "target": "我还没同意呢"}
+{"input": "n c z w sh sh d n h l", "target": "你存在我深深的脑海里"}
+{"input": "d j g w f x x", "target": "到家给我发消息"}
+{"input": "b n w x h g w", "target": "把你微信号给我"}
+{"input": "p g zh p f g w", "target": "拍个照片发给我"}
+{"input": "w n x x n m", "target": "我能相信你吗"}
+{"input": "n n sh z m x d n", "target": "那你是怎么想的呢"}
+{"input": "n d g w l", "target": "年都过完了"}
+{"input": "n y w z y x l m", "target": "你语文作业写了吗"}
+{"input": "w h m x t n", "target": "我还没洗头呢"}
+{"input": "x h zh sh sh f m", "target": "喜欢指数十分满"}
+{"input": "f g h b g l", "target": "发个红包过来"}
+{"input": "f l k q g w", "target": "发两块钱给我"}
+{"input": "y q w l h z", "target": "一切为了孩子"}
+{"input": "zh r n r sh m", "target": "这人你认识吗"}
+{"input": "zh g n b y d x", "target": "这个您不用担心"}
+{"input": "w d n q k", "target": "我带你去看"}
+{"input": "d l f x x g n", "target": "到了发信息给你"}
+{"input": "w zh d n b f b", "target": "我知道你不方便"}
+{"input": "n z j h sh z w m", "target": "你在家还是在外面"}
+{"input": "w g b r b y y", "target": "我跟别人不一样"}
+{"input": "n n l j w m", "target": "你能理解我吗"}
+{"input": "m sh j sh w w", "target": "没事就是问问"}
+{"input": "g w l sh d j h", "target": "各位老师大家好"}
+{"input": "h j l n h", "target": "黄经理你好"}
+{"input": "m y b zh j q", "target": "明月别枝惊鹊"}
+{"input": "b y g z j t d d y l", "target": "不要给自己太大的压力"}
+{"input": "n j z b", "target": "那就走呗"}
+{"input": "zh g b n g s n", "target": "这个不能告诉你"}
+{"input": "w n d y", "target": "我女的呀"}
+{"input": "s y w j m q", "target": "所以我就没去"}
+{"input": "n k x b", "target": "那快写吧"}
+{"input": "g g sh j k l", "target": "刚刚手机卡了"}
+{"input": "n b w n b", "target": "你帮我弄吧"}
+{"input": "b x h n l l", "target": "不想和你聊了"}
+{"input": "x y y l ch", "target": "夏夜游乐场"}
+{"input": "y m y x j j y q w d", "target": "有没有小姐姐一起玩的"}
+{"input": "r w t t n d sh y", "target": "让我听听你的声音"}
+{"input": "w y g n f", "target": "我也给你发"}
+{"input": "w d b g x x", "target": "我都不敢想象"}
+{"input": "y x y d l", "target": "越下越大了"}
+{"input": "j zh d n h zh m sh", "target": "就知道你会这么说"}
+{"input": "d w zh b sh j l", "target": "打完这把睡觉了"}
+{"input": "k sh j d d f", "target": "款式简单大方"}
+{"input": "n d d sh n d n d", "target": "你到底是男的女的"}
+{"input": "w x z k s l", "target": "我现在困死了"}
+{"input": "w x z h y d sh", "target": "我现在还有点事"}
+{"input": "m t w m z l", "target": "明天我们再聊"}
+{"input": "n m t h y z q", "target": "你明天还要早起"}
+{"input": "n sh sh h k x y", "target": "你啥时候开学呀"}
+{"input": "b sh f g l m", "target": "不是发过了吗"}
+{"input": "n b y zh y h t", "target": "你不要转移话题"}
+{"input": "m y k d n d x x", "target": "没有看到你的信息"}
+{"input": "b g n x ch l", "target": "不跟你瞎扯了"}
+{"input": "w w w m l", "target": "我问我妈了"}
+{"input": "n sh j j n d", "target": "你是几几年的"}
+{"input": "y sh w z n sh b", "target": "要是我在你身边"}
+{"input": "x l sh m j l sh m", "target": "想聊什么就聊什么"}
+{"input": "w y b l n", "target": "我邀不了你"}
+{"input": "x z f b y y m", "target": "现在方便语音吗"}
+{"input": "n m d zh sh h", "target": "牛马点缀生活"}
+{"input": "r h w y sh zh l", "target": "然后我又睡着了"}
+{"input": "w d y x q zh n", "target": "我等一下去找你"}
+{"input": "zh h y c m", "target": "这还用猜吗"}
+{"input": "w y b h zh y", "target": "我也不会这样"}
+{"input": "n m k y k y x", "target": "你们可以看一下"}
+{"input": "w x z z d p w", "target": "我现在在打排位"}
+{"input": "x n sh d y y", "target": "像你说的一样"}
+{"input": "x z h h l b", "target": "现在后悔了吧"}
+{"input": "n w x n l z m b", "target": "那我想你了怎么办"}
+{"input": "n y t h y m", "target": "你有他好友吗"}
+{"input": "t m g w sh", "target": "他没给我说"}
+{"input": "k y l j d y x", "target": "可以联机的游戏"}
+{"input": "n sh w q b q", "target": "你说我气不气"}
+{"input": "r sh n sh w d r x", "target": "认识你是我的荣幸"}
+{"input": "x n x d sh b zh", "target": "想你想到睡不着"}
+{"input": "w y q k l", "target": "我要去看了"}
+{"input": "w x h b f m", "target": "微信红包封面"}
+{"input": "n d g d h g w", "target": "你打个电话给我"}
+{"input": "zh g d sh zh d", "target": "这个倒是真的"}
+{"input": "n n z sh d", "target": "那你咋说的"}
+{"input": "n b d w l", "target": "你别等我了"}
+{"input": "r g n y m d h", "target": "如果你要买的话"}
+{"input": "zh g sh sh m d x a", "target": "这个是什么东西啊"}
+{"input": "n h q l m y a", "target": "你回去了没有啊"}
+{"input": "d x z h m ch f", "target": "到现在还没吃饭"}
+{"input": "w y y g h y", "target": "我有一个好友"}
+{"input": "w t d d n sh h", "target": "我听得到你说话"}
+{"input": "w z x x x w l", "target": "我在学校写完了"}
+{"input": "b r w k l", "target": "不然我开了"}
+{"input": "d d sh m y s a", "target": "到底什么意思啊"}
+{"input": "ch d m b w x s", "target": "差点没把我吓死"}
+{"input": "n x z z d y x m", "target": "你现在在打游戏吗"}
+{"input": "d sh d h n", "target": "但是的话呢"}
+{"input": "w y f d g g", "target": "我要飞得更高"}
+{"input": "b b d b q a", "target": "宝宝对不起啊"}
+{"input": "w d ch g f l", "target": "我都吃过饭了"}
+{"input": "n g q ch a", "target": "你刚起床啊"}
+{"input": "b b ch f l m", "target": "宝宝吃饭了吗"}
+{"input": "sh m d b x g", "target": "什么都不想干"}
+{"input": "w z j b t sh l", "target": "我早就把他删了"}
+{"input": "d n l l z sh", "target": "等你来了再说"}
+{"input": "b w d sh m l", "target": "把我当什么了"}
+{"input": "w q sh y x l", "target": "我去刷牙洗脸"}
+{"input": "w x q sh sh p l", "target": "我先去刷视频了"}
+{"input": "n z b", "target": "那走呗"}
+{"input": "w sh zh d m q", "target": "我是真的没钱"}
+{"input": "zh g z m g a", "target": "这个怎么搞啊"}
+{"input": "n f j x l", "target": "你发就行了"}
+{"input": "z q d ch e b n ch", "target": "早起的虫儿被鸟吃"}
+{"input": "w j g w m sh", "target": "我就跟我妈说"}
+{"input": "w h b sh y y d", "target": "我还不是一样的"}
+{"input": "t y x h d r l", "target": "他有喜欢的人了"}
+{"input": "w d y x z d", "target": "我等一下再打"}
+{"input": "l d d d z j b l", "target": "泪蛋蛋掉在酒杯里"}
+{"input": "w x z q sh b l", "target": "我现在去上班了"}
+{"input": "w x q n j w", "target": "我想去你家玩"}
+{"input": "w b d r n m l", "target": "我不打扰你们了"}
+{"input": "r g w c d m c d h", "target": "如果我猜的没错的话"}
+{"input": "n b g w f l", "target": "你别给我发了"}
+{"input": "w g n m b", "target": "我给你买吧"}
+{"input": "n y q t g l", "target": "你要求太高了"}
+{"input": "w k zh sh g d c m", "target": "我可真是个大聪明"}
+{"input": "w b h d d x l", "target": "我不厚道的笑了"}
+{"input": "d h x y zh a n y w n", "target": "大话西游之爱你一万年"}
+{"input": "k l j sh l", "target": "困了就睡了"}
+{"input": "n j zh y d l", "target": "那就这样定了"}
+{"input": "zh j h sh d d", "target": "这句话说的对"}
+{"input": "n b sh w ch d w l", "target": "你不说我差点忘了"}
+{"input": "zh sh sh m m sh", "target": "这是什么模式"}
+{"input": "d h w j n", "target": "等会我叫你"}
+{"input": "r h d x l l", "target": "然后掉下来了"}
+{"input": "zh k sh n z j sh d", "target": "这可是你自己说的"}
+{"input": "f sh sh m sh l m", "target": "发生什么事了吗"}
+{"input": "t y w w l", "target": "他也问我了"}
+{"input": "g j sh h d l z", "target": "关键时候掉链子"}
+{"input": "w b n d l", "target": "我帮你点了"}
+{"input": "z j x x y d", "target": "自己小心一点"}
+{"input": "b x w y m b f", "target": "不信我也没办法"}
+{"input": "x zh g r l t", "target": "想找个人聊天"}
+{"input": "d h z g n sh", "target": "待会再跟你说"}
+{"input": "x h sh m l x d", "target": "喜欢什么类型的"}
+{"input": "w b x k d n", "target": "我不想看到你"}
+{"input": "j n y ch", "target": "纪念邮戳"}
+{"input": "h x sh zh m h sh", "target": "好像是这么回事"}
+{"input": "w x z y j ch f l", "target": "我现在已经出发了"}
+{"input": "w h z d n n", "target": "我还在等你呢"}
+{"input": "w h t sh g l", "target": "我和他说过了"}
+{"input": "n b h b l l", "target": "你把红包领了"}
+{"input": "z w sh d t w l", "target": "昨晚睡得太晚了"}
+{"input": "j w w x g m", "target": "加我微信干嘛"}
+{"input": "w h y w n z j n", "target": "我还以为你在家呢"}
+{"input": "z z j x h d sh", "target": "做自己喜欢的事"}
+{"input": "f zh w x l", "target": "反正我信了"}
+{"input": "n m w l h b sh", "target": "那么晚了还不睡"}
+{"input": "w x t l a", "target": "我先退了啊"}
+{"input": "x z sh h l w sh d", "target": "现在是互联网时代"}
+{"input": "r w m y q j y", "target": "让我们一起加油"}
+{"input": "n sh n g l zh", "target": "你是哪个来着"}
+{"input": "x y d g", "target": "小蚁帝国"}
+{"input": "w z y y g z d m d", "target": "我作业一个字都没动"}
+{"input": "zh d j zh q k l", "target": "祝大家中秋快乐"}
+{"input": "k d g w f g l", "target": "快点给我发过来"}
+{"input": "w g x h l b j n", "target": "我高兴还来不及呢"}
+{"input": "w y m t w x", "target": "我又没他微信"}
+{"input": "y m y l x f sh", "target": "有没有联系方式"}
+{"input": "m sh n sh m", "target": "没事你说嘛"}
+{"input": "m t y k z l", "target": "明天有空再聊"}
+{"input": "w b h sh ch q d", "target": "我不会说出去的"}
+{"input": "w y y w y y", "target": "我也要我也要"}
+{"input": "zh d p n g m", "target": "真的骗你干嘛"}
+{"input": "w sh sh m q y", "target": "我生什么气呀"}
+{"input": "n sh b sh f c x x l", "target": "你是不是发错信息了"}
+{"input": "x z j t zh m f b", "target": "现在交通这么方便"}
+{"input": "n r m y y g h d x", "target": "男人没有一个好东西"}
+{"input": "d x sh d d f m", "target": "等闲识得东风面"}
+{"input": "p g zh w k y x", "target": "拍个照我看一下"}
+{"input": "w y zh sh w y l", "target": "我也真是无语了"}
+{"input": "j d g w d z", "target": "记得给我点赞"}
+{"input": "w g g k d n l", "target": "我刚刚看到你了"}
+{"input": "sh z b q h", "target": "实在抱歉哈"}
+{"input": "nkbx", "target": "那可不行"}
+{"input": "nzsy", "target": "你长啥样"}
+{"input": "kchq", "target": "开车去"}
+{"input": "hbmbm", "target": "还不明白吗"}
+{"input": "jyr", "target": "脚艺人"}
+{"input": "wbdy", "target": "我不打野"}
+{"input": "qsxl", "target": "去上学了"}
+{"input": "zshcs", "target": "在上厕所"}
+{"input": "shnh", "target": "收纳盒"}
+{"input": "zhnkl", "target": "祝你快乐"}
+{"input": "wzyn", "target": "我只要你"}
+{"input": "twsm", "target": "他为什么"}
+{"input": "pdk", "target": "跑得快"}
+{"input": "rzhl", "target": "认真了"}
+{"input": "gnsl", "target": "给你说了"}
+{"input": "dshhz", "target": "到时候再"}
+{"input": "qhj", "target": "去喝酒"}
+{"input": "qhdx", "target": "清华大学"}
+{"input": "jshzh", "target": "驾驶证"}
+{"input": "xbyq", "target": "下把一起"}
+{"input": "chdw", "target": "差点忘"}
+{"input": "tyxl", "target": "太优秀了"}
+{"input": "zhjdls", "target": "在回家的路上"}
+{"input": "nfbm", "target": "你方便吗"}
+{"input": "gtxy", "target": "工藤新一"}
+{"input": "hzhcm", "target": "很正常吗"}
+{"input": "nrz", "target": "你认真"}
+{"input": "wpzhn", "target": "我陪着你"}
+{"input": "bthd", "target": "不挺好的"}
+{"input": "ngssh", "target": "那个是谁"}
+{"input": "byxq", "target": "不要嫌弃"}
+{"input": "zfc", "target": "做饭吃"}
+{"input": "shxw", "target": "是下午"}
+{"input": "nbsw", "target": "那不是我"}
+{"input": "tydx", "target": "他有对象"}
+{"input": "bzbj", "target": "不知不觉"}
+{"input": "qqzj", "target": "青青子衿"}
+{"input": "bdk", "target": "背带裤"}
+{"input": "xtzz", "target": "小兔崽子"}
+{"input": "xdyj", "target": "先打一局"}
+{"input": "gnsjs", "target": "跟你说件事"}
+{"input": "hchsj", "target": "好长时间"}
+{"input": "skn", "target": "上课呢"}
+{"input": "mzhzd", "target": "命中注定"}
+{"input": "shzmz", "target": "睡这么早"}
+{"input": "xgljh", "target": "习惯了就好"}
+{"input": "nxshjb", "target": "你先睡觉吧"}
+{"input": "zhdhl", "target": "真的好累"}
+{"input": "zfn", "target": "做饭呢"}
+{"input": "mxsh", "target": "没显示"}
+{"input": "nzmhs", "target": "你怎么回事"}
+{"input": "wbfr", "target": "我不犯人"}
+{"input": "wjshb", "target": "我就说吧"}
+{"input": "myys", "target": "没有意思"}
+{"input": "zsnd", "target": "这是你的"}
+{"input": "bshpl", "target": "别刷屏了"}
+{"input": "srlw", "target": "生日礼物"}
+{"input": "nhnch", "target": "你喝奶茶"}
+{"input": "wshmbh", "target": "为什么不回"}
+{"input": "txhd", "target": "挺喜欢的"}
+{"input": "bksy", "target": "不可思议"}
+{"input": "nzhyg", "target": "你找一个"}
+{"input": "wbky", "target": "我不可以"}
+{"input": "xpym", "target": "小朋友们"}
+{"input": "qdshh", "target": "去的时候"}
+{"input": "kjsl", "target": "快结束了"}
+{"input": "qshyx", "target": "去试一下"}
+{"input": "nqww", "target": "你去问问"}
+{"input": "ldjm", "target": "来得及吗"}
+{"input": "whpp", "target": "我好怕怕"}
+{"input": "wwzry", "target": "玩王者荣耀"}
+{"input": "sshhl", "target": "收拾好了"}
+{"input": "ybbn", "target": "有病吧你"}
+{"input": "wbgq", "target": "我不敢去"}
+{"input": "shmf", "target": "是免费"}
+{"input": "mdxl", "target": "买东西了"}
+{"input": "wzhbhl", "target": "我准备好了"}
+{"input": "ysmgx", "target": "有什么关系"}
+{"input": "nxbxh", "target": "你喜不喜欢"}
+{"input": "nhhd", "target": "你好好的"}
+{"input": "wybf", "target": "我有办法"}
+{"input": "xpx", "target": "小螃蟹"}
+{"input": "hhnl", "target": "好好努力"}
+{"input": "ybrw", "target": "要不然我"}
+{"input": "phg", "target": "拼好给"}
+{"input": "gfw", "target": "个废物"}
+{"input": "hfs", "target": "护发素"}
+{"input": "dbxsh", "target": "都不想说"}
+{"input": "jnygrm", "target": "就你一个人吗"}
+{"input": "kyxn", "target": "看一下你"}
+{"input": "yqcr", "target": "一拳超人"}
+{"input": "txfl", "target": "太幸福了"}
+{"input": "tznl", "target": "他在哪里"}
+{"input": "bncq", "target": "不能出去"}
+{"input": "qsrl", "target": "气死人了"}
+{"input": "ndyssh", "target": "你的意思是"}
+{"input": "wbchq", "target": "我不出去"}
+{"input": "jtbsbm", "target": "今天不上班吗"}
+{"input": "dhmy", "target": "都还没有"}
+{"input": "wdzhp", "target": "我的照片"}
+{"input": "fdmc", "target": "饭都没吃"}
+{"input": "nzjh", "target": "你这句话"}
+{"input": "fgly", "target": "发过来呀"}
+{"input": "kbqw", "target": "看不起我"}
+{"input": "bchr", "target": "不承认"}
+{"input": "zwsm", "target": "在玩什么"}
+{"input": "wzht", "target": "我找他"}
+{"input": "hyygxsh", "target": "还有一个小时"}
+{"input": "ytdl", "target": "雨太大了"}
+{"input": "ldshl", "target": "了都是泪"}
+{"input": "mylm", "target": "没有了吗"}
+{"input": "bshk", "target": "不上课"}
+{"input": "ttxy", "target": "天天下雨"}
+{"input": "kxc", "target": "空心菜"}
+{"input": "zzk", "target": "正在看"}
+{"input": "wpd", "target": "我拍的"}
+{"input": "wbgs", "target": "我不敢说"}
+{"input": "cnyzh", "target": "菜鸟驿站"}
+{"input": "yxxzj", "target": "要相信自己"}
+{"input": "xnxx", "target": "向你学习"}
+{"input": "jsnd", "target": "就是你的"}
+{"input": "nwmt", "target": "那我明天"}
+{"input": "mmwb", "target": "慢慢玩吧"}
+{"input": "djfz", "target": "等几分钟"}
+{"input": "zhhrmghg", "target": "中华人民共和国"}
+{"input": "hsr", "target": "红烧肉"}
+{"input": "jtbx", "target": "今天不行"}
+{"input": "mst", "target": "骂死他"}
+{"input": "jcn", "target": "就差你"}
+{"input": "hkf", "target": "后空翻"}
+{"input": "fzp", "target": "发作品"}
+{"input": "jglz", "target": "举个例子"}
+{"input": "nxxx", "target": "你先休息"}
+{"input": "tzhp", "target": "他照片"}
+{"input": "jyzl", "target": "就要走了"}
+{"input": "nshwy", "target": "你是唯一"}
+{"input": "lzg", "target": "老子滚"}
+{"input": "lfl", "target": "浪费了"}
+{"input": "fzb", "target": "辅助吧"}
+{"input": "xyst", "target": "小猿搜题"}
+{"input": "bxqy", "target": "冰雪奇缘"}
+{"input": "xnlb", "target": "想你了呗"}
+{"input": "gshmq", "target": "干什么去"}
+{"input": "gjp", "target": "赶紧跑"}
+{"input": "nxqbh", "target": "你心情不好"}
+{"input": "wdbqn", "target": "我对不起你"}
+{"input": "jshx", "target": "就是想"}
+{"input": "gmsh", "target": "闺蜜是"}
+{"input": "gzltz", "target": "个糟老头子"}
+{"input": "nnjw", "target": "那你加我"}
+{"input": "lhw", "target": "拉黑我"}
+{"input": "bfbm", "target": "不方便吗"}
+{"input": "dxzl", "target": "等下再聊"}
+{"input": "sxjj", "target": "是小姐姐"}
+{"input": "shdxl", "target": "神雕侠侣"}
+{"input": "lwjb", "target": "来我家吧"}
+{"input": "pzp", "target": "拍照片"}
+{"input": "ddhd", "target": "打电话的"}
+{"input": "tszl", "target": "他睡着了"}
+{"input": "nshshl", "target": "你是谁了"}
+{"input": "dzjl", "target": "待在家里"}
+{"input": "mmqmd", "target": "莫名其妙的"}
+{"input": "ggshj", "target": "刚刚手机"}
+{"input": "zyjsxy", "target": "职业技术学院"}
+{"input": "gllm", "target": "过来了吗"}
+{"input": "klmy", "target": "看了没有"}
+{"input": "wgbd", "target": "我搞不懂"}
+{"input": "xwydt", "target": "吓我一大跳"}
+{"input": "gchg", "target": "刚吃过"}
+{"input": "htq", "target": "后天去"}
+{"input": "znchg", "target": "祝你成功"}
+{"input": "xxndhy", "target": "谢谢你的好意"}
+{"input": "mshdjl", "target": "马上到家了"}
+{"input": "jzlg", "target": "就这两个"}
+{"input": "bshshn", "target": "不是说你"}
+{"input": "qsbn", "target": "去死吧你"}
+{"input": "ccwshs", "target": "猜猜我是谁"}
+{"input": "jgdh", "target": "接个电话"}
+{"input": "yjzq", "target": "一见钟情"}
+{"input": "jzhy", "target": "就只有"}
+{"input": "yshshm", "target": "又是什么"}
+{"input": "wwhksh", "target": "我无话可说"}
+{"input": "zmbshhn", "target": "怎么不说话呢"}
+{"input": "qlgl", "target": "奇了怪了"}
+{"input": "mmkb", "target": "慢慢看吧"}
+{"input": "qzxc", "target": "骑自行车"}
+{"input": "nbky", "target": "你不可以"}
+{"input": "mfgz", "target": "没发工资"}
+{"input": "xrzh", "target": "仙人掌"}
+{"input": "chchd", "target": "吃好吃的"}
+{"input": "nyqn", "target": "你要去哪"}
+{"input": "thcl", "target": "太好吃了"}
+{"input": "hwlt", "target": "和我聊天"}
+{"input": "yyzhzh", "target": "营业执照"}
+{"input": "tsfd", "target": "挺舒服的"}
+{"input": "gdshg", "target": "个单身狗"}
+{"input": "jznl", "target": "就在那里"}
+{"input": "zhbm", "target": "直播吗"}
+{"input": "wfj", "target": "我房间"}
+{"input": "fgll", "target": "发过来了"}
+{"input": "nwbql", "target": "那我不去了"}
+{"input": "nzwgm", "target": "你找我干嘛"}
+{"input": "dwyj", "target": "的问一句"}
+{"input": "sbljd", "target": "傻不拉叽的"}
+{"input": "nbhl", "target": "你不回来"}
+{"input": "lsqs", "target": "绿水青山"}
+{"input": "dshbz", "target": "都睡不着"}
+{"input": "rbfw", "target": "人不犯我"}
+{"input": "fzg", "target": "辅助跟"}
+{"input": "shqrj", "target": "是情人节"}
+{"input": "ygrg", "target": "一个人过"}
+{"input": "shfm", "target": "上分吗"}
+{"input": "ncwcbc", "target": "你猜我猜不猜"}
+{"input": "zhhch", "target": "真好吃"}
+{"input": "shfshf", "target": "师傅师傅"}
+{"input": "jzmy", "target": "就怎么样"}
+{"input": "kwxn", "target": "开玩笑呢"}
+{"input": "swbh", "target": "是我不好"}
+{"input": "jwmy", "target": "就我没有"}
+{"input": "txdt", "target": "腾讯地图"}
+{"input": "wzzb", "target": "我在这边"}
+{"input": "nxxxb", "target": "你先休息吧"}
+{"input": "wsmbl", "target": "为什么不理"}
+{"input": "zmbx", "target": "怎么不行"}
+{"input": "wybjdl", "target": "我也不记得了"}
+{"input": "qgsh", "target": "去干啥"}
+{"input": "hjsn", "target": "火箭少女"}
+{"input": "fqh", "target": "凤求凰"}
+{"input": "ltby", "target": "蓝天白云"}
+{"input": "wbss", "target": "我不是说"}
+{"input": "shtzb", "target": "率土之滨"}
+{"input": "scsl", "target": "上厕所了"}
+{"input": "gdshj", "target": "过段时间"}
+{"input": "hmkn", "target": "还没看呢"}
+{"input": "yzhzh", "target": "有这种"}
+{"input": "ddfs", "target": "打巅峰赛"}
+{"input": "gnmsh", "target": "跟你们说"}
+{"input": "zyzs", "target": "这样子说"}
+{"input": "zmshl", "target": "怎么说了"}
+{"input": "zjqb", "target": "自己去吧"}
+{"input": "wbfb", "target": "我不方便"}
+{"input": "nhzd", "target": "你还知道"}
+{"input": "chshrq", "target": "出生日期"}
+{"input": "gsyh", "target": "工商银行"}
+{"input": "zmblwl", "target": "怎么不理我了"}
+{"input": "xbdb", "target": "想不到吧"}
+{"input": "zshshd", "target": "这是谁的"}
+{"input": "bywsj", "target": "不要玩手机"}
+{"input": "mybfy", "target": "没有办法呀"}
+{"input": "gnp", "target": "给你拍"}
+{"input": "gwysmgx", "target": "跟我有什么关系"}
+{"input": "xxbf", "target": "想想办法"}
+{"input": "lhkl", "target": "老好看了"}
+{"input": "jwbb", "target": "叫我爸爸"}
+{"input": "wzbdn", "target": "我找不到你"}
+{"input": "ndyxh", "target": "你等一下哈"}
+{"input": "dbzx", "target": "都不在线"}
+{"input": "zdpw", "target": "在打排位"}
+{"input": "jtqrj", "target": "今天情人节"}
+{"input": "rwshq", "target": "惹我生气"}
+{"input": "hysy", "target": "还有谁呀"}
+{"input": "ftp", "target": "发图片"}
+{"input": "mysy", "target": "没有声音"}
+{"input": "rsb", "target": "认识不"}
+{"input": "wgng", "target": "我给你个"}
+{"input": "ckj", "target": "才看见"}
+{"input": "qzx", "target": "请知悉"}
+{"input": "gsy", "target": "跟谁呀"}
+{"input": "ddsj", "target": "的电视剧"}
+{"input": "hjcl", "target": "好几次了"}
+{"input": "shbshx", "target": "是不是想"}
+{"input": "lblm", "target": "来不来嘛"}
+{"input": "zyzb", "target": "这样子吧"}
+{"input": "mxmx", "target": "莫西莫西"}
+{"input": "dpg", "target": "打屁股"}
+{"input": "mhkd", "target": "蛮好看的"}
+{"input": "yqch", "target": "一起吃"}
+{"input": "bmx", "target": "不明显"}
+{"input": "ptpy", "target": "普通朋友"}
+{"input": "nnzh", "target": "你拿着"}
+{"input": "gwyd", "target": "给我一点"}
+{"input": "gbqch", "target": "搞不清楚"}
+{"input": "jwsz", "target": "据我所知"}
+{"input": "dwzd", "target": "打王者的"}
+{"input": "shchlm", "target": "上车了吗"}
+{"input": "jzyc", "target": "就这一次"}
+{"input": "ngshmn", "target": "你干什么呢"}
+{"input": "czflm", "target": "吃早饭了吗"}
+{"input": "wshdbdm", "target": "我说的不对吗"}
+{"input": "dbjd", "target": "都不记得"}
+{"input": "jwzj", "target": "就我自己"}
+{"input": "qrg", "target": "确认过"}
+{"input": "wmch", "target": "我没车"}
+{"input": "qygy", "target": "钱一个月"}
+{"input": "zhwgs", "target": "找我干啥"}
+{"input": "tcrl", "target": "太残忍了"}
+{"input": "ckt", "target": "创可贴"}
+{"input": "lmz", "target": "绿帽子"}
+{"input": "ndzd", "target": "你都知道"}
+{"input": "hxmn", "target": "好羡慕你"}
+{"input": "zmhshn", "target": "怎么回事呢"}
+{"input": "zhrb", "target": "真人版"}
+{"input": "wzlt", "target": "我这两天"}
+{"input": "jygq", "target": "进一个群"}
+{"input": "nxshn", "target": "你先说你"}
+{"input": "tgsw", "target": "他告诉我"}
+{"input": "qgg", "target": "群公告"}
+{"input": "ymt", "target": "要明天"}
+{"input": "dwf", "target": "带我飞"}
+{"input": "hfl", "target": "回复了"}
+{"input": "ntnbl", "target": "你太牛逼了"}
+{"input": "wshbd", "target": "我舍不得"}
+{"input": "zhdpl", "target": "长得漂亮"}
+{"input": "zhfr", "target": "真烦人"}
+{"input": "hszy", "target": "还是这样"}
+{"input": "hjlmy", "target": "回家了没有"}
+{"input": "nnzgmn", "target": "那你在干嘛呢"}
+{"input": "pzd", "target": "牌子的"}
+{"input": "xzhyl", "target": "先这样了"}
+{"input": "mhln", "target": "没回来呢"}
+{"input": "zxsm", "target": "在想什么"}
+{"input": "hsby", "target": "还是不要"}
+{"input": "tfg", "target": "他发给"}
+{"input": "zhyxy", "target": "职业学院"}
+{"input": "shlzh", "target": "啥来着"}
+{"input": "gnxd", "target": "跟你学的"}
+{"input": "sxyl", "target": "上星耀了"}
+{"input": "ggchf", "target": "刚刚吃饭"}
+{"input": "kddh", "target": "快递单号"}
+{"input": "ygrq", "target": "一个人去"}
+{"input": "nkqb", "target": "你快去吧"}
+{"input": "byhj", "target": "不要喝酒"}
+{"input": "mshmy", "target": "忙什么呀"}
+{"input": "kxq", "target": "看心情"}
+{"input": "fwl", "target": "发完了"}
+{"input": "xbxyn", "target": "信不信由你"}
+{"input": "tnkl", "target": "太难看了"}
+{"input": "tchdj", "target": "天长地久"}
+{"input": "zfq", "target": "做饭去"}
+{"input": "kcm", "target": "开车吗"}
+{"input": "gbdl", "target": "搞不懂了"}
+{"input": "bnshh", "target": "不能说话"}
+{"input": "yyqm", "target": "要一起吗"}
+{"input": "hmfh", "target": "还没发货"}
+{"input": "xblb", "target": "下班了吧"}
+{"input": "yrzhx", "target": "一人之下"}
+{"input": "cczhw", "target": "除此之外"}
+{"input": "nyxhdr", "target": "你有喜欢的人"}
+{"input": "nbchf", "target": "你不吃饭"}
+{"input": "csxy", "target": "超神学院"}
+{"input": "gfzs", "target": "孤芳自赏"}
+{"input": "bxbxbx", "target": "不行不行不行"}
+{"input": "bchqw", "target": "不出去玩"}
+{"input": "wyln", "target": "我原谅你"}
+{"input": "chbyld", "target": "臭不要脸的"}
+{"input": "kljs", "target": "困了就睡"}
+{"input": "zhzhn", "target": "周震南"}
+{"input": "spr", "target": "是骗人"}
+{"input": "xqh", "target": "心情好"}
+{"input": "wdsy", "target": "我的声音"}
+{"input": "zmbshhy", "target": "怎么不说话呀"}
+{"input": "lxy", "target": "流星雨"}
+{"input": "wybzdt", "target": "我也不知道他"}
+{"input": "dfyc", "target": "的反义词"}
+{"input": "chygr", "target": "差一个人"}
+{"input": "zqpj", "target": "做起泡胶"}
+{"input": "drdn", "target": "打扰到你"}
+{"input": "gshml", "target": "干什么了"}
+{"input": "nddhhm", "target": "你的电话号码"}
+{"input": "swzhl", "target": "上王者了"}
+{"input": "cfj", "target": "吹风机"}
+{"input": "gzdw", "target": "工作单位"}
+{"input": "lchj", "target": "来吃鸡"}
+{"input": "jshzhl", "target": "举手之劳"}
+{"input": "hhwq", "target": "后会无期"}
+{"input": "bxchm", "target": "不想出门"}
+{"input": "jrtt", "target": "今日头条"}
+{"input": "kkll", "target": "快快乐乐"}
+{"input": "wybzhdw", "target": "我也不知道我"}
+{"input": "zddh", "target": "在打电话"}
+{"input": "dzyl", "target": "都这样了"}
+{"input": "pyn", "target": "朋友呢"}
+{"input": "nfglb", "target": "你发过来吧"}
+{"input": "nhhhd", "target": "你会后悔的"}
+{"input": "brshd", "target": "不认识的"}
+{"input": "shnbr", "target": "是你本人"}
+{"input": "nkzx", "target": "你可真行"}
+{"input": "dcjc", "target": "得寸进尺"}
+{"input": "qzhb", "target": "去找吧"}
+{"input": "bshdgs", "target": "悲伤的故事"}
+{"input": "qnyd", "target": "去你丫的"}
+{"input": "nycm", "target": "你有车吗"}
+{"input": "plm", "target": "漂亮吗"}
+{"input": "smshhs", "target": "什么时候睡"}
+{"input": "hqdls", "target": "回去的路上"}
+{"input": "xlbm", "target": "下落不明"}
+{"input": "dxql", "target": "掉下去了"}
+{"input": "ltp", "target": "老太婆"}
+{"input": "shdt", "target": "手电筒"}
+{"input": "nssk", "target": "你试试看"}
+{"input": "zbgs", "target": "在办公室"}
+{"input": "hmkx", "target": "还没开学"}
+{"input": "fbcl", "target": "发不出来"}
+{"input": "nsyw", "target": "那是因为"}
+{"input": "bchll", "target": "不出来了"}
+{"input": "wydl", "target": "我也到了"}
+{"input": "nshshn", "target": "你说谁呢"}
+{"input": "sjzj", "target": "手机支架"}
+{"input": "jhzh", "target": "结婚证"}
+{"input": "klt", "target": "看聊天"}
+{"input": "hsnd", "target": "还是男的"}
+{"input": "qchs", "target": "去超市"}
+{"input": "bddt", "target": "百度地图"}
+{"input": "xzyn", "target": "写作业呢"}
+{"input": "qfx", "target": "请放心"}
+{"input": "zltzh", "target": "糟老头子坏"}
+{"input": "wmyc", "target": "我没有车"}
+{"input": "blfw", "target": "别来烦我"}
+{"input": "shdsn", "target": "说的是你"}
+{"input": "xqbhm", "target": "心情不好吗"}
+{"input": "lwjm", "target": "来我家吗"}
+{"input": "hmxzn", "target": "还没洗澡呢"}
+{"input": "hdxs", "target": "憨豆先生"}
+{"input": "zxyf", "target": "在洗衣服"}
+{"input": "wxdn", "target": "我想打你"}
+{"input": "shqxj", "target": "是七夕节"}
+{"input": "lshwl", "target": "礼尚往来"}
+{"input": "stkd", "target": "申通快递"}
+{"input": "qscs", "target": "去上厕所"}
+{"input": "nshsk", "target": "你说说看"}
+{"input": "mjhl", "target": "没机会了"}
+{"input": "wbwwz", "target": "我不玩王者"}
+{"input": "zhgyh", "target": "中国银行"}
+{"input": "cks", "target": "才开始"}
+{"input": "shmrdy", "target": "什么人都有"}
+{"input": "hsyy", "target": "还是一样"}
+{"input": "kshy", "target": "快说呀"}
+{"input": "nxygb", "target": "你选一个吧"}
+{"input": "bxlw", "target": "不想理我"}
+{"input": "yxmz", "target": "游戏名字"}
+{"input": "kqcl", "target": "看清楚了"}
+{"input": "bxzhd", "target": "不想知道"}
+{"input": "wxmm", "target": "微信密码"}
+{"input": "shdsq", "target": "是多少钱"}
+{"input": "kbxq", "target": "看不下去"}
+{"input": "hhgz", "target": "好好工作"}
+{"input": "kty", "target": "快同意"}
+{"input": "hply", "target": "好漂亮呀"}
+{"input": "ksch", "target": "快上车"}
+{"input": "xkyd", "target": "想开一点"}
+{"input": "tpyd", "target": "挺便宜的"}
+{"input": "sdhl", "target": "收到货了"}
+{"input": "hhwb", "target": "好好玩吧"}
+{"input": "sbzy", "target": "睡不着呀"}
+{"input": "nfshq", "target": "农夫山泉"}
+{"input": "tzhcd", "target": "挺正常的"}
+{"input": "yxhd", "target": "有喜欢的"}
+{"input": "jhgg", "target": "就很尴尬"}
+{"input": "mrshh", "target": "没人说话"}
+{"input": "nzjqb", "target": "你自己去吧"}
+{"input": "wjln", "target": "我加了你"}
+{"input": "glr", "target": "过来人"}
+{"input": "zhnkx", "target": "祝你开心"}
+{"input": "xxxb", "target": "先休息吧"}
+{"input": "hdrs", "target": "喝点热水"}
+{"input": "jrgz", "target": "今日工作"}
+{"input": "mmjs", "target": "明明就是"}
+{"input": "cwjd", "target": "蔡文姬的"}
+{"input": "jbxh", "target": "就不喜欢"}
+{"input": "qxzyl", "target": "去写作业了"}
+{"input": "tjh", "target": "他就会"}
+{"input": "jsxn", "target": "就是想你"}
+{"input": "rtf", "target": "染头发"}
+{"input": "rthd", "target": "人挺好的"}
+{"input": "ybry", "target": "也不容易"}
+{"input": "wyych", "target": "我也要吃"}
+{"input": "rjs", "target": "人家说"}
+{"input": "dhpm", "target": "打和平吗"}
+{"input": "wbkn", "target": "我不可能"}
+{"input": "zhmdq", "target": "这么多钱"}
+{"input": "wbxshh", "target": "我不想说话"}
+{"input": "gxxsh", "target": "个小学生"}
+{"input": "ncsh", "target": "你瞅啥"}
+{"input": "zksnshd", "target": "这可是你说的"}
+{"input": "fdh", "target": "烦得很"}
+{"input": "jqzn", "target": "就去找你"}
+{"input": "shxld", "target": "是新来的"}
+{"input": "rcshh", "target": "日常生活"}
+{"input": "ysbt", "target": "腰酸背痛"}
+{"input": "mqt", "target": "没前途"}
+{"input": "bmh", "target": "爆米花"}
+{"input": "nhmshy", "target": "你还没睡呀"}
+{"input": "tbzj", "target": "他不在家"}
+{"input": "yntd", "target": "有难同当"}
+{"input": "wzhdhxn", "target": "我真的好想你"}
+{"input": "dzdl", "target": "都知道了"}
+{"input": "yxhdrm", "target": "有喜欢的人吗"}
+{"input": "shgr", "target": "是个人"}
+{"input": "bjbl", "target": "被举报了"}
+{"input": "rzj", "target": "让自己"}
+{"input": "ztyy", "target": "昨天一样"}
+{"input": "yjxbl", "target": "已经下班了"}
+{"input": "bsshjl", "target": "不是睡觉了"}
+{"input": "jtwx", "target": "加他微信"}
+{"input": "cdssm", "target": "吃的是什么"}
+{"input": "wjnzm", "target": "我教你怎么"}
+{"input": "nqzt", "target": "你去找他"}
+{"input": "bthk", "target": "不太好看"}
+{"input": "trjd", "target": "突然觉得"}
+{"input": "nwdshh", "target": "你玩的时候"}
+{"input": "zhfyx", "target": "转发一下"}
+{"input": "ksshb", "target": "开始上班"}
+{"input": "dlhj", "target": "等了好久"}
+{"input": "xzmyjzmy", "target": "想怎么样就怎么样"}
+{"input": "yhld", "target": "烟火里的"}
+{"input": "ysyh", "target": "隐私用户"}
+{"input": "dlddh", "target": "到了打电话"}
+{"input": "mnsjshx", "target": "迷你世界盛夏"}
+{"input": "hmhf", "target": "还没回复"}
+{"input": "wygmm", "target": "我一个忙吗"}
+{"input": "hrw", "target": "还让我"}
+{"input": "yfsd", "target": "衣服收到"}
+{"input": "bbpp", "target": "白白胖胖"}
+{"input": "dlnmj", "target": "等了那么久"}
+{"input": "gnfshp", "target": "给你发视频"}
+{"input": "zntd", "target": "做你徒弟"}
+{"input": "jlw", "target": "加了我"}
+{"input": "tbdnsh", "target": "听不到你说话"}
+{"input": "smshjsh", "target": "什么时候结束"}
+{"input": "mnshjpp", "target": "迷你世界皮皮"}
+{"input": "zhmxz", "target": "这么嚣张"}
+{"input": "sywm", "target": "所以我们"}
+{"input": "gslt", "target": "跟谁聊天"}
+{"input": "shwdd", "target": "是我弟弟"}
+{"input": "yhwm", "target": "以后我们"}
+{"input": "sbshxs", "target": "是不是想死"}
+{"input": "nnng", "target": "你奶奶个"}
+{"input": "nkzs", "target": "你可真是"}
+{"input": "hhql", "target": "会好起来"}
+{"input": "myxb", "target": "没有下班"}
+{"input": "zbgq", "target": "准备过去"}
+{"input": "kldshf", "target": "考了多少分"}
+{"input": "znldw", "target": "在哪里等我"}
+{"input": "shnbrm", "target": "是你本人吗"}
+{"input": "zhybx", "target": "这也不行"}
+{"input": "jtkn", "target": "今天可能"}
+{"input": "yqmmd", "target": "元气满满的"}
+{"input": "ywxz", "target": "因为现在"}
+{"input": "xzzdyx", "target": "现在在打游戏"}
+{"input": "zhmnbd", "target": "这么牛逼的"}
+{"input": "nyzj", "target": "你有证据"}
+{"input": "shxkh", "target": "盛夏狂欢"}
+{"input": "zhgthk", "target": "这个挺好看"}
+{"input": "jshxhn", "target": "就是喜欢你"}
+{"input": "nwwz", "target": "你玩王者"}
+{"input": "nmmy", "target": "你们没有"}
+{"input": "nzhjg", "target": "你直接跟"}
+{"input": "jmcxn", "target": "寂寞才想你"}
+{"input": "zhmzd", "target": "这么早的"}
+{"input": "djzy", "target": "大家注意"}
+{"input": "hywnshzl", "target": "还以为你睡着了"}
+{"input": "nflj", "target": "你发链接"}
+{"input": "hmhd", "target": "还没回答"}
+{"input": "ggdw", "target": "刚刚打完"}
+{"input": "gztd", "target": "工资太低"}
+{"input": "swsc", "target": "送我手册"}
+{"input": "gcbs", "target": "刚才不是"}
+{"input": "yszg", "target": "又是这个"}
+{"input": "wfcd", "target": "我非常的"}
+{"input": "xztb", "target": "现在特别"}
+{"input": "yshnd", "target": "也是女的"}
+{"input": "yjmhl", "target": "已经买好了"}
+{"input": "szgd", "target": "是祖国的"}
+{"input": "mnshjpk", "target": "迷你世界跑酷"}
+{"input": "nydsshm", "target": "你用的是什么"}
+{"input": "zhmlhd", "target": "这么厉害的"}
+{"input": "yswd", "target": "也是我的"}
+{"input": "wgpf", "target": "我个皮肤"}
+{"input": "nglz", "target": "你给老子"}
+{"input": "bzmhk", "target": "不怎么好看"}
+{"input": "chkht", "target": "扯开话题"}
+{"input": "jzdn", "target": "就知道你"}
+{"input": "whlyg", "target": "我换了一个"}
+{"input": "jzmsd", "target": "就这么说定"}
+{"input": "fglwkk", "target": "发过来我看看"}
+{"input": "jysyr", "target": "惊艳所有人"}
+{"input": "bgjl", "target": "不干净了"}
+{"input": "xzdr", "target": "现在的人"}
+{"input": "djby", "target": "大家不要"}
+{"input": "wmxxd", "target": "我们学校的"}
+{"input": "shmshgw", "target": "什么时候给我"}
+{"input": "bswbs", "target": "不睡我不睡"}
+{"input": "hgdf", "target": "换个地方"}
+{"input": "yggm", "target": "一个闺蜜"}
+{"input": "smshcn", "target": "什么时候才能"}
+{"input": "jtmshj", "target": "今天没时间"}
+{"input": "gzhsxl", "target": "关注上限了"}
+{"input": "znlfc", "target": "在哪里发财"}
+{"input": "wmlyg", "target": "我买了一个"}
+{"input": "pznd", "target": "陪着你的"}
+{"input": "gmdbq", "target": "革命的本钱"}
+{"input": "jdxk", "target": "几点下课"}
+{"input": "dhhs", "target": "大号还是"}
+{"input": "rhzhj", "target": "然后直接"}
+{"input": "yzhzy", "target": "一直这样"}
+{"input": "zcshwsj", "target": "在床上玩手机"}
+{"input": "yynq", "target": "永远年轻"}
+{"input": "ggqchfl", "target": "刚刚去吃饭了"}
+{"input": "ydxx", "target": "有点想笑"}
+{"input": "sclnkn", "target": "说出来你可能"}
+{"input": "nbtc", "target": "牛逼糖吃"}
+{"input": "hsghz", "target": "还是个孩子"}
+{"input": "ylszg", "target": "原来是这个"}
+{"input": "yrqf", "target": "有人欺负"}
+{"input": "nwwww", "target": "你问我我问"}
+{"input": "xzzny", "target": "现在在哪呀"}
+{"input": "rgwmcc", "target": "如果我没猜错"}
+{"input": "wdchl", "target": "我都出来"}
+{"input": "zpshj", "target": "作品双击"}
+{"input": "khdh", "target": "客户电话"}
+{"input": "sjbx", "target": "手机不行"}
+{"input": "zjky", "target": "自己可以"}
+{"input": "bzdsng", "target": "不知道是哪个"}
+{"input": "swyl", "target": "是无语了"}
+{"input": "snzjs", "target": "是你自己说"}
+{"input": "hyygh", "target": "还有一个号"}
+{"input": "hsnh", "target": "还是女孩"}
+{"input": "ysgn", "target": "有事跟你"}
+{"input": "ylyb", "target": "赢了一把"}
+{"input": "trwsw", "target": "太让我失望"}
+{"input": "hyygy", "target": "还有一个月"}
+{"input": "zhnsw", "target": "只能是我"}
+{"input": "wgmd", "target": "我闺蜜的"}
+{"input": "zdshmys", "target": "知道什么意思"}
+{"input": "gbrsh", "target": "跟别人说"}
+{"input": "tgsl", "target": "他给删了"}
+{"input": "nfdsm", "target": "你发的什么"}
+{"input": "djdzhch", "target": "大家的支持"}
+{"input": "pwhsh", "target": "排位还是"}
+{"input": "xzmql", "target": "现在没钱了"}
+{"input": "bsywjm", "target": "不是因为寂寞"}
+{"input": "wfjt", "target": "无法接通"}
+{"input": "wjmml", "target": "忘记密码了"}
+{"input": "gxnm", "target": "感谢你们"}
+{"input": "wshhq", "target": "晚上回去"}
+{"input": "nwfzh", "target": "你玩辅助"}
+{"input": "mybfl", "target": "没有办法了"}
+{"input": "hgdt", "target": "换个地图"}
+{"input": "yjfq", "target": "已经放弃"}
+{"input": "scmd", "target": "是纯棉的"}
+{"input": "kyfyy", "target": "可以发语音"}
+{"input": "xwhl", "target": "下午回来"}
+{"input": "wkyj", "target": "我可以教"}
+{"input": "rhwjw", "target": "然后我就问"}
+{"input": "zhlyg", "target": "这里有个"}
+{"input": "gwjx", "target": "给我就行"}
+{"input": "kdlkd", "target": "看到了看到"}
+{"input": "sgyd", "target": "是故意的"}
+{"input": "chshtzn", "target": "床上躺着呢"}
+{"input": "xzglm", "target": "现在过来吗"}
+{"input": "yxbl", "target": "要下班了"}
+{"input": "zgwycjh", "target": "再给我一次机会"}
+{"input": "jdjl", "target": "就到家了"}
+{"input": "kkndzp", "target": "看看你的照片"}
+{"input": "gjhq", "target": "赶紧回去"}
+{"input": "bsxhz", "target": "不是小孩子"}
+{"input": "bgchm", "target": "不敢出门"}
+{"input": "shmshhly", "target": "什么时候来呀"}
+{"input": "sjbmshl", "target": "手机被没收了"}
+{"input": "hzsk", "target": "还在上课"}
+{"input": "hdbx", "target": "皇帝陛下"}
+{"input": "qshgy", "target": "恰似寒光遇"}
+{"input": "jjdkzh", "target": "静静的看着"}
+{"input": "wjxz", "target": "我就先走"}
+{"input": "kshsk", "target": "开始上课"}
+{"input": "wshmbw", "target": "为什么不玩"}
+{"input": "tzmx", "target": "他怎么想"}
+{"input": "xttndshy", "target": "想听听你的声音"}
+{"input": "nqng", "target": "你去哪个"}
+{"input": "zzjgl", "target": "周再敬个礼"}
+{"input": "xzycq", "target": "现在要出去"}
+{"input": "lgtx", "target": "了个头像"}
+{"input": "pldmm", "target": "漂亮的妹妹"}
+{"input": "jtmq", "target": "今天没去"}
+{"input": "nhmx", "target": "你很冒险"}
+{"input": "rshzgr", "target": "认识这个人"}
+{"input": "zwym", "target": "作为一名"}
+{"input": "dwzhyb", "target": "打完这一把"}
+{"input": "mysfzh", "target": "没有身份证"}
+{"input": "kygt", "target": "可以跟他"}
+{"input": "yrhg", "target": "有人互关"}
+{"input": "mypf", "target": "没有皮肤"}
+{"input": "klds", "target": "考了多少"}
+{"input": "wknd", "target": "我看你的"}
+{"input": "znshs", "target": "在你身上"}
+{"input": "wmhm", "target": "我们还没"}
+{"input": "zhxgg", "target": "找小哥哥"}
+{"input": "yjzlshl", "target": "已经在路上了"}
+{"input": "yysb", "target": "又要上班"}
+{"input": "qtdf", "target": "其他地方"}
+{"input": "kyhj", "target": "可以回家"}
+{"input": "hmcn", "target": "还没成年"}
+{"input": "shzmn", "target": "是怎么弄"}
+{"input": "qsshp", "target": "去刷视频"}
+{"input": "fzhwyj", "target": "反正我已经"}
+{"input": "bshhk", "target": "不是很好看"}
+{"input": "xnzzh", "target": "像你这种"}
+{"input": "zjdsht", "target": "自己的身体"}
+{"input": "hqkk", "target": "回去看看"}
+{"input": "klklb", "target": "考虑考虑吧"}
+{"input": "mslmsh", "target": "没事了没事"}
+{"input": "knjs", "target": "可能就是"}
+{"input": "dsjd", "target": "打算几点"}
+{"input": "hbhq", "target": "还不回去"}
+{"input": "xzyky", "target": "现在也可以"}
+{"input": "wshdyq", "target": "我刷抖音去"}
+{"input": "xzhms", "target": "闲着没事"}
+{"input": "jtsbl", "target": "今天上班了"}
+{"input": "jbqdd", "target": "经不起等待"}
+{"input": "mtwz", "target": "明天我再"}
+{"input": "yzzn", "target": "一直在那"}
+{"input": "lddsh", "target": "了大地上"}
+{"input": "ydshjh", "target": "有的是机会"}
+{"input": "kyfhm", "target": "可以发货吗"}
+{"input": "smtd", "target": "什么态度"}
+{"input": "hdwr", "target": "好多温柔"}
+{"input": "yshyt", "target": "也是一天"}
+{"input": "lsmd", "target": "里什么都"}
+{"input": "jjfzh", "target": "经济发展"}
+{"input": "nxwsh", "target": "你想玩啥"}
+{"input": "yshmxy", "target": "有什么需要"}
+{"input": "yjjq", "target": "已经进去"}
+{"input": "wshdshh", "target": "晚上的时候"}
+{"input": "zhmwln", "target": "这么晚了你"}
+{"input": "mshhk", "target": "没啥好看"}
+{"input": "hshnm", "target": "还是那么"}
+{"input": "qdnd", "target": "期待你的"}
+{"input": "grgj", "target": "个人感觉"}
+{"input": "xzshx", "target": "现在上线"}
+{"input": "zhghjd", "target": "这个很简单"}
+{"input": "myzhm", "target": "没有这么"}
+{"input": "gjthk", "target": "感觉挺好看"}
+{"input": "yjcgl", "target": "已经吃过了"}
+{"input": "wqsshp", "target": "我去刷视频"}
+{"input": "shwjj", "target": "是我姐姐"}
+{"input": "yrzhw", "target": "有人找我"}
+{"input": "yrjn", "target": "有人加你"}
+{"input": "shspq", "target": "刷视频去"}
+{"input": "bjjd", "target": "比较简单"}
+{"input": "dkszhl", "target": "都快睡着了"}
+{"input": "rwwc", "target": "任务完成"}
+{"input": "btshd", "target": "把它删掉"}
+{"input": "ddty", "target": "大的太阳"}
+{"input": "tybs", "target": "他又不是"}
+{"input": "nwxshj", "target": "那我先睡觉"}
+{"input": "dydq", "target": "电影大全"}
+{"input": "xzzzsm", "target": "现在在做什么"}
+{"input": "nyshmzg", "target": "你有什么资格"}
+{"input": "jtyj", "target": "今天已经"}
+{"input": "smdwy", "target": "什么段位呀"}
+{"input": "ybln", "target": "也不理你"}
+{"input": "nzbhsh", "target": "脑子不好使"}
+{"input": "klyj", "target": "开了一局"}
+{"input": "gzyxw", "target": "关注一下我"}
+{"input": "jhgbsh", "target": "计划赶不上"}
+{"input": "gzhzb", "target": "关注主播"}
+{"input": "nwhq", "target": "那我回去"}
+{"input": "shtyd", "target": "手头有点"}
+{"input": "kychsh", "target": "可以尝试"}
+{"input": "dddxf", "target": "大胆的想法"}
+{"input": "xypf", "target": "想要皮肤"}
+{"input": "zmnmd", "target": "怎么那么多"}
+{"input": "hyyzh", "target": "还有一种"}
+{"input": "ggdl", "target": "刚刚打了"}
+{"input": "wdmsh", "target": "我都没说"}
+{"input": "rhjy", "target": "然后惊艳"}
+{"input": "jdhj", "target": "几点回家"}
+{"input": "lgrzyq", "target": "两个人在一起"}
+{"input": "jdmsm", "target": "觉得没什么"}
+{"input": "jxbl", "target": "就下班了"}
+{"input": "wjsb", "target": "我就随便"}
+{"input": "sngs", "target": "谁能告诉"}
+{"input": "cshzzy", "target": "才是最重要"}
+{"input": "xhzz", "target": "喜欢这种"}
+{"input": "zxmyd", "target": "这些没用的"}
+{"input": "xzsy", "target": "现在生意"}
+{"input": "bxhpz", "target": "不喜欢拍照"}
+{"input": "nzshbsh", "target": "脑子是不是"}
+{"input": "zjqc", "target": "早就起床"}
+{"input": "bchfm", "target": "不吃饭吗"}
+{"input": "hgyjy", "target": "寒光遇骄阳"}
+{"input": "sklm", "target": "上课了吗"}
+{"input": "ymssm", "target": "也没说什么"}
+{"input": "shmxf", "target": "什么想法"}
+{"input": "zynr", "target": "主要内容"}
+{"input": "ddshmys", "target": "到底什么意思"}
+{"input": "trgj", "target": "突然感觉"}
+{"input": "hyshjm", "target": "还有时间吗"}
+{"input": "zhmzy", "target": "这么早呀"}
+{"input": "kqgg", "target": "看群公告"}
+{"input": "wsym", "target": "我是一名"}
+{"input": "rhhy", "target": "然后还有"}
+{"input": "tpfg", "target": "图片发给"}
+{"input": "dshnj", "target": "到时候你就"}
+{"input": "ggchq", "target": "刚刚出去"}
+{"input": "yxjx", "target": "一下就行"}
+{"input": "yjjn", "target": "已经加你"}
+{"input": "shjzm", "target": "手机怎么"}
+{"input": "rhjtg", "target": "然后截图给"}
+{"input": "wbnh", "target": "我比你还"}
+{"input": "gnkyg", "target": "给你看一个"}
+{"input": "njgg", "target": "那就尴尬"}
+{"input": "ztjdshd", "target": "昨天几点睡的"}
+{"input": "jswm", "target": "就是我们"}
+{"input": "cghz", "target": "抽根华子"}
+{"input": "ymyyqw", "target": "有没有一起玩"}
+{"input": "lnjsc", "target": "六年级上册"}
+{"input": "ychbdl", "target": "也差不多了"}
+{"input": "jdhq", "target": "几点回去"}
+{"input": "bnchr", "target": "被你传染"}
+{"input": "jjnj", "target": "结局难讲"}
+{"input": "dmxsl", "target": "大冒险输了"}
+{"input": "myrpw", "target": "没有人陪我"}
+{"input": "tmmyx", "target": "汤姆猫英雄"}
+{"input": "hshcq", "target": "还是从前"}
+{"input": "zlsnl", "target": "这里是哪里"}
+{"input": "kshxz", "target": "可是现在"}
+{"input": "zhbyd", "target": "这边有点"}
+{"input": "dshwbx", "target": "但是我不想"}
+{"input": "sbshshy", "target": "是不是傻呀"}
+{"input": "yjkshl", "target": "已经开始了"}
+{"input": "shwhs", "target": "上午还是"}
+{"input": "wxqsh", "target": "我先去刷"}
+{"input": "hshbj", "target": "还是比较"}
+{"input": "mtjq", "target": "明天就去"}
+{"input": "hthc", "target": "还挺好吃"}
+{"input": "sbspl", "target": "是不是飘了"}
+{"input": "yshmhch", "target": "有什么好处"}
+{"input": "mtnhy", "target": "明天你还要"}
+{"input": "yjzdl", "target": "已经知道了"}
+{"input": "xzmd", "target": "下这么大"}
+{"input": "ydgm", "target": "有点感冒"}
+{"input": "bxlbx", "target": "不行了不行"}
+{"input": "gnshm", "target": "关你什么"}
+{"input": "syny", "target": "所以你要"}
+{"input": "wqsks", "target": "我去刷快手"}
+{"input": "dlxt", "target": "倒立洗头"}
+{"input": "shkshq", "target": "刷快手去"}
+{"input": "tmsl", "target": "他们说了"}
+{"input": "fqgl", "target": "发钱过来"}
+{"input": "dzsy", "target": "的知识又"}
+{"input": "zhdshm", "target": "这都什么"}
+{"input": "sshhhq", "target": "啥时候回去"}
+{"input": "xzsj", "target": "现在手机"}
+{"input": "wshmshsh", "target": "我什么时候说"}
+{"input": "chdyf", "target": "穿点衣服"}
+{"input": "knzp", "target": "看你照片"}
+{"input": "zjdsq", "target": "自己的事情"}
+{"input": "wbwz", "target": "我把王者"}
+{"input": "rsdj", "target": "认识多久"}
+{"input": "bwchj", "target": "不玩吃鸡"}
+{"input": "shcng", "target": "上次那个"}
+{"input": "rhjm", "target": "然后就没"}
+{"input": "dwww", "target": "等我玩完"}
+{"input": "xzzhbq", "target": "现在准备去"}
+{"input": "cdbw", "target": "差点把我"}
+{"input": "smshxl", "target": "什么时候下来"}
+{"input": "xhwshm", "target": "喜欢玩什么"}
+{"input": "ttms", "target": "听他们说"}
+{"input": "gnmkg", "target": "给你们看个"}
+{"input": "gcyr", "target": "刚才有人"}
+{"input": "hmyxw", "target": "还没有写完"}
+{"input": "wmqw", "target": "我们去玩"}
+{"input": "xzzcsh", "target": "现在在车上"}
+{"input": "dyxfg", "target": "等一下发给"}
+{"input": "shghdf", "target": "是个好地方"}
+{"input": "bsywjmc", "target": "不是因为寂寞才"}
+{"input": "zgsjsh", "target": "这个世界上"}
+{"input": "xzmzj", "target": "现在没在家"}
+{"input": "xzmyq", "target": "现在没有钱"}
+{"input": "myrg", "target": "没有如果"}
+{"input": "yjszhl", "target": "已经睡着了"}
+{"input": "hssjb", "target": "还是睡觉吧"}
+{"input": "zjhsh", "target": "在家还是"}
+{"input": "shgnsh", "target": "是个女生"}
+{"input": "zhjjb", "target": "直接举报"}
+{"input": "zykyl", "target": "这样可以了"}
+{"input": "txnyx", "target": "提醒你一下"}
+{"input": "hjmkd", "target": "好久没看到"}
+{"input": "wsyd", "target": "猥琐一点"}
+{"input": "zbhzhch", "target": "这不很正常"}
+{"input": "xxshgd", "target": "谢谢帅哥的"}
+{"input": "dsng", "target": "的是哪个"}
+{"input": "mthz", "target": "明天或者"}
+{"input": "kyjhy", "target": "可以加好友"}
+{"input": "yzmgw", "target": "验证码给我"}
+{"input": "jcql", "target": "就出去了"}
+{"input": "rhwt", "target": "任何问题"}
+{"input": "nmzhs", "target": "你们这是"}
+{"input": "dygw", "target": "答应过我"}
+{"input": "nxshj", "target": "你想删就"}
+{"input": "wqkks", "target": "我去看快手"}
+{"input": "kyksl", "target": "可以开始了"}
+{"input": "shghh", "target": "是个憨憨"}
+{"input": "dlgdh", "target": "打了个电话"}
+{"input": "yzhbx", "target": "有种不祥"}
+{"input": "hdsb", "target": "还得上班"}
+{"input": "jrtgqb", "target": "就让它过去吧"}
+{"input": "ssqk", "target": "是啥情况"}
+{"input": "zhpfgw", "target": "照片发给我"}
+{"input": "lgby", "target": "路过不要"}
+{"input": "bksj", "target": "别看手机"}
+{"input": "zhyyysm", "target": "这样有意思吗"}
+{"input": "hyxz", "target": "还要洗澡"}
+{"input": "dshrj", "target": "都是人机"}
+{"input": "gwfyy", "target": "给我发语音"}
+{"input": "bbzj", "target": "别把自己"}
+{"input": "nmkk", "target": "你们看看"}
+{"input": "bgnshlm", "target": "不跟你说了吗"}
+{"input": "lglx", "target": "留个联系"}
+{"input": "bbshm", "target": "逼逼什么"}
+{"input": "zhhdx", "target": "找海底小"}
+{"input": "sbsbyw", "target": "是不是不要我"}
+{"input": "zjxlm", "target": "自己心里没"}
+{"input": "jycj", "target": "就要吃鸡"}
+{"input": "xzysj", "target": "现在要睡觉"}
+{"input": "wdshg", "target": "我都说过"}
+{"input": "zsshmbq", "target": "这是什么表情"}
+{"input": "njpg", "target": "你截屏给"}
+{"input": "spfg", "target": "视频发给"}
+{"input": "wyjj", "target": "我已经加"}
+{"input": "swkc", "target": "是我看错"}
+{"input": "rgsj", "target": "如果时间"}
+{"input": "zjmd", "target": "自己买的"}
+{"input": "mtkn", "target": "明天可能"}
+{"input": "dshth", "target": "单身挺好"}
+{"input": "ywmy", "target": "因为没有"}
+{"input": "dwzhmh", "target": "对我这么好"}
+{"input": "rhgx", "target": "任何关系"}
+{"input": "kygsn", "target": "可以告诉你"}
+{"input": "dwfz", "target": "对我负责"}
+{"input": "ymywt", "target": "有没有问题"}
+{"input": "hyjb", "target": "还要加班"}
+{"input": "xfds", "target": "学费多少"}
+{"input": "sgrc", "target": "是个人才"}
+{"input": "zhdlyg", "target": "找到了一个"}
+{"input": "jxgl", "target": "就习惯了"}
+{"input": "wzhby", "target": "我这边也"}
+{"input": "zhjdhy", "target": "之间的回忆"}
+{"input": "lbql", "target": "猎豹清理"}
+{"input": "ydyzhg", "target": "一定要照顾"}
+{"input": "jdqxx", "target": "几点去学校"}
+{"input": "zfgw", "target": "再发给我"}
+{"input": "wsxx", "target": "我说谢谢"}
+{"input": "zhpgn", "target": "照片给你"}
+{"input": "fxgm", "target": "放心购买"}
+{"input": "hstnq", "target": "还是太年轻"}
+{"input": "xxgt", "target": "信息给他"}
+{"input": "bymzd", "target": "不要面子的"}
+{"input": "zzdgw", "target": "在座的各位"}
+{"input": "yhtxl", "target": "又换头像了"}
+{"input": "hdmy", "target": "好点没有"}
+{"input": "wkchl", "target": "我看出来"}
+{"input": "wgcchq", "target": "我刚才出去"}
+{"input": "dtnl", "target": "的太难了"}
+{"input": "ydyjz", "target": "一定要记住"}
+{"input": "yyshl", "target": "也要睡了"}
+{"input": "sjbsh", "target": "手机被收"}
+{"input": "ymyshb", "target": "有没有上班"}
+{"input": "jdwm", "target": "觉得我们"}
+{"input": "bgnml", "target": "不跟你们聊"}
+{"input": "dsbr", "target": "都是别人"}
+{"input": "zhmkl", "target": "这么可怜"}
+{"input": "zhdzshsm", "target": "知道这是什么"}
+{"input": "zmsy", "target": "怎么使用"}
+{"input": "wqng", "target": "我去拿个"}
+{"input": "whwgm", "target": "我和我闺蜜"}
+{"input": "sdhk", "target": "速度很快"}
+{"input": "nmmt", "target": "你们明天"}
+{"input": "hlyj", "target": "后来遇见"}
+{"input": "ydshbd", "target": "有点舍不得"}
+{"input": "qshksh", "target": "去刷快手"}
+{"input": "shmdwl", "target": "什么段位了"}
+{"input": "rhwsh", "target": "然后晚上"}
+{"input": "wtcq", "target": "我退出去"}
+{"input": "zdbzd", "target": "知道不知道"}
+{"input": "gcchq", "target": "刚才出去"}
+{"input": "chlfmy", "target": "吃了饭没有"}
+{"input": "shcnl", "target": "是从哪里"}
+{"input": "nmnsh", "target": "你们女生"}
+{"input": "rgnm", "target": "如果你们"}
+{"input": "wjjjd", "target": "我就静静的"}
+{"input": "dsqm", "target": "多少钱买"}
+{"input": "mybj", "target": "没有倍镜"}
+{"input": "grrw", "target": "个人认为"}
+{"input": "hshdz", "target": "还是打字"}
+{"input": "dlyj", "target": "打了一局"}
+{"input": "yyds", "target": "永远都是"}
+{"input": "zmbjd", "target": "怎么不记得"}
+{"input": "jdhsh", "target": "觉得合适"}
+{"input": "zgshmy", "target": "在干什么呀"}
+{"input": "wwlsl", "target": "我无聊死了"}
+{"input": "wybzhdzhs", "target": "我也不知道咋回事"}
+{"input": "nmyby", "target": "你们要不要"}
+{"input": "bxlbxl", "target": "不行了不行了"}
+{"input": "bxnssh", "target": "不信你试试"}
+{"input": "kmkm", "target": "开麦开麦"}
+{"input": "lbzm", "target": "老板在吗"}
+{"input": "qzshp", "target": "茄子视频"}
+{"input": "znqchsj", "target": "祝你前程似锦"}
+{"input": "ngwfgl", "target": "你给我发过来"}
+{"input": "drshzd", "target": "当然是真的"}
+{"input": "fkdsc", "target": "疯狂地鼠城"}
+{"input": "nzfyb", "target": "你再发一遍"}
+{"input": "wszmxd", "target": "我是这么想的"}
+{"input": "wdtbd", "target": "我都听不懂"}
+{"input": "whzcf", "target": "我还在吃饭"}
+{"input": "lgym", "target": "来个瑶妹"}
+{"input": "wxzshx", "target": "我现在上线"}
+{"input": "qqgk", "target": "全球高考"}
+{"input": "zdbnfxl", "target": "这都被你发现了"}
+{"input": "fqxs", "target": "番茄小说"}
+{"input": "gjchh", "target": "赶紧撤回"}
+{"input": "ybyyqw", "target": "要不要一起玩"}
+{"input": "wmzdl", "target": "我没子弹了"}
+{"input": "hyldwzry", "target": "欢迎来到王者荣耀"}
+{"input": "hmchw", "target": "还没吃完"}
+{"input": "nsmshqxx", "target": "你什么时候去学校"}
+{"input": "wshszd", "target": "我是说真的"}
+{"input": "chmyl", "target": "车没油了"}
+{"input": "wxwzl", "target": "我洗完澡了"}
+{"input": "chdql", "target": "充电去了"}
+{"input": "qxkdl", "target": "七夕快到了"}
+{"input": "wmtjkxl", "target": "我明天就开学了"}
+{"input": "hyhl", "target": "欢迎回来"}
+{"input": "tnshd", "target": "挺难受的"}
+{"input": "rgshzy", "target": "如果是这样"}
+{"input": "nbnkyd", "target": "能不能快一点"}
+{"input": "nkyxm", "target": "你看一下嘛"}
+{"input": "wybsbzd", "target": "我又不是不知道"}
+{"input": "wsjymdl", "target": "我手机要没电了"}
+{"input": "wjbshl", "target": "我就不说了"}
+{"input": "wwlt", "target": "我问了他"}
+{"input": "lztg", "target": "量子特工"}
+{"input": "jttml", "target": "今天太忙了"}
+{"input": "ygqj", "target": "一个奇迹"}
+{"input": "whmxbn", "target": "我还没下班呢"}
+{"input": "mtshx", "target": "明天上学"}
+{"input": "ydjd", "target": "有点激动"}
+{"input": "ngzhwyx", "target": "你关注我一下"}
+{"input": "ztbb", "target": "整天叭叭"}
+{"input": "zdtnl", "target": "真的太难了"}
+{"input": "xshdhh", "target": "心上的花火"}
+{"input": "xxndmz", "target": "谢谢你的美赞"}
+{"input": "kgcch", "target": "酷狗唱唱"}
+{"input": "njshnld", "target": "你家是哪里的"}
+{"input": "gjzy", "target": "感觉咋样"}
+{"input": "msmdbld", "target": "没什么大不了的"}
+{"input": "fzwybzd", "target": "反正我也不知道"}
+{"input": "wpbyr", "target": "我旁边有人"}
+{"input": "nchhlsm", "target": "你撤回了什么"}
+{"input": "nbdrnl", "target": "那不打扰你了"}
+{"input": "wsmzmsn", "target": "为什么这么说呢"}
+{"input": "rhml", "target": "然后没了"}
+{"input": "wflnl", "target": "我服了你了"}
+{"input": "wbqzgn", "target": "我把钱转给你"}
+{"input": "wtshxl", "target": "我太伤心了"}
+{"input": "cjshc", "target": "菜就是菜"}
+{"input": "pnqch", "target": "叛逆青春"}
+{"input": "zyhmxw", "target": "作业还没写完"}
+{"input": "styj", "target": "身体要紧"}
+{"input": "dgwk", "target": "都给我哭"}
+{"input": "bcbw", "target": "边充边玩"}
+{"input": "wjbnsl", "target": "我就把你删了"}
+{"input": "wykdsh", "target": "我要看电视"}
+{"input": "xtzgg", "target": "小兔子乖乖"}
+{"input": "mtfj", "target": "明天放假"}
+{"input": "nbxdy", "target": "那必须的呀"}
+{"input": "dchdyf", "target": "多穿点衣服"}
+{"input": "bwgmb", "target": "帮我个忙呗"}
+{"input": "zzjshrkl", "target": "祝自己生日快乐"}
+{"input": "wdbjdl", "target": "我都不记得了"}
+{"input": "rgbcywdh", "target": "如果不出意外的话"}
+{"input": "nxkyb", "target": "你先开一把"}
+{"input": "dwxz", "target": "电玩小子"}
+{"input": "wjdbhk", "target": "我觉得不好看"}
+{"input": "nxqcfb", "target": "你先去吃饭吧"}
+{"input": "sjshy", "target": "视觉盛宴"}
+{"input": "brwygrfd", "target": "别让我一个人疯掉"}
+{"input": "wmsgr", "target": "我们三个人"}
+{"input": "gkdxx", "target": "刚看到信息"}
+{"input": "wbzhdzmn", "target": "我不知道怎么弄"}
+{"input": "shgshhzh", "target": "曙光守护者"}
+{"input": "fhhk", "target": "发货很快"}
+{"input": "gjzb", "target": "赶紧走吧"}
+{"input": "wxzhql", "target": "我现在回去了"}
+{"input": "njdwhxm", "target": "你觉得我会信吗"}
+{"input": "bjsfb", "target": "不接受反驳"}
+{"input": "msmgj", "target": "没什么感觉"}
+{"input": "nnxzzgmn", "target": "那你现在在干嘛呢"}
+{"input": "bljsy", "target": "本来就是呀"}
+{"input": "wdnqps", "target": "我带你去爬山"}
+{"input": "brfgwd", "target": "别人发给我的"}
+{"input": "nsjd", "target": "那是假的"}
+{"input": "ydydmy", "target": "一点用都没有"}
+{"input": "gwygxm", "target": "跟我有关系吗"}
+{"input": "mxdzht", "target": "明星大侦探"}
+{"input": "ydkx", "target": "有点可惜"}
+{"input": "yjhbcl", "target": "已经很不错了"}
+{"input": "sybshl", "target": "啥也不说了"}
+{"input": "dkyb", "target": "都可以吧"}
+{"input": "yrdyxm", "target": "有人打游戏吗"}
+{"input": "wshsmlm", "target": "我说什么了吗"}
+{"input": "dgydj", "target": "大概要多久"}
+{"input": "rhwjzl", "target": "然后我就走了"}
+{"input": "rjzd", "target": "人间值得"}
+{"input": "wzdnsshl", "target": "我知道你是谁了"}
+{"input": "xgzhsfy", "target": "小公主苏菲亚"}
+{"input": "nyfjm", "target": "你有腹肌吗"}
+{"input": "hxgsh", "target": "和谐共生"}
+{"input": "njbql", "target": "那就不去了"}
+{"input": "nzjwzsm", "target": "你在教我做事吗"}
+{"input": "zyyh", "target": "昼夜烟花"}
+{"input": "nzshmdf", "target": "你在什么地方"}
+{"input": "nyshmshm", "target": "你有什么事吗"}
+{"input": "wmwx", "target": "我没微信"}
+{"input": "jtzhyt", "target": "今天最后一天"}
+{"input": "dshxd", "target": "都是兄弟"}
+{"input": "bhfz", "target": "不会辅助"}
+{"input": "nnhdwsh", "target": "那女孩对我说"}
+{"input": "yqqpsm", "target": "一起去爬山吗"}
+{"input": "zdlmy", "target": "找到了没有"}
+{"input": "xxxjj", "target": "谢谢小姐姐"}
+{"input": "wlznw", "target": "我来找你玩"}
+{"input": "tbgw", "target": "他不给我"}
+{"input": "kjbb", "target": "快叫爸爸"}
+{"input": "kwdndh", "target": "看我对你多好"}
+{"input": "hchrdtw", "target": "火柴人大逃亡"}
+{"input": "nzhbshfhm", "target": "你这不是废话吗"}
+{"input": "fyqm", "target": "法医秦明"}
+{"input": "wshjqfl", "target": "我手机欠费了"}
+{"input": "shmshqd", "target": "什么时候去的"}
+{"input": "wxzxbl", "target": "我现在下班了"}
+{"input": "rhjkyl", "target": "然后就可以了"}
+{"input": "bfbjdh", "target": "不方便接电话"}
+{"input": "ygbyb", "target": "应该不用吧"}
+{"input": "xlkm", "target": "下来开门"}
+{"input": "jtfgl", "target": "截图发过来"}
+{"input": "ncly", "target": "你出来呀"}
+{"input": "yqyq", "target": "一起一起"}
+{"input": "jtwkk", "target": "截图我看看"}
+{"input": "dhdh", "target": "等会等会"}
+{"input": "nyzhjm", "target": "你有证据吗"}
+{"input": "wfgql", "target": "我发过去了"}
+{"input": "nwdym", "target": "你玩抖音吗"}
+{"input": "chsdyy", "target": "成双荡悠悠"}
+{"input": "swhsxw", "target": "上午还是下午"}
+{"input": "byzfl", "target": "不要再发了"}
+{"input": "kycd", "target": "可以吃的"}
+{"input": "hshnjwb", "target": "还是你加我吧"}
+{"input": "mrgzjh", "target": "明日工作计划"}
+{"input": "qdyp", "target": "穷的一批"}
+{"input": "jtxqt", "target": "今天星期天"}
+{"input": "tmyhw", "target": "他没有回我"}
+{"input": "yjdzhbkl", "target": "眼睛都睁不开了"}
+{"input": "wcshx", "target": "我才睡醒"}
+{"input": "ggcs", "target": "公共厕所"}
+{"input": "zmbzmb", "target": "怎么办怎么办"}
+{"input": "nhzwm", "target": "你还在玩吗"}
+{"input": "syfd", "target": "深夜放毒"}
+{"input": "wdgzdx", "target": "我的公主殿下"}
+{"input": "wbcql", "target": "我不出去了"}
+{"input": "ggdjsbr", "target": "尴尬的就是别人"}
+{"input": "shbshxwl", "target": "是不是想我了"}
+{"input": "wghdj", "target": "我刚回到家"}
+{"input": "thjl", "target": "他回家了"}
+{"input": "ykjzd", "target": "一看就知道"}
+{"input": "tbdrhm", "target": "听不懂人话吗"}
+{"input": "wybzdzml", "target": "我也不知道怎么了"}
+{"input": "hzshjm", "target": "还在睡觉吗"}
+{"input": "wqzjl", "target": "我去追剧了"}
+{"input": "kygswm", "target": "可以告诉我吗"}
+{"input": "ggzsj", "target": "刚刚在睡觉"}
+{"input": "smtx", "target": "什么头像"}
+{"input": "yqdyxm", "target": "一起打游戏吗"}
+{"input": "bthdm", "target": "不挺好的吗"}
+{"input": "fzbsw", "target": "反正不是我"}
+{"input": "wgghl", "target": "我刚刚回来"}
+{"input": "wyjtl", "target": "我已经退了"}
+{"input": "ndwlm", "target": "你打完了吗"}
+{"input": "dbsl", "target": "都别说了"}
+{"input": "kdtcl", "target": "快点退出来"}
+{"input": "xcmzhkydl", "target": "熊出没之狂野大陆"}
+{"input": "nbbl", "target": "那拜拜了"}
+{"input": "mshmml", "target": "没事慢慢来"}
+{"input": "nkyqkk", "target": "你可以去看看"}
+{"input": "kbbql", "target": "恐怖冰淇淋"}
+{"input": "zglgbycg", "target": "走过路过不要错过"}
+{"input": "ntwjb", "target": "你听我狡辩"}
+{"input": "gsnyjs", "target": "告诉你一件事"}
+{"input": "wsfy", "target": "猥琐发育"}
+{"input": "nnqshjb", "target": "那你去睡觉吧"}
+{"input": "nnbx", "target": "男女不限"}
+{"input": "bllnl", "target": "巴啦啦能量"}
+{"input": "wxzmq", "target": "我现在没钱"}
+{"input": "jddjd", "target": "几点到几点"}
+{"input": "zhbxxl", "target": "准备休息了"}
+{"input": "wyyk", "target": "我也要看"}
+{"input": "yttlj", "target": "倚天屠龙记"}
+{"input": "wshpq", "target": "我是佩奇"}
+{"input": "nnclm", "target": "你能出来吗"}
+{"input": "mtzkb", "target": "明天再看吧"}
+{"input": "wzgz", "target": "我在广州"}
+{"input": "zngdf", "target": "在哪个地方"}
+{"input": "zshbxy", "target": "暂时不需要"}
+{"input": "wshdshg", "target": "我是单身狗"}
+{"input": "nmfxm", "target": "你没发现吗"}
+{"input": "wyjzl", "target": "我已经走了"}
+{"input": "nddygm", "target": "你到底要干嘛"}
+{"input": "nlbshf", "target": "哪里不舒服"}
+{"input": "mtlx", "target": "明天联系"}
+{"input": "nygzd", "target": "你应该知道"}
+{"input": "nkdmy", "target": "你看到没有"}
+{"input": "wzhshh", "target": "王者上号"}
+{"input": "ssxn", "target": "甚是想念"}
+{"input": "wshjgjl", "target": "我手机关机了"}
+{"input": "dmyql", "target": "对面有情侣"}
+{"input": "mmzwh", "target": "妹妹中午好"}
+{"input": "ngwkk", "target": "你给我看看"}
+{"input": "lpzm", "target": "老婆在吗"}
+{"input": "szdhshjd", "target": "是真的还是假的"}
+{"input": "wysxzl", "target": "我有事先走了"}
+{"input": "nbdzfgw", "target": "你把地址发给我"}
+{"input": "bqrt", "target": "别抢人头"}
+{"input": "zhgbh", "target": "这个不好"}
+{"input": "tmshsh", "target": "他们是谁"}
+{"input": "yyjj", "target": "友谊久久"}
+{"input": "jshmq", "target": "就是没钱"}
+{"input": "wshmdms", "target": "我什么都没说"}
+{"input": "wzwwzh", "target": "我在玩王者"}
+{"input": "gghdj", "target": "刚刚回到家"}
+{"input": "nxlsm", "target": "你想聊什么"}
+{"input": "shqszyd", "target": "事情是这样的"}
+{"input": "shmrn", "target": "什么人呢"}
+{"input": "nyshjl", "target": "你要睡觉了"}
+{"input": "wzyxwl", "target": "我作业写完了"}
+{"input": "wzhdt", "target": "王者单挑"}
+{"input": "wbwwx", "target": "我不玩微信"}
+{"input": "wqznl", "target": "我去找你了"}
+{"input": "chdbc", "target": "唱的不错"}
+{"input": "qxzjfdzgl", "target": "去寻找减肥的朱古力"}
+{"input": "jsxnl", "target": "就是想你了"}
+{"input": "nhyll", "target": "你还有理了"}
+{"input": "nbsndm", "target": "你不是女的吗"}
+{"input": "xqbhdshh", "target": "心情不好的时候"}
+{"input": "bxpw", "target": "不许骗我"}
+{"input": "hshfk", "target": "还是分开"}
+{"input": "wtrfx", "target": "我突然发现"}
+{"input": "wymkd", "target": "我也没看到"}
+{"input": "wxxnd", "target": "我相信你的"}
+{"input": "ngllm", "target": "你过来了吗"}
+{"input": "njsj", "target": "那就睡觉"}
+{"input": "wjdxhql", "target": "我捡到信号枪了"}
+{"input": "wsdyql", "target": "我刷抖音去了"}
+{"input": "xydsq", "target": "需要多少钱"}
+{"input": "wjsww", "target": "我就是问问"}
+{"input": "zdxxl", "target": "早点休息了"}
+{"input": "zbngw", "target": "这不能怪我"}
+{"input": "zhwhmn", "target": "中午好美女"}
+{"input": "nkkzhg", "target": "你看看这个"}
+{"input": "jtshblm", "target": "今天上班了吗"}
+{"input": "hhxxyx", "target": "好好休息一下"}
+{"input": "njwshm", "target": "你叫我什么"}
+{"input": "nsbnb", "target": "那随便你吧"}
+{"input": "qshhh", "target": "其实还好"}
+{"input": "jttll", "target": "今天太累了"}
+{"input": "mtyky", "target": "明天也可以"}
+{"input": "zshdjj", "target": "这是第几集"}
+{"input": "jhwsx", "target": "家和万事兴"}
+{"input": "sygbj", "target": "谁有高倍镜"}
+{"input": "nmdqpnzdm", "target": "那么多期盼你知道吗"}
+{"input": "njgwsh", "target": "你就跟我说"}
+{"input": "zmzhmm", "target": "怎么这么慢"}
+{"input": "zghzhc", "target": "这个很正常"}
+{"input": "bzhdgsh", "target": "不知道干啥"}
+{"input": "jdzds", "target": "记得早点睡"}
+{"input": "bwdgz", "target": "帮我点个赞"}
+{"input": "fktzr", "target": "疯狂兔子人"}
+{"input": "wrbzl", "target": "我忍不住了"}
+{"input": "mdwt", "target": "没得问题"}
+{"input": "wmdjl", "target": "我们到家了"}
+{"input": "shtzzy", "target": "身体最重要"}
+{"input": "zmzmy", "target": "怎么怎么样"}
+{"input": "mrfz", "target": "明日方舟"}
+{"input": "zssmdf", "target": "这是什么地方"}
+{"input": "bjgzdr", "target": "拜见宫主大人"}
+{"input": "wnyjsh", "target": "问你一件事"}
+{"input": "yddbkl", "target": "一点都不快乐"}
+{"input": "xxngx", "target": "谢谢你关心"}
+{"input": "gwxt", "target": "搞我心态"}
+{"input": "bgnmll", "target": "不跟你们聊了"}
+{"input": "wjshwyx", "target": "我就是问一下"}
+{"input": "nkwlm", "target": "你看完了吗"}
+{"input": "wbnbc", "target": "我帮你报仇"}
+{"input": "xysq", "target": "肖烟四起"}
+{"input": "njwyx", "target": "你加我一下"}
+{"input": "whmxb", "target": "我还没下班"}
+{"input": "wxzhzwm", "target": "我现在还在外面"}
+{"input": "nnglb", "target": "那你过来吧"}
+{"input": "wyszhyd", "target": "我也是这样的"}
+{"input": "zlyy", "target": "咱俩一样"}
+{"input": "jgdsh", "target": "价格多少"}
+{"input": "nkdshf", "target": "你考多少分"}
+{"input": "wckj", "target": "我才看见"}
+{"input": "wbhwzhg", "target": "我不会玩这个"}
+{"input": "wtkll", "target": "我太可怜了"}
+{"input": "kyyqwm", "target": "可以一起玩吗"}
+{"input": "jwyyx", "target": "借我用一下"}
+{"input": "ygsdb", "target": "应该是的吧"}
+{"input": "pycj", "target": "炮爷出击"}
+{"input": "wmybf", "target": "我没有办法"}
+{"input": "ngswm", "target": "能告诉我吗"}
+{"input": "whmsjl", "target": "我号没时间了"}
+{"input": "zhsygbshdgs", "target": "这是一个悲伤的故事"}
+{"input": "hhshjmry", "target": "花花世界迷人眼"}
+{"input": "chwfzw", "target": "吃完饭再玩"}
+{"input": "zhynkxjh", "target": "只要你开心就好"}
+{"input": "njsdl", "target": "你就死定了"}
+{"input": "byzhym", "target": "不要这样嘛"}
+{"input": "dghz", "target": "电光耗子"}
+{"input": "lrynsdl", "target": "龙日一你死定了"}
+{"input": "chbdlb", "target": "差不多了吧"}
+{"input": "dmtb", "target": "等明天吧"}
+{"input": "cdyp", "target": "菜的一批"}
+{"input": "hhzxb", "target": "好好珍惜吧"}
+{"input": "nbysbm", "target": "你不用上班吗"}
+{"input": "wmspy", "target": "我们是朋友"}
+{"input": "wjychj", "target": "我就要吃鸡"}
+{"input": "nkwtx", "target": "你看我头像"}
+{"input": "dwdwzhb", "target": "等我打完这把"}
+{"input": "dtkp", "target": "地铁酷跑"}
+{"input": "wshnydrm", "target": "我是那样的人吗"}
+{"input": "nndwyx", "target": "那你等我一下"}
+{"input": "lgfzh", "target": "两个辅助"}
+{"input": "sdyjq", "target": "速度与激情"}
+{"input": "nbmlm", "target": "你报名了吗"}
+{"input": "yqjykn", "target": "一切皆有可能"}
+{"input": "nbdlm", "target": "你不打了吗"}
+{"input": "ygwtbd", "target": "应该问题不大"}
+{"input": "mlrr", "target": "面料柔软"}
+{"input": "bkyy", "target": "不可以呀"}
+{"input": "mblshd", "target": "买不了上当"}
+{"input": "ylpd", "target": "一律平等"}
+{"input": "wybdl", "target": "我也不打了"}
+{"input": "lgshsh", "target": "来个射手"}
+{"input": "fcdr", "target": "房产达人"}
+{"input": "wsdmy", "target": "我啥都没有"}
+{"input": "gccql", "target": "刚才出去了"}
+{"input": "wshjc", "target": "我是警察"}
+{"input": "zkkn", "target": "再看看你"}
+{"input": "qxqw", "target": "七夕青蛙"}
+{"input": "shmshshd", "target": "什么时候说的"}
+{"input": "dwhgh", "target": "等我换个号"}
+{"input": "qxqywrmfw", "target": "全心全意为人民服务"}
+{"input": "zjhhm", "target": "最近还好吗"}
+{"input": "djdzhd", "target": "大家都知道"}
+{"input": "mtqxj", "target": "明天七夕节"}
+{"input": "zshqbl", "target": "早上起不来"}
+{"input": "ysmhd", "target": "有什么好的"}
+{"input": "nwzb", "target": "那我咋办"}
+{"input": "ywwzhd", "target": "因为我知道"}
+{"input": "zzhjs", "target": "政治建设"}
+{"input": "dshnjzdl", "target": "到时候你就知道了"}
+{"input": "ysmqbm", "target": "有什么区别吗"}
+{"input": "nmjgr", "target": "你们几个人"}
+{"input": "bswdd", "target": "不是我打的"}
+{"input": "wybshgyd", "target": "我又不是故意的"}
+{"input": "gczsj", "target": "刚才在睡觉"}
+{"input": "nshmshhyk", "target": "你什么时候有空"}
+{"input": "bydq", "target": "不用道歉"}
+{"input": "zpzhp", "target": "照片照片"}
+{"input": "nwbyl", "target": "那我不要了"}
+{"input": "wxddh", "target": "我想打电话"}
+{"input": "wycl", "target": "我也吃了"}
+{"input": "wgjys", "target": "我感觉也是"}
+{"input": "wkbcl", "target": "我看不出来"}
+{"input": "ngdd", "target": "你个弟弟"}
+{"input": "cmbjx", "target": "春眠不觉晓"}
+{"input": "wxbsl", "target": "我先不说了"}
+{"input": "rhjmyl", "target": "然后就没有了"}
+{"input": "wxdwzh", "target": "我想打王者"}
+{"input": "nnddl", "target": "那你多大了"}
+{"input": "zdllp", "target": "知道了老婆"}
+{"input": "kyrshyxm", "target": "可以认识一下吗"}
+{"input": "bgxych", "target": "白高兴一场"}
+{"input": "nhchbd", "target": "那还差不多"}
+{"input": "bylp", "target": "不要乱跑"}
+{"input": "yhhhsh", "target": "有话好好说"}
+{"input": "wzzs", "target": "歪嘴战神"}
+{"input": "dwzll", "target": "到我这里来"}
+{"input": "jdds", "target": "记得带伞"}
+{"input": "zshqn", "target": "左手牵你"}
+{"input": "wqcc", "target": "我去瞅瞅"}
+{"input": "dlzs", "target": "到了再说"}
+{"input": "wxzcll", "target": "我现在出来了"}
+{"input": "njmtb", "target": "那就明天吧"}
+{"input": "nsmshhhq", "target": "你什么时候回去"}
+{"input": "xjcblrdf", "target": "心急吃不了热豆腐"}
+{"input": "wbzhdzn", "target": "我不知道在哪"}
+{"input": "wszhn", "target": "我是渣男"}
+{"input": "wltkl", "target": "网络太卡了"}
+{"input": "nmgm", "target": "你们干嘛"}
+{"input": "xczw", "target": "下次再玩"}
+{"input": "nddwbw", "target": "你到底玩不玩"}
+{"input": "xztrl", "target": "现在太热了"}
+{"input": "wzwshj", "target": "我在玩手机"}
+{"input": "xwhmn", "target": "下午好美女"}
+{"input": "ggydsh", "target": "刚刚有点事"}
+{"input": "tmdzl", "target": "他们都走了"}
+{"input": "nxwzylm", "target": "你写完作业了吗"}
+{"input": "pgwkyx", "target": "拍给我看一下"}
+{"input": "yqdhhqld", "target": "一切都会好起来的"}
+{"input": "wzls", "target": "我在拉屎"}
+{"input": "wfxygwt", "target": "我发现一个问题"}
+{"input": "wjnbb", "target": "我叫你爸爸"}
+{"input": "wzxsh", "target": "我只想说"}
+{"input": "whyyg", "target": "我还有一个"}
+{"input": "hdmwt", "target": "好的没问题"}
+{"input": "fsygtm", "target": "分手应该体面"}
+{"input": "tkswls", "target": "天空是蔚蓝色"}
+{"input": "bxjshbx", "target": "不行就是不行"}
+{"input": "gsnyghxx", "target": "告诉你一个好消息"}
+{"input": "kdzhb", "target": "快点准备"}
+{"input": "njzys", "target": "你就这样说"}
+{"input": "whmycf", "target": "我还没有吃饭"}
+{"input": "zydjl", "target": "终于到家了"}
+{"input": "gcmkj", "target": "刚才没看见"}
+{"input": "wyzx", "target": "我也在想"}
+{"input": "bybby", "target": "不要白不要"}
+{"input": "chjhc", "target": "超级好吃"}
+{"input": "yqmmdgg", "target": "元气满满的哥哥"}
+{"input": "nwbshl", "target": "那我不说了"}
+{"input": "kkzmy", "target": "看看怎么样"}
+{"input": "mkxx", "target": "没看信息"}
+{"input": "zhshzgm", "target": "这是在干嘛"}
+{"input": "wmshdjl", "target": "我马上到家了"}
+{"input": "nddlbl", "target": "你到底来不来"}
+{"input": "wsxjj", "target": "我是小姐姐"}
+{"input": "wbxzhl", "target": "我被限制了"}
+{"input": "ybqkx", "target": "一般情况下"}
+{"input": "wjbdrl", "target": "我就不打扰了"}
+{"input": "wyjds", "target": "我也觉得是"}
+{"input": "nxzznln", "target": "你现在在哪里呢"}
+{"input": "wzyyg", "target": "我只有一个"}
+{"input": "xdth", "target": "心得体会"}
+{"input": "kdfgw", "target": "快点发给我"}
+{"input": "jdwmsh", "target": "就当我没说"}
+{"input": "zhbfhm", "target": "这不废话吗"}
+{"input": "nzshmgzd", "target": "你做什么工作的"}
+{"input": "jqqd", "target": "敬请期待"}
+{"input": "nwxshjl", "target": "那我先睡觉了"}
+{"input": "thkdy", "target": "挺好看的呀"}
+{"input": "znlmd", "target": "在哪里买的"}
+{"input": "wxzgll", "target": "我现在过来了"}
+{"input": "nfgwzhgw", "target": "你发个位置给我"}
+{"input": "wssdz", "target": "我随时都在"}
+{"input": "nbyjy", "target": "你不要介意"}
+{"input": "zhgmwt", "target": "这个没问题"}
+{"input": "kybkq", "target": "可遇不可求"}
+{"input": "hxjzg", "target": "核心价值观"}
+{"input": "sbnzmx", "target": "随便你怎么想"}
+{"input": "nngb", "target": "那你滚吧"}
+{"input": "twqh", "target": "土味情话"}
+{"input": "sbfd", "target": "随便发的"}
+{"input": "ngdsg", "target": "你个单身狗"}
+{"input": "shjmydl", "target": "手机没有电了"}
+{"input": "nncfb", "target": "那你吃饭吧"}
+{"input": "wdtfsh", "target": "我对天发誓"}
+{"input": "nslgxdm", "target": "你是来搞笑的吗"}
+{"input": "gtjb", "target": "共同进步"}
+{"input": "wbnkyx", "target": "我帮你看一下"}
+{"input": "tdxl", "target": "他掉线了"}
+{"input": "wyts", "target": "我要投诉"}
+{"input": "zwhy", "target": "中午好呀"}
+{"input": "xxnr", "target": "学习内容"}
+{"input": "whzsj", "target": "我还在睡觉"}
+{"input": "zcshtzn", "target": "在床上躺着呢"}
+{"input": "nzfyx", "target": "你再发一下"}
+{"input": "wdmshshm", "target": "我都没说什么"}
+{"input": "gtxyj", "target": "滚筒洗衣机"}
+{"input": "xzhjl", "target": "现在回家了"}
+{"input": "ntwsh", "target": "你听我说"}
+{"input": "zbzdbkn", "target": "这辈子都不可能"}
+{"input": "bnzdl", "target": "不能再多了"}
+{"input": "wxwx", "target": "微信微信"}
+{"input": "tdblw", "target": "他都不理我"}
+{"input": "xjbhg", "target": "性价比很高"}
+{"input": "wxzhll", "target": "我现在回来了"}
+{"input": "zysmd", "target": "这有什么的"}
+{"input": "ygnb", "target": "应该能吧"}
