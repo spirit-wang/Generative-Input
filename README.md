@@ -1,8 +1,9 @@
 #  Generative Input
-Here is the datasets accompanying the paper [Generative Input: Towards Next-Generation Input Methods Paradigm.](https://browse.arxiv.org/abs/2311.01166)
+Here is the datasets accompanying the paper [Generative Input: Towards Next-Generation Input Methods Paradigm.]
 * __XF-Datasets__: We built this dataset to evaluate three typical tasks in input methods. Here, we provide the full test set and part of the training set.
-    * we constructed test sets for IntelAssoc and ConvAssist with 2K samples each for manual evaluation. For the evaluation of FK2C effects under different keyboards of 26-key and 9-key, we constructed a test set of 57K, covering different input modes such as perfect pinyin, abbreviated pinyin, random abbreviated pinyin, and noisy input with different error types. 
-* __PDTP__: PD dataset and TP dataset are publicly available datasets commonly used to evaluate the P2C effect of input methods. We obtain this test set from [OpenIME](https://github.com/cooelf/OpenIME?tab=readme-ov-file) and fix part of the phonetic notation issues
+    * we constructed test sets for IntelAssoc and ConvAssist with 2K samples each for manual evaluation. For the evaluation of FK2C effects under different keyboards of 26-key and 9-key, we constructed a test set of 57K, covering different input modes such as perfect pinyin, abbreviated pinyin, random abbreviated pinyin, and noisy input with different error types.
+    * We built millions of training data for each of the three tasks. Here, we sample hundreds of thousands of data per task.
+* __PDTP__: PD dataset and TP dataset are publicly available datasets commonly used to evaluate the P2C effect of input methods. We obtain this test set from [OpenIME](https://github.com/cooelf/OpenIME?tab=readme-ov-file) and fix part of the phonetic notation issues.
 
 ##  Tasks and data examples    
   An example of each subtask is as follows.
@@ -15,13 +16,3 @@ Here is the datasets accompanying the paper [Generative Input: Towards Next-Gene
 ##  Code and model
   We are based on the [iFlytekSpark](https://gitee.com/iflytekopensource) for development, the relevant code and model have been open source.
 
-##  Reference
-  If you use this repo please cite our paper:
-  >   @misc{ding2023generative,
-      title={Generative Input: Towards Next-Generation Input Methods Paradigm}, 
-      author={Keyu Ding and Yongcan Wang and Zihang Xu and Zhenzhen Jia and Shijin Wang and Cong Liu and Enhong Chen},
-      year={2023},
-      eprint={2311.01166},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
